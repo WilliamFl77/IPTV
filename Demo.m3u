@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="LAT | CINEMAX V.I.P." tvg-logo="http://svtv.xyz:8000/images/18c234e60a3dc89fa4b4176e3d37d080.png" group-title="PREMIUM LATINO",LAT | CINEMAX V.I.P.
+http://svtv.xyz:8080/PMP30D35/KMUQZ/31014
+#EXTINF:-1 tvg-id="" tvg-name="LAT | CINECANAL V.I.P." tvg-logo="http://svtv.xyz:8000/images/a0bd0b2b983bc4f3baa99632d5f9c36c.png" group-title="PREMIUM LATINO",LAT | CINECANAL V.I.P.
+http://svtv.xyz:8080/PMP30D35/KMUQZ/31016
+#EXTINF:-1 tvg-id="" tvg-name="LAT | WARNER TV NORTE V.I.P." tvg-logo="http://serviciosvisuales.ga:25461/images/9724076cceed4c18d42e04d6157f0e54.png" group-title="PREMIUM LATINO",LAT | WARNER TV NORTE V.I.P.
+http://svtv.xyz:8080/PMP30D35/KMUQZ/31026
+#EXTINF:-1 tvg-id="" tvg-name="LAT | A&E V.I.P." tvg-logo="http://svtv.xyz:8000/images/d6c69f64082f75c962dcfadecbbbc339.png" group-title="PREMIUM LATINO",LAT | A&E V.I.P.
+http://svtv.xyz:8080/PMP30D35/KMUQZ/31034
+#EXTINF:-1 tvg-id="" tvg-name="LAT | PARAMOUNT NETWORK V.I.P" tvg-logo="http://svtv.xyz:8000/images/01ba5107c29021d98d6a8ca5ea316972.png" group-title="PREMIUM LATINO",LAT | PARAMOUNT NETWORK V.I.P
+http://svtv.xyz:8080/PMP30D35/KMUQZ/31042
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 SUR V.I.P." tvg-logo="http://svtv.xyz:8000/images/637ca4da63b0295353b15f6bfe7a6ad6.png" group-title="HBO CANALES",HBO 2 SUR V.I.P.
+http://svtv.xyz:8080/PMP30D35/KMUQZ/30970
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER V.I.P." tvg-logo="http://svtv.xyz:8000/images/092558c40d2000b3fe3e19a270ae9da9.png" group-title="DISCOVERY'S",DISCOVERY THEATER V.I.P.
+http://svtv.xyz:8080/PMP30D35/KMUQZ/31052
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H NORTE V.I.P" tvg-logo="http://svtv.xyz:8000/images/fcd8f69a6e6e13eac99d7278428610c8.png" group-title="DISCOVERY'S",DISCOVERY H&H NORTE V.I.P
+http://svtv.xyz:8080/PMP30D35/KMUQZ/31064
+#EXTINF:-1 tvg-id="" tvg-name="CUL | HISTORY NORTE 1 V.I.P" tvg-logo="http://svtv.xyz:8000/images/43f1ac6263ded5b136c8c5db73c73c6c.png" group-title="CULTURA",CUL | HISTORY NORTE 1 V.I.P
+http://svtv.xyz:8080/PMP30D35/KMUQZ/31056
+#EXTINF:-1 tvg-id="" tvg-name="INF | NICKELODEON V.I.P." tvg-logo="http://svtv.xyz:8000/images/74c88f3c967009030c1392659e3cdb4a.png" group-title="INFANTILES",INF | NICKELODEON V.I.P.
+http://svtv.xyz:8080/PMP30D35/KMUQZ/130
+#EXTINF:-1 tvg-id="" tvg-name="EN: Comedy Central V.I.P" tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2019/08/comedy-central-logo-vector.png" group-title="ENTRETENIMIENTO",EN: Comedy Central V.I.P
+http://svtv.xyz:8080/PMP30D35/KMUQZ/110858
+#EXTINF:-1 tvg-id="" tvg-name="LAT: E! Entertainment" tvg-logo="http://svtv.xyz:8000/images/2fd8d4e6101eab6357ae29d747e0819e.png" group-title="ENTRETENIMIENTO",LAT: E! Entertainment
+http://svtv.xyz:8080/PMP30D35/KMUQZ/110873
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Pixar 鈦结创岽扳伨" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042012/cars_2.png?itok=JXy7Blmx" group-title="DISNEY +",Cinema Disney Pixar 鈦结创岽扳伨
+http://svtv.xyz:8080/PMP30D35/KMUQZ/31251
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Family 鈦结创岽扳伨" tvg-logo="http://svtv.xyz:8000/images/91ecfd6938ec2d02c45c5260593d3f6c.jpg" group-title="DISNEY +",Cinema Disney Family 鈦结创岽扳伨
+http://svtv.xyz:8080/PMP30D35/KMUQZ/31252
+#EXTINF:-1 tvg-id="" tvg-name="DEP | ESPN 3 FHD SUR" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="ESPN",DEP | ESPN 3 FHD SUR
+http://svtv.xyz:8080/PMP30D35/KMUQZ/288090
+
+#EXTINF:-1 tvg-id="" tvg-name="DEP | FOX Sports 2 SUR FHD ►℗" tvg-logo="https://img2.freepng.es/20180706/vuy/kisspng-fox-sports-2-television-channel-fox-sports-network-fox-sport-5b3fcd3ddd8e48.1690276115309079659075.jpg" group-title="FOX SPORTS",DEP | FOX Sports 2 SUR FHD ►℗
+http://svtv.xyz:8080/PMP30D35/KMUQZ/288102
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 FHD**" tvg-logo="https://img.sport-tv-guide.live/images/stations/a244.png" group-title="ESPN",ESPN 4 FHD**
+http://svtv.xyz:8080/PMP30D35/KMUQZ/34241
+
+#EXTINF:-1 tvg-id="" tvg-name="ESP | DAZN MOVISTAR 3 HD." tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" group-title="DAZN",ESP | DAZN MOVISTAR 3 HD.
+http://svtv.xyz:8080/PMP30D35/KMUQZ/278213
+
+
+
+
+
+
+
