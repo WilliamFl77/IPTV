@@ -1,6 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LAT | CINEMAX V.I.P." tvg-logo="http://svtv.xyz:8000/images/18c234e60a3dc89fa4b4176e3d37d080.png" group-title="PREMIUM LATINO",LAT | CINEMAX V.I.P.
-http://svtv.xyz:8080/PMP30D35/KMUQZ/31014
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | NTN24" tvg-logo="http://svtv.xyz:8000/images/50415063975dc6134a566c92709674cb.png" group-title="COLOMBIA",COL | NTN24
+http://svtv.xyz:8080/PMP30D35/KMUQZ/31358
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | RCN FHD" tvg-logo="http://svtv.xyz:8000/images/288148e6b416c1956de7f7f336991033.png" group-title="COLOMBIA",COL | RCN FHD
+http://svtv.xyz:8080/PMP30D35/KMUQZ/31359
+
 #EXTINF:-1 tvg-id="" tvg-name="LAT | CINECANAL V.I.P." tvg-logo="http://svtv.xyz:8000/images/a0bd0b2b983bc4f3baa99632d5f9c36c.png" group-title="PREMIUM LATINO",LAT | CINECANAL V.I.P.
 http://svtv.xyz:8080/PMP30D35/KMUQZ/31016
 #EXTINF:-1 tvg-id="" tvg-name="LAT | WARNER TV NORTE V.I.P." tvg-logo="http://serviciosvisuales.ga:25461/images/9724076cceed4c18d42e04d6157f0e54.png" group-title="PREMIUM LATINO",LAT | WARNER TV NORTE V.I.P.
