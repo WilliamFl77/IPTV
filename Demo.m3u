@@ -3,12 +3,22 @@
 #EXTINF:-1 tvg-id="" tvg-name="LAT | CANAL DHE V.I.P." tvg-logo="http://svtv.xyz:8000/images/8e04d22f04ba9b2313d368cffafb9379.png" group-title="PREMIUM LATINO",LAT | CANAL DHE V.I.P.
 http://svtv.xyz:8080/PMP30D35/KMUQZ/31260
 
-#EXTINF:-1 tvg-id="" tvg-name="LAT | GOLDEN V.I.P." tvg-logo="http://svtv.xyz:8000/images/2149bad6769a9d8fadb5fa449e5ac906.png" group-title="PREMIUM LATINO",LAT | GOLDEN V.I.P.
-http://svtv.xyz:8080/PMP30D35/KMUQZ/164043
+#EXTINF:-1 tvg-id="" tvg-name="LAT | TCM" tvg-logo="http://svtv.xyz:8000/images/35ea90f53b9ab170a70143cd66830ac8.png" group-title="PREMIUM LATINO",LAT | TCM
+http://svtv.xyz:8080/PMP30D35/KMUQZ/31038
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT MX V.I.P." tvg-logo="http://svtv.xyz:8000/images/2bfef0530e86875773ac557931601714.png" group-title="TNT",TNT MX V.I.P.
 http://svtv.xyz:8080/PMP30D35/KMUQZ/31012
 
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CIVILIZATION HD" tvg-logo="http://svtv.xyz:8000/images/5342678c1fa638de9bbfa78db0ddca42.png" group-title="DISCOVERY'S",DISCOVERY CIVILIZATION HD
+http://svtv.xyz:8080/PMP30D35/KMUQZ/30082
+
+
+#EXTINF:-1 tvg-id="" tvg-name="INF | BOOMERANG." tvg-logo="http://svtv.xyz:8000/images/2bd6e1f23788306146b52b0f018fa2bb.png" group-title="INFANTILES",INF | BOOMERANG.
+http://svtv.xyz:8080/PMP30D35/KMUQZ/75612
+
+
+#EXTINF:-1 tvg-id="" tvg-name="LAT | SYFY" tvg-logo="http://svtv.xyz:8000/images/61d7e5ff7c5d6f56f35e606148c25412.png" group-title="PREMIUM LATINO",LAT | SYFY
+http://svtv.xyz:8080/PMP30D35/KMUQZ/31256
 
 #EXTINF:-1 tvg-id="" tvg-name="EN: Comedy Central V.I.P" tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2019/08/comedy-central-logo-vector.png" group-title="ENTRETENIMIENTO",EN: Comedy Central V.I.P
 http://svtv.xyz:8080/PMP30D35/KMUQZ/110858
