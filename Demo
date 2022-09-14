@@ -6,8 +6,8 @@ http://svtv.xyz:8080/PMP30D35/KMUQZ/31260
 #EXTINF:-1 tvg-id="" tvg-name="LAT | TCM" tvg-logo="http://svtv.xyz:8000/images/35ea90f53b9ab170a70143cd66830ac8.png" group-title="PREMIUM LATINO",LAT | TCM
 http://svtv.xyz:8080/PMP30D35/KMUQZ/31038
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT MX V.I.P." tvg-logo="http://svtv.xyz:8000/images/2bfef0530e86875773ac557931601714.png" group-title="TNT",TNT MX V.I.P.
-http://svtv.xyz:8080/PMP30D35/KMUQZ/31012
+#EXTINF:-1 tvg-id="" tvg-name="MU: MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Logo_mtv_plus.png/180px-Logo_mtv_plus.png" group-title="MUSICA",MU: MTV HD
+http://svtv.xyz:8080/PMP30D35/KMUQZ/110008
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CIVILIZATION HD" tvg-logo="http://svtv.xyz:8000/images/5342678c1fa638de9bbfa78db0ddca42.png" group-title="DISCOVERY'S",DISCOVERY CIVILIZATION HD
 http://svtv.xyz:8080/PMP30D35/KMUQZ/30082
@@ -37,8 +37,6 @@ http://svtv.xyz:8080/PMP30D35/KMUQZ/109682
 #EXTINF:-1 tvg-id="" tvg-name="COL | RCN FHD" tvg-logo="http://svtv.xyz:8000/images/288148e6b416c1956de7f7f336991033.png" group-title="COLOMBIA",COL | RCN FHD
 http://svtv.xyz:8080/PMP30D35/KMUQZ/31359
 
-#EXTINF:-1 tvg-id="" tvg-name="LAT | CINECANAL V.I.P." tvg-logo="http://svtv.xyz:8000/images/a0bd0b2b983bc4f3baa99632d5f9c36c.png" group-title="PREMIUM LATINO",LAT | CINECANAL V.I.P.
-http://svtv.xyz:8080/PMP30D35/KMUQZ/31016
 #EXTINF:-1 tvg-id="" tvg-name="LAT | WARNER TV NORTE V.I.P." tvg-logo="http://serviciosvisuales.ga:25461/images/9724076cceed4c18d42e04d6157f0e54.png" group-title="PREMIUM LATINO",LAT | WARNER TV NORTE V.I.P.
 http://svtv.xyz:8080/PMP30D35/KMUQZ/31026
 
@@ -65,6 +63,11 @@ http://svtv.xyz:8080/PMP30D35/KMUQZ/34241
 
 #EXTINF:-1 tvg-id="" tvg-name="ESP | DAZN MOVISTAR 3 HD." tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" group-title="DAZN",ESP | DAZN MOVISTAR 3 HD.
 http://svtv.xyz:8080/PMP30D35/KMUQZ/278213
+
+#EXTINF:-1 tvg-id="" tvg-name="Terminator   Destino oculto (2019 oo*" tvg-logo="http://odenfull.co:2086/images/2d78b25a6412ca9d3c283ada3d29a2bd.jpg" group-title="PELICULAS SD",Terminator   Destino oculto (2019 oo*
+http://svtv.xyz:8080/movie/PMP30D35/KMUQZ/244411.mp4
+
+
 
 
 
