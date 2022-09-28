@@ -108,8 +108,6 @@ http://svtv.xyz:8080/PMP30D35/KMUQZ/31058
 #EXTINF:-1 tvg-id="" tvg-name="CUL | FOOD NETWORK HD" tvg-logo="http://svtv.xyz:8000/images/072ca0976074aa6959035498252b9cf1.png" group-title="CULTURA",CUL | FOOD NETWORK HD
 http://svtv.xyz:8080/PMP30D35/KMUQZ/31063
 
-#EXTINF:-1 tvg-id="" tvg-name="CUL | INMOBILIARIA TV" tvg-logo="http://svtv.xyz:8000/images/7e69db392db542ea773406518c359671.png" group-title="CULTURA",CUL | INMOBILIARIA TV
-http://svtv.xyz:8080/PMP30D35/KMUQZ/67600
 
 #EXTINF:-1 tvg-id="" tvg-name="CUL | HGTV MX" tvg-logo="http://svtv.xyz:8000/images/1890e0812faeb12f2f66110349f4f4cb.png" group-title="CULTURA",CUL | HGTV MX
 http://svtv.xyz:8080/PMP30D35/KMUQZ/110851
@@ -161,12 +159,8 @@ http://svtv.xyz:8080/PMP30D35/KMUQZ/31247
 #EXTINF:-1 tvg-id="" tvg-name="LAT | AMC SUR V.I.P." tvg-logo="http://svtv.xyz:8000/images/72a7f30fd311f7abd23e1f88d4783abd.png" group-title="PREMIUM LATINO",LAT | AMC SUR V.I.P.
 http://svtv.xyz:8080/PMP30D35/KMUQZ/31257
 
-
 #EXTINF:-1 tvg-id="" tvg-name="LAT | CANAL DHE V.I.P." tvg-logo="http://svtv.xyz:8000/images/8e04d22f04ba9b2313d368cffafb9379.png" group-title="PREMIUM LATINO",LAT | CANAL DHE V.I.P.
 http://svtv.xyz:8080/PMP30D35/KMUQZ/31260
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | TOP CINE" tvg-logo="http://svtv.xyz:8000/images/2cf6e23cb123df93942020f06ada4423.jpg" group-title="PREMIUM LATINO",LAT | TOP CINE
-http://svtv.xyz:8080/PMP30D35/KMUQZ/109991
 
 
 #EXTINF:-1 tvg-id="" tvg-name="LAT | GOLDEN V.I.P." tvg-logo="http://svtv.xyz:8000/images/2149bad6769a9d8fadb5fa449e5ac906.png" group-title="PREMIUM LATINO",LAT | GOLDEN V.I.P.
@@ -179,29 +173,42 @@ http://svtv.xyz:8080/PMP30D35/KMUQZ/31040
 http://svtv.xyz:8080/PMP30D35/KMUQZ/31041
 
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 NORTE V.I.P" tvg-logo="http://svtv.xyz:8000/images/637ca4da63b0295353b15f6bfe7a6ad6.png" group-title="HBO CANALES",HBO 2 NORTE V.I.P
-http://svtv.xyz:8080/PMP30D35/KMUQZ/5514
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS HD V.I.P." tvg-logo="http://svtv.xyz:8000/images/8dab71cd68e2a8b333112b2e3634d5e0.png" group-title="HBO CANALES",HBO PLUS HD V.I.P.
-http://svtv.xyz:8080/PMP30D35/KMUQZ/30969
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 SUR V.I.P." tvg-logo="http://svtv.xyz:8000/images/637ca4da63b0295353b15f6bfe7a6ad6.png" group-title="HBO CANALES",HBO 2 SUR V.I.P.
-http://svtv.xyz:8080/PMP30D35/KMUQZ/30970
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME MX V.I.P." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="HBO CANALES",HBO XTREME MX V.I.P.
-http://svtv.xyz:8080/PMP30D35/KMUQZ/30973
+#EXTINF:-1 tvg-id="" tvg-name="HBO *" tvg-logo="https://static.epg.best/cz/HBO.cz.png" group-title="HBO CANALES",HBO *
+http://svtv.xyz:8080/PMP30D35/KMUQZ/30979
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO SUR V.I.P." tvg-logo="https://static.epg.best/cz/HBO.cz.png" group-title="HBO CANALES",HBO SUR V.I.P.
 http://svtv.xyz:8080/PMP30D35/KMUQZ/287609
 
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 NORTE V.I.P" tvg-logo="http://svtv.xyz:8000/images/637ca4da63b0295353b15f6bfe7a6ad6.png" group-title="HBO CANALES",HBO 2 NORTE V.I.P
+http://svtv.xyz:8080/PMP30D35/KMUQZ/5514
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 SUR V.I.P." tvg-logo="http://svtv.xyz:8000/images/637ca4da63b0295353b15f6bfe7a6ad6.png" group-title="HBO CANALES",HBO 2 SUR V.I.P.
+http://svtv.xyz:8080/PMP30D35/KMUQZ/30970
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 **" tvg-logo="http://svtv.xyz:8000/images/637ca4da63b0295353b15f6bfe7a6ad6.png" group-title="HBO CANALES",HBO 2 **
+http://svtv.xyz:8080/PMP30D35/KMUQZ/30968
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS HD V.I.P." tvg-logo="http://svtv.xyz:8000/images/8dab71cd68e2a8b333112b2e3634d5e0.png" group-title="HBO CANALES",HBO PLUS HD V.I.P.
+http://svtv.xyz:8080/PMP30D35/KMUQZ/30969
+
 #EXTINF:-1 tvg-id="" tvg-name="2M | HBO PLUS" tvg-logo="http://svtv.xyz:8000/images/8dab71cd68e2a8b333112b2e3634d5e0.png" group-title="PREMIUM LATINO 2MB",2M | HBO PLUS
 http://svtv.xyz:8080/PMP30D35/KMUQZ/197113
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus MX HD" tvg-logo="http://svtv.xyz:8000/images/8dab71cd68e2a8b333112b2e3634d5e0.png" group-title="HBO CANALES",HBO Plus MX HD
+http://svtv.xyz:8080/PMP30D35/KMUQZ/30976
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME MX V.I.P." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="HBO CANALES",HBO XTREME MX V.I.P.
+http://svtv.xyz:8080/PMP30D35/KMUQZ/30973
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="HBO CANALES",HBO XTREME FHD
+http://svtv.xyz:8080/PMP30D35/KMUQZ/157728
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO POP V.I.P." tvg-logo="https://www.vhv.rs/dpng/d/438-4382659_hbo-pop-png-transparent-png.png" group-title="HBO CANALES",HBO POP V.I.P.
 http://svtv.xyz:8080/PMP30D35/KMUQZ/288085
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 **" tvg-logo="http://svtv.xyz:8000/images/637ca4da63b0295353b15f6bfe7a6ad6.png" group-title="HBO CANALES",HBO 2 **
-http://svtv.xyz:8080/PMP30D35/KMUQZ/30968
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP MX" tvg-logo="https://www.vhv.rs/dpng/d/438-4382659_hbo-pop-png-transparent-png.png" group-title="HBO CANALES",HBO POP MX
+http://svtv.xyz:8080/PMP30D35/KMUQZ/30982
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="http://svtv.xyz:8000/images/e4991df53d68d8995e52ba9e5c37284f.png" group-title="HBO CANALES",HBO MUNDI
 http://svtv.xyz:8080/PMP30D35/KMUQZ/30971
@@ -212,20 +219,8 @@ http://svtv.xyz:8080/PMP30D35/KMUQZ/30972
 #EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE AR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO CANALES",HBO SIGNATURE AR HD
 http://svtv.xyz:8080/PMP30D35/KMUQZ/30975
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO Plus MX HD" tvg-logo="http://svtv.xyz:8000/images/8dab71cd68e2a8b333112b2e3634d5e0.png" group-title="HBO CANALES",HBO Plus MX HD
-http://svtv.xyz:8080/PMP30D35/KMUQZ/30976
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO *" tvg-logo="https://static.epg.best/cz/HBO.cz.png" group-title="HBO CANALES",HBO *
-http://svtv.xyz:8080/PMP30D35/KMUQZ/30979
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP MX" tvg-logo="https://www.vhv.rs/dpng/d/438-4382659_hbo-pop-png-transparent-png.png" group-title="HBO CANALES",HBO POP MX
-http://svtv.xyz:8080/PMP30D35/KMUQZ/30982
-
 #EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD +V" tvg-logo="http://svtv.xyz:8000/images/567902b022119f8abef5b7c5eec55f38.png" group-title="HBO CANALES",HBO FAMILY HD +V
 http://svtv.xyz:8080/PMP30D35/KMUQZ/30984
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="HBO CANALES",HBO XTREME FHD
-http://svtv.xyz:8080/PMP30D35/KMUQZ/157728
 
 
 #EXTINF:-1 tvg-id="" tvg-name="LAT | FXM V.I.P." tvg-logo="http://svtv.xyz:8000/images/ea4dd14f6b137743920234e823449a48.png" group-title="PREMIUM LATINO",LAT | FXM V.I.P.
@@ -384,6 +379,9 @@ http://svtv.xyz:8080/PMP30D35/KMUQZ/31387
 #EXTINF:-1 tvg-id="" tvg-name="HTV" tvg-logo="http://svtv.xyz:8000/images/55e730d0262e3f8f7f45f6bfc922b8f6.png" group-title="MUSICA",HTV
 http://svtv.xyz:8080/PMP30D35/KMUQZ/74450
 
+#EXTINF:-1 tvg-id="" tvg-name="CUL | INMOBILIARIA TV" tvg-logo="http://svtv.xyz:8000/images/7e69db392db542ea773406518c359671.png" group-title="CULTURA",CUL | INMOBILIARIA TV
+http://svtv.xyz:8080/PMP30D35/KMUQZ/67600
+
 #EXTINF:-1 tvg-id="" tvg-name="Huila TV" tvg-logo="https://www.huilatv.com/wp-content/uploads/2020/01/LOGO-HUILA-TV-ICONO-300x161.png" group-title="MUSICA",Huila TV
 http://svtv.xyz:8080/PMP30D35/KMUQZ/290148
 
@@ -404,11 +402,13 @@ http://svtv.xyz:8080/PMP30D35/KMUQZ/110010
 
 #EXTINF:-1 tvg-id="" tvg-name="Latinos Radio" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQBewVSiagOUY4bjuHxtwDdHQZjc85-v575vIpwxA=s200-c-k-c0x00ffffff-no-rj" group-title="MUSICA",Latinos Radio
 http://svtv.xyz:8080/PMP30D35/KMUQZ/273818
+
 #EXTINF:-1 tvg-id="" tvg-name="Magic TV (480p)" tvg-logo="https://i.imgur.com/QZQhg6C.png" group-title="MUSICA",Magic TV (480p)
 http://svtv.xyz:8080/PMP30D35/KMUQZ/273840
 
 #EXTINF:-1 tvg-id="" tvg-name="Mundo de la Música (480p)" tvg-logo="https://i.imgur.com/wak2YOo.png" group-title="MUSICA",Mundo de la Música (480p)
 http://svtv.xyz:8080/PMP30D35/KMUQZ/273856
+
 #EXTINF:-1 tvg-id="" tvg-name="MusicTop (720p)" tvg-logo="https://cdn.mitvstatic.com/channels/ar_musictop_m.png" group-title="MUSICA",MusicTop (720p)
 http://svtv.xyz:8080/PMP30D35/KMUQZ/273860
 
@@ -511,6 +511,7 @@ http://svtv.xyz:8080/PMP30D35/KMUQZ/109989
 
 #EXTINF:-1 tvg-id="" tvg-name="LAT | TOP CINE" tvg-logo="http://svtv.xyz:8000/images/2cf6e23cb123df93942020f06ada4423.jpg" group-title="PREMIUM LATINO",LAT | TOP CINE
 http://svtv.xyz:8080/PMP30D35/KMUQZ/109991
+
 
 #EXTINF:-1 tvg-id="" tvg-name="LAT | CINE SUR" tvg-logo="http://svtv.xyz:8000/images/a5d60cc7fcc62832456bb3b1a406d369.png" group-title="PREMIUM LATINO",LAT | CINE SUR
 http://svtv.xyz:8080/PMP30D35/KMUQZ/10999
@@ -829,6 +830,7 @@ http://svtv.xyz:8080/PMP30D35/KMUQZ/160789
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Jorge el Curioso **" tvg-logo="http://assets.stickpng.com/images/5b8d3652a639e004e1cab54b.png" group-title="24/7 ESPAÑOL",24/7 Jorge el Curioso **
 http://svtv.xyz:8080/PMP30D35/KMUQZ/160208
+
 
 
 
