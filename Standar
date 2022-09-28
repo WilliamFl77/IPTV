@@ -533,6 +533,9 @@ http://svtv.xyz:8080/PMP30D35/KMUQZ/288083
 #EXTINF:-1 tvg-id="" tvg-name="INF | CARTOON NETWORK SUR V.I.P" tvg-logo="http://svtv.xyz:8000/images/1bc94183160849d6b99192b880949a9e.png" group-title="INFANTILES",INF | CARTOON NETWORK SUR V.I.P
 http://svtv.xyz:8080/PMP30D35/KMUQZ/120
 
+#EXTINF:-1 tvg-id="" tvg-name="SAT | INF | CARTOONITO SD" tvg-logo="https://www.themarkethink.com/wp-content/uploads/2021/12/cartoonito.jpg" group-title="PREMIUM SATELITE",SAT | INF | CARTOONITO SD
+http://svtv.xyz:8080/PMP30D35/KMUQZ/292832
+
 #EXTINF:-1 tvg-id="" tvg-name="INF | NICKELODEON V.I.P." tvg-logo="http://svtv.xyz:8000/images/74c88f3c967009030c1392659e3cdb4a.png" group-title="INFANTILES",INF | NICKELODEON V.I.P.
 http://svtv.xyz:8080/PMP30D35/KMUQZ/130
 
