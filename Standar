@@ -249,11 +249,11 @@ http://svtv.xyz:8080/PMP30D35/KMUQZ/31046
 http://svtv.xyz:8080/PMP30D35/KMUQZ/31246
 
 
-#EXTINF:-1 tvg-id="" tvg-name="LAT | PARAMOUNT NETWORK V.I.P" tvg-logo="http://svtv.xyz:8000/images/01ba5107c29021d98d6a8ca5ea316972.png" group-title="PREMIUM LATINO",LAT | PARAMOUNT NETWORK V.I.P
-http://svtv.xyz:8080/PMP30D35/KMUQZ/31042
 
-#EXTINF:-1 tvg-id="" tvg-name="LAT | PARAMOUNT CHANNEL SUR HD" tvg-logo="http://svtv.xyz:8000/images/01ba5107c29021d98d6a8ca5ea316972.png" group-title="PREMIUM LATINO",LAT | PARAMOUNT CHANNEL SUR HD
-http://svtv.xyz:8080/PMP30D35/KMUQZ/31261
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT MX V.I.P." tvg-logo="http://svtv.xyz:8000/images/2bfef0530e86875773ac557931601714.png" group-title="TNT",TNT MX V.I.P.
@@ -267,9 +267,6 @@ http://svtv.xyz:8080/PMP30D35/KMUQZ/164032
 
 #EXTINF:-1 tvg-id="" tvg-name="LAT | TNT SERIES V.I.P." tvg-logo="http://svtv.xyz:8000/images/3d9b6b4d3c0fe15c610dbc7bcfcd93d3.png" group-title="PREMIUM LATINO",LAT | TNT SERIES V.I.P.
 http://svtv.xyz:8080/PMP30D35/KMUQZ/164031
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | GOLDEN V.I.P." tvg-logo="http://svtv.xyz:8000/images/2149bad6769a9d8fadb5fa449e5ac906.png" group-title="PREMIUM LATINO",LAT | GOLDEN V.I.P.
-http://svtv.xyz:8080/PMP30D35/KMUQZ/164043
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SUR V.I.P." tvg-logo="http://svtv.xyz:8000/images/3d9b6b4d3c0fe15c610dbc7bcfcd93d3.png" group-title="TNT",TNT SUR V.I.P.
 http://svtv.xyz:8080/PMP30D35/KMUQZ/31010
@@ -289,12 +286,19 @@ http://svtv.xyz:8080/PMP30D35/KMUQZ/31009
 http://svtv.xyz:8080/PMP30D35/KMUQZ/124514
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="LAT | PARAMOUNT NETWORK V.I.P" tvg-logo="http://svtv.xyz:8000/images/01ba5107c29021d98d6a8ca5ea316972.png" group-title="PREMIUM LATINO",LAT | PARAMOUNT NETWORK V.I.P
+http://svtv.xyz:8080/PMP30D35/KMUQZ/31042
+
+#EXTINF:-1 tvg-id="" tvg-name="LAT | PARAMOUNT CHANNEL SUR HD" tvg-logo="http://svtv.xyz:8000/images/01ba5107c29021d98d6a8ca5ea316972.png" group-title="PREMIUM LATINO",LAT | PARAMOUNT CHANNEL SUR HD
+http://svtv.xyz:8080/PMP30D35/KMUQZ/31261
+
+
 #EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL NORTE V.I.P." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1280px-Star_Action_2020.svg.png" group-title="STAR CANALES",STAR CHANNEL NORTE V.I.P.
 http://svtv.xyz:8080/PMP30D35/KMUQZ/30993
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL SUR V.I.P." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1280px-Star_Action_2020.svg.png" group-title="STAR CANALES",STAR CHANNEL SUR V.I.P.
 http://svtv.xyz:8080/PMP30D35/KMUQZ/287960
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="LAT | SONY CHANNEL NORTE V.I.P." tvg-logo="http://svtv.xyz:8000/images/9ae2767f15b15da469c307585dd350c0.png" group-title="PREMIUM LATINO",LAT | SONY CHANNEL NORTE V.I.P.
