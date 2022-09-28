@@ -82,8 +82,7 @@ http://svtv.xyz:8080/PMP30D35/KMUQZ/31058
 #EXTINF:-1 tvg-id="" tvg-name="CUL | FOOD NETWORK HD" tvg-logo="http://svtv.xyz:8000/images/072ca0976074aa6959035498252b9cf1.png" group-title="CULTURA",CUL | FOOD NETWORK HD
 http://svtv.xyz:8080/PMP30D35/KMUQZ/31063
 
-#EXTINF:-1 tvg-id="" tvg-name="CUL | INMOBILIARIA TV" tvg-logo="http://svtv.xyz:8000/images/7e69db392db542ea773406518c359671.png" group-title="CULTURA",CUL | INMOBILIARIA TV
-http://svtv.xyz:8080/PMP30D35/KMUQZ/67600
+
 
 #EXTINF:-1 tvg-id="" tvg-name="CUL | HGTV MX" tvg-logo="http://svtv.xyz:8000/images/1890e0812faeb12f2f66110349f4f4cb.png" group-title="CULTURA",CUL | HGTV MX
 http://svtv.xyz:8080/PMP30D35/KMUQZ/110851
@@ -249,13 +248,6 @@ http://svtv.xyz:8080/PMP30D35/KMUQZ/31046
 http://svtv.xyz:8080/PMP30D35/KMUQZ/31246
 
 
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="TNT MX V.I.P." tvg-logo="http://svtv.xyz:8000/images/2bfef0530e86875773ac557931601714.png" group-title="TNT",TNT MX V.I.P.
 http://svtv.xyz:8080/PMP30D35/KMUQZ/31012
 
@@ -282,9 +274,6 @@ http://svtv.xyz:8080/PMP30D35/KMUQZ/92
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT AR HD" tvg-logo="https://static.epg.best/ar/TNT.ar.png" group-title="TNT",TNT AR HD
 http://svtv.xyz:8080/PMP30D35/KMUQZ/31009
-#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL  HD" tvg-logo="https://i.imgur.com/DO60msJ.png" group-title="STAR CANALES",STAR CHANNEL  HD
-http://svtv.xyz:8080/PMP30D35/KMUQZ/124514
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="LAT | PARAMOUNT NETWORK V.I.P" tvg-logo="http://svtv.xyz:8000/images/01ba5107c29021d98d6a8ca5ea316972.png" group-title="PREMIUM LATINO",LAT | PARAMOUNT NETWORK V.I.P
@@ -296,6 +285,9 @@ http://svtv.xyz:8080/PMP30D35/KMUQZ/31261
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL NORTE V.I.P." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1280px-Star_Action_2020.svg.png" group-title="STAR CANALES",STAR CHANNEL NORTE V.I.P.
 http://svtv.xyz:8080/PMP30D35/KMUQZ/30993
+
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL  HD" tvg-logo="https://i.imgur.com/DO60msJ.png" group-title="STAR CANALES",STAR CHANNEL  HD
+http://svtv.xyz:8080/PMP30D35/KMUQZ/124514
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL SUR V.I.P." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1280px-Star_Action_2020.svg.png" group-title="STAR CANALES",STAR CHANNEL SUR V.I.P.
 http://svtv.xyz:8080/PMP30D35/KMUQZ/287960
@@ -369,6 +361,29 @@ http://svtv.xyz:8080/PMP30D35/KMUQZ/31026
 
 #EXTINF:-1 tvg-id="" tvg-name="LAT | WARNER HD" tvg-logo="http://svtv.xyz:8000/images/9724076cceed4c18d42e04d6157f0e54.png" group-title="PREMIUM LATINO",LAT | WARNER HD
 http://svtv.xyz:8080/PMP30D35/KMUQZ/31027
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | LA KALLE HD" tvg-logo="http://svtv.xyz:8000/images/b389ee4954f151c9841ac0deb343a951.png" group-title="COLOMBIA",COL | LA KALLE HD
+http://svtv.xyz:8080/PMP30D35/KMUQZ/31387
+
+#EXTINF:-1 tvg-id="" tvg-name="CUL | INMOBILIARIA TV" tvg-logo="http://svtv.xyz:8000/images/7e69db392db542ea773406518c359671.png" group-title="CULTURA",CUL | INMOBILIARIA TV
+http://svtv.xyz:8080/PMP30D35/KMUQZ/67600
+
+#EXTINF:-1 tvg-id="" tvg-name="A Son de Salsa (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/HSKeS3G.png" group-title="MEXICO",A Son de Salsa (720p) [Not 24/7]
+http://svtv.xyz:8080/PMP30D35/KMUQZ/288406
+
+#EXTINF:-1 tvg-id="" tvg-name="AMX Noticias (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="MEXICO",AMX Noticias (720p) [Not 24/7]
+http://svtv.xyz:8080/PMP30D35/KMUQZ/288410
+
+#EXTINF:-1 tvg-id="" tvg-name="Golden TV (240p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/512px-Canal_Golden_logo.svg.png" group-title="MEXICO",Golden TV (240p) [Not 24/7]
+http://svtv.xyz:8080/PMP30D35/KMUQZ/288454
+
+#EXTINF:-1 tvg-id="VH1" tvg-name="MTV 00S V.I.P." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="MUSICA",MTV 00S V.I.P.
+http://svtv.xyz:8080/PMP30D35/KMUQZ/203477
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="LAT | CINELATINO" tvg-logo="http://svtv.xyz:8000/images/a4eceecf5d76d39581d4125e1e34754a.png" group-title="PREMIUM LATINO",LAT | CINELATINO
@@ -484,9 +499,6 @@ http://svtv.xyz:8080/PMP30D35/KMUQZ/110858
 #EXTINF:-1 tvg-id="" tvg-name="LAT: E! Entertainment" tvg-logo="http://svtv.xyz:8000/images/2fd8d4e6101eab6357ae29d747e0819e.png" group-title="ENTRETENIMIENTO",LAT: E! Entertainment
 http://svtv.xyz:8080/PMP30D35/KMUQZ/110873
 
-#EXTINF:-1 tvg-id="VH1" tvg-name="MTV 00S V.I.P." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="MUSICA",MTV 00S V.I.P.
-http://svtv.xyz:8080/PMP30D35/KMUQZ/203477
-
 #EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO INTERNACIONAL V.I.P." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="TELEMUNDO",TELEMUNDO INTERNACIONAL V.I.P.
 http://svtv.xyz:8080/PMP30D35/KMUQZ/109682
 
@@ -559,8 +571,6 @@ http://svtv.xyz:8080/PMP30D35/KMUQZ/31369
 #EXTINF:-1 tvg-id="" tvg-name="COL | CARACOL FHD" tvg-logo="http://svtv.xyz:8000/images/24cc4821f3c1a40be781fe4387cad3b6.png" group-title="COLOMBIA",COL | CARACOL FHD
 http://svtv.xyz:8080/PMP30D35/KMUQZ/61894
 
-#EXTINF:-1 tvg-id="" tvg-name="COL | LA KALLE HD" tvg-logo="http://svtv.xyz:8000/images/b389ee4954f151c9841ac0deb343a951.png" group-title="COLOMBIA",COL | LA KALLE HD
-http://svtv.xyz:8080/PMP30D35/KMUQZ/31387
 
 
 #EXTINF:-1 tvg-id="" tvg-name="COL | RCN INTERNACIONAL" tvg-logo="http://svtv.xyz:8000/images/b49fa523dba6a60827472f94ba7df8c4.png" group-title="COLOMBIA",COL | RCN INTERNACIONAL
@@ -650,15 +660,6 @@ http://svtv.xyz:8080/PMP30D35/KMUQZ/277654
 http://svtv.xyz:8080/PMP30D35/KMUQZ/277697
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="A Son de Salsa (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/HSKeS3G.png" group-title="MEXICO",A Son de Salsa (720p) [Not 24/7]
-http://svtv.xyz:8080/PMP30D35/KMUQZ/288406
-
-#EXTINF:-1 tvg-id="" tvg-name="AMX Noticias (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="MEXICO",AMX Noticias (720p) [Not 24/7]
-http://svtv.xyz:8080/PMP30D35/KMUQZ/288410
-
-#EXTINF:-1 tvg-id="" tvg-name="Golden TV (240p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/512px-Canal_Golden_logo.svg.png" group-title="MEXICO",Golden TV (240p) [Not 24/7]
-http://svtv.xyz:8080/PMP30D35/KMUQZ/288454
 
 
 
