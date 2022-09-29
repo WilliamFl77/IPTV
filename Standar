@@ -376,6 +376,9 @@ http://svtv.xyz:8080/PMP30D35/KMUQZ/31027
 #EXTINF:-1 tvg-id="" tvg-name="COL | LA KALLE HD" tvg-logo="http://svtv.xyz:8000/images/b389ee4954f151c9841ac0deb343a951.png" group-title="COLOMBIA",COL | LA KALLE HD
 http://svtv.xyz:8080/PMP30D35/KMUQZ/31387
 
+#EXTINF:-1 tvg-id="" tvg-name="MI GENTE | MI GENTE HD." tvg-logo="https://www.migente-tv.com/wp-content/uploads/2022/04/logo.png" group-title="MUSICA",LAT | MI GENTE HD
+https://hvtrafico.ddns.net:443/migente720/migente720.stream/chunklist_w206477037.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="HTV" tvg-logo="http://svtv.xyz:8000/images/55e730d0262e3f8f7f45f6bfc922b8f6.png" group-title="MUSICA",HTV
 http://svtv.xyz:8080/PMP30D35/KMUQZ/74450
 
