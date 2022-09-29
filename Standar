@@ -712,6 +712,8 @@ http://svtv.xyz:8080/PMP30D35/KMUQZ/202934
 http://svtv.xyz:8080/PMP30D35/KMUQZ/197117
 
 
+#EXTINF:-1 tvg-id="" tvg-name="LAT | CARACOL HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Caracol_HD2_2017.png/1200px-Caracol_HD2_2017.png" group-title="COLOMBIA",LAT | CARACOL HD 2
+https://mdstrm.com/live-stream-gdai/574463697b9817cf0886fc17/linear/hls/pa/event/3csP3jVSTr-D1F-4lpxWng/stream/7b2a838e-9a3e-4ccf-9a85-29c9e13f15ba:DLS/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COL | CARACOL VIP" tvg-logo="http://svtv.xyz:8000/images/24cc4821f3c1a40be781fe4387cad3b6.png" group-title="COLOMBIA",COL | CARACOL VIP
 http://svtv.xyz:8080/PMP30D35/KMUQZ/288078
 
