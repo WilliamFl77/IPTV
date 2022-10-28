@@ -3,13 +3,14 @@
 #EXTM3U
 
 
+
 #EXTINF:-1 tvg-id="" tvg-name="MI GENTE | CANAL MI GENTE HD." tvg-logo="https://www.migente-tv.com/wp-content/uploads/2022/04/logo.png" group-title="MUSICA",LAT | CANAL MI GENTE HD
 https://hvtrafico.ddns.net:443/migente720/migente720.stream/chunklist_w206477037.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="S*SAT | CUL | HISTORY FHD SUR" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/458px-History_Logo.svg.png" group-title="PREMIUM SATELITE",S*SAT | CUL | HISTORY FHD SUR
 
+#EXTINF:-1 tvg-id="" tvg-name="S*SAT | CUL | HISTORY FHD SUR" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/458px-History_Logo.svg.png" group-title="PREMIUM SATELITE",S*SAT | CUL | HISTORY FHD SUR
 
 
 http://svtv.xyz:8080/PMP30D78/BrdEAh9/292816
@@ -262,9 +263,175 @@ http://svtv.xyz:8080/PMP30D78/BrdEAh9/292827
 #EXTINF:-1 tvg-id="" tvg-name="S*CINE | HBO POP FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CINE | HBO POP FHD
 http://svtv.xyz:8080/PMP30D78/BrdEAh9/29922
 
+
+
 #EXTINF:-1 tvg-id="" tvg-name="S*CINE | HBO 2 FHD NORTE" tvg-logo="http://svtv.xyz:8000/images/637ca4da63b0295353b15f6bfe7a6ad6.png" group-title="PREMIUM SATELITE",S*CINE | HBO 2 FHD NORTE
 http://svtv.xyz:8080/PMP30D78/BrdEAh9/299229
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="S*CINE | CANAL DHE FHD" tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-dhe-logo.png" group-title="PREMIUM SATELITE",S*CINE | CANAL DHE FHD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/296565
+
+
+#EXTINF:-1 tvg-id="" tvg-name="S*CUL | DISCOVERY CHANNEL FHD SUR" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" group-title="PREMIUM SATELITE",S*CUL | DISCOVERY CHANNEL FHD SUR
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/296566
+
+
+#EXTINF:-1 tvg-id="" tvg-name="S*EN | E! ENTERTAINMENT FHD SUR" tvg-logo="http://51.222.43.170:36995/images/a01945d4b5c867d4b22c1ee08a7bc492.png" group-title="PREMIUM SATELITE",S*EN | E! ENTERTAINMENT FHD SUR
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/296567
+
+
+#EXTINF:-1 tvg-id="" tvg-name="S*EN | FOOD NETWORK  FHD SUR" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" group-title="PREMIUM SATELITE",S*EN | FOOD NETWORK  FHD SUR
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/296568
+
+
+#EXTINF:-1 tvg-id="" tvg-name="S*EC | GOL TV FHD" tvg-logo="http://144.217.91.146/Logos/Ecuador/gol-tv-us.png" group-title="PREMIUM SATELITE",S*EC | GOL TV FHD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/296569
+
+
+#EXTINF:-1 tvg-id="" tvg-name="S*ES |  ANTENA 3 INTERNACIONAL SD" tvg-logo="https://findlogovector.com/wp-content/uploads/2018/12/antena-3-tv-logo-vector.png" group-title="PREMIUM SATELITE",S*ES |  ANTENA 3 INTERNACIONAL SD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/296574
+
+
+#EXTINF:-1 tvg-id="" tvg-name="S*EN | E! ENTERTAINMENT FHD NORTE" tvg-logo="http://51.222.43.170:36995/images/a01945d4b5c867d4b22c1ee08a7bc492.png" group-title="PREMIUM SATELITE",S*EN | E! ENTERTAINMENT FHD NORTE
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/296579
+
+
+#EXTINF:-1 tvg-id="" tvg-name="S*INF | CARTOON NETWORK FHD NORTE" tvg-logo="http://51.222.43.170:36995/images/4fea3689172d681e5220a51714d76b4d.png" group-title="PREMIUM SATELITE",S*INF | CARTOON NETWORK FHD NORTE
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/296591
+
+
+#EXTINF:-1 tvg-id="" tvg-name="S*CUL | INVESTIGATION DISCOVERY FHD NORTE" tvg-logo="http://i.ibb.co/RYvrN4k/Investigation-Discovery.png" group-title="PREMIUM SATELITE",S*CUL | INVESTIGATION DISCOVERY FHD NORTE
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/296592
+
+
+#EXTINF:-1 tvg-id="" tvg-name="S*CINE | A&E SD NORTE" tvg-logo="http://51.222.43.170:36995/images/3dbdd5967ecf1a9be6608d390828c015.png" group-title="PREMIUM SATELITE",S*CINE | A&E SD NORTE
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/296593
+
+
+#EXTINF:-1 tvg-id="" tvg-name="S*EN | TNT SERIES FHD NORTE" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="PREMIUM SATELITE",S*EN | TNT SERIES FHD NORTE
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/296594
+
+
+#EXTINF:-1 tvg-id="" tvg-name="S*CINE | HBO NORTE FHD" tvg-logo="https://static.epg.best/cz/HBO.cz.png" group-title="PREMIUM SATELITE",S*CINE | HBO NORTE FHD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/299218
+
+
+#EXTINF:-1 tvg-id="" tvg-name="S*CUL | DISCOVERY WORLD FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CUL | DISCOVERY WORLD FHD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/299219
+
+
+#EXTINF:-1 tvg-id="" tvg-name="S*CUL | HISTORY FHD NORTE" tvg-logo="" group-title="PREMIUM SATELITE",S*CUL | HISTORY FHD NORTE
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/299220
+
+
+#EXTINF:-1 tvg-id="" tvg-name="S*CO | CARACOL FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CO | CARACOL FHD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/299221
+
+
+#EXTINF:-1 tvg-id="" tvg-name="S*DEP | ESPN 3 FHD NORTE" tvg-logo="" group-title="PREMIUM SATELITE",S*DEP | ESPN 3 FHD NORTE
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/299222
+
+
+#EXTINF:-1 tvg-id="" tvg-name="S*CL | TVN FHD" tvg-logo="" group-
+title="PREMIUM SATELITE",S*CL | TVN FHD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/299223
+
+
+#EXTINF:-1 tvg-id="" tvg-name="S*DEP | FOX SPORTS 3 SUR FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*DEP | FOX SPORTS 3 SUR FHD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/299224
+
+
+#EXTINF:-1 tvg-id="" tvg-name="S*DEP | FOX SPORTS 1 SUR  FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*DEP | FOX SPORTS 1 SUR  FHD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/299225
+
+
+#EXTINF:-1 tvg-id="" tvg-name="S*PE | GOL PER脷 FHD ??" tvg-logo="" group-title="PREMIUM SATELITE",S*PE | GOL PER脷 FHD ??
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/29922
+
+#EXTINF:-1 tvg-id="" tvg-name="S*PE | LATINA FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*PE | LATINA FHD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/299227
+
+
+#EXTINF:-1 tvg-id="" tvg-name="S*CINE | HBO POP FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CINE | HBO POP FHD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/299228
+
+
+#EXTINF:-1 tvg-id="" tvg-name="S*CINE | HBO 2 FHD NORTE" tvg-logo="http://svtv.xyz:8000/images/637ca4da63b0295353b15f6bfe7a6ad6.png" group-title="PREMIUM SATELITE",S*CINE | HBO 2 FHD NORTE
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/299229
+
+
+#EXTINF:-1 tvg-id="" tvg-name="S*MOVISTAR PLUS SD" tvg-logo="" group-title="PREMIUM SATELITE",S*MOVISTAR PLUS SD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/299234
+
+
+#EXTINF:-1 tvg-id="" tvg-name="S*PANAMERICANA SD" tvg-logo="" group-title="PREMIUM SATELITE",S*PANAMERICANA SD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/299235
+
+
+#EXTINF:-1 tvg-id="" tvg-name="S*CO | WIN SPORT+ FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CO | WIN SPORT+ FHD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/299238
+
+#EXTINF:-1 tvg-id="" tvg-name="S*CO | WIN SPORTS FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CO | WIN SPORTS FHD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/299239
+
+#EXTINF:-1 tvg-id="" tvg-name="S*EN | WARNER TV SUR FHD " tvg-logo="http://serviciosvisuales.ga:25461/images/9724076cceed4c18d42e04d6157f0e54.png" group-title="PREMIUM SATELITE",S*EN | WARNER TV SUR FHD 
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/299240
+
+#EXTINF:-1 tvg-id="" tvg-name="S*DEP | TYC SPORT  FHD" tvg-logo="http://svtv.xyz:8000/images/a3929ff1f9f4affebf1e59f5db46b938.png" group-title="PREMIUM SATELITE",S*DEP | TYC SPORT  FHD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/299241
+
+#EXTINF:-1 tvg-id="" tvg-name="S*EN | TNT SERIES FHD SUR" tvg-logo="http://svtv.xyz:8000/images/3d9b6b4d3c0fe15c610dbc7bcfcd93d3.png" group-title="PREMIUM SATELITE",S*EN | TNT SERIES FHD SUR
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/299242
+
+#EXTINF:-1 tvg-id="" tvg-name="S*CL | TNT SPORTS FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CL | TNT SPORTS FHD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/299243
+
+#EXTINF:-1 tvg-id="" tvg-name="S*CINE | TNT SUR FHD" tvg-logo="https://static.epg.best/ar/TNT.ar.png" group-title="PREMIUM SATELITE",S*CINE | TNT SUR FHD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/299244
+
+#EXTINF:-1 tvg-id="" tvg-name="S*CINE | STUDIO UNIVERSAL FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CINE | STUDIO UNIVERSAL FHD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/299245
+
+#EXTINF:-1 tvg-id="" tvg-name="S*CINE | SPACE FHD SUR" tvg-logo="" group-title="PREMIUM SATELITE",S*CINE | SPACE FHD SUR
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/299246
+
+#EXTINF:-1 tvg-id="" tvg-name="S*EN | SONY CHANNEL FHD SUR" tvg-logo="http://svtv.xyz:8000/images/9ae2767f15b15da469c307585dd350c0.png" group-title="PREMIUM SATELITE",S*EN | SONY CHANNEL FHD SUR
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/299247
+
+#EXTINF:-1 tvg-id="" tvg-name="S*CINE | STAR CHANNEL FHD SUR" tvg-logo="" group-title="PREMIUM SATELITE",S*CINE | STAR CHANNEL FHD SUR
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/299248
+
+#EXTINF:-1 tvg-id="" tvg-name="S*PE | MOVISTAR DEPORTES FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*PE | MOVISTAR DEPORTES FHD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/299250
+
+#EXTINF:-1 tvg-id="" tvg-name="S*CL | MEGA FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CL | MEGA FHD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/299251
+
+#EXTINF:-1 tvg-id="" tvg-name="S*CL | LA RED FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CL | LA RED FHD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/299252
+
+#EXTINF:-1 tvg-id="" tvg-name="S*EN | KANAL D DRAMA FHD ??" tvg-logo="" group-title="PREMIUM SATELITE",S*EN | KANAL D DRAMA FHD ??
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/299253
+
+#EXTINF:-1 tvg-id="" tvg-name="S*CUL | INVESTIGATION DISCOVERY FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CUL | INVESTIGATION DISCOVERY FHD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/299254
+
+#EXTINF:-1 tvg-id="" tvg-name="S*CUL | HISTORY 2 FHD SUR" tvg-logo="" group-title="PREMIUM SATELITE",S*CUL | HISTORY 2 FHD SUR
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/299255
+
+#EXTINF:-1 tvg-id="" tvg-name="S*CINE | HBO FHD SUR DUAL AUDIO" tvg-logo="" group-title="PREMIUM SATELITE",S*CINE | HBO FHD SUR DUAL AUDIO
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/299256
+
+#EXTINF:-1 tvg-id="" tvg-name="S*CINE | HBO 2 FHD SUR" tvg-logo="http://svtv.xyz:8000/images/637ca4da63b0295353b15f6bfe7a6ad6.png" group-title="PREMIUM SATELITE",S*CINE | HBO 2 FHD SUR
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/299257
+
+#EXTINF:-1 tvg-id="" tvg-name="S*EN | FX FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*EN | FX FHD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/299258
+
+#EXTINF:-1 tvg-id="" tvg-name="S*DEP | FOX SPORTS 2 SUR FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*DEP | FOX SPORTS 2 SUR FHD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/299259
 
 
 
