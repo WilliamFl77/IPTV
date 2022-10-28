@@ -1,8 +1,14 @@
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="S*SAT | CUL | HISTORY FHD SUR" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/458px-History_Logo.svg.png" group-title="PREMIUM SATELITE",S*SAT | CUL | HISTORY FHD SUR
 
+
+#EXTINF:-1 tvg-id="" tvg-name="MI GENTE | CANAL MI GENTE HD." tvg-logo="https://www.migente-tv.com/wp-content/uploads/2022/04/logo.png" group-title="MUSICA",LAT | CANAL MI GENTE HD
+https://hvtrafico.ddns.net:443/migente720/migente720.stream/chunklist_w206477037.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="S*SAT | CUL | HISTORY FHD SUR" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/458px-History_Logo.svg.png" group-title="PREMIUM SATELITE",S*SAT | CUL | HISTORY FHD SUR
 
 
 
