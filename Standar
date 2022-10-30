@@ -9,24 +9,11 @@ https://hvtrafico.ddns.net:443/migente720/migente720.stream/chunklist_w206477037
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="S*SAT | CUL | HISTORY FHD SUR" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/458px-History_Logo.svg.png" group-title="PREMIUM SATELITE",S*SAT | CUL | HISTORY FHD SUR
-
-#EXTINF:-1 tvg-id="" tvg-name="S*SAT | CUL | HISTORY 2 SD" tvg-logo="http://51.222.43.170:36995/images/7dacd2ff1a0e6315afbaf2dd862df248.png" group-title="PREMIUM SATELITE",S*SAT | CUL | HISTORY 2 SD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/292857
-
-
-#EXTINF:-1 tvg-id="" tvg-name="S*SAT | CUL | HISTORY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/976px-History_Logo.svg.png" group-title="PREMIUM SATELITE",S*SAT | CUL | HISTORY SD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/292858
-
 #EXTINF:-1 tvg-id="" tvg-name="S*CUL | HISTORY FHD NORTE" tvg-logo="" group-title="PREMIUM SATELITE",S*CUL | HISTORY FHD NORTE
 http://svtv.xyz:8080/PMP30D78/BrdEAh9/299220
 
-#EXTINF:-1 tvg-id="" tvg-name="S*CUL | HISTORY 2 FHD SUR" tvg-logo="" group-title="PREMIUM SATELITE",S*CUL | HISTORY 2 FHD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299255
-
-#EXTINF:-1 tvg-id="" tvg-name="S*CUL | HISTORY FHD NORTE" tvg-logo="" group-title="PREMIUM SATELITE",S*CUL | HISTORY FHD NORTE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299220
+#EXTINF:-1 tvg-id="" tvg-name="CUL | HISTORY NORTE V*" tvg-logo="http://svtv.xyz:8000/images/43f1ac6263ded5b136c8c5db73c73c6c.png" group-title="CULTURA",CUL | HISTORY NORTE V*
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/31056
 
 #EXTINF:-1 tvg-id="" tvg-name="S*CUL | HISTORY 2 FHD SUR" tvg-logo="" group-title="PREMIUM SATELITE",S*CUL | HISTORY 2 FHD SUR
 http://svtv.xyz:8080/PMP30D78/BrdEAh9/299255
@@ -36,59 +23,53 @@ http://svtv.xyz:8080/PMP30D78/BrdEAh9/299255
 #EXTINF:-1 tvg-id="" tvg-name="S*CUL | DISCOVERY CHANNEL FHD SUR" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" group-title="PREMIUM SATELITE",S*CUL | DISCOVERY CHANNEL FHD SUR
 http://svtv.xyz:8080/PMP30D78/BrdEAh9/296566
 
-#EXTINF:-1 tvg-id="" tvg-name="S*SAT | CUL | DISCOVERY CHANNEL SD SUR" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" group-title="PREMIUM SATELITE",S*SAT | CUL | DISCOVERY CHANNEL SD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/292836
+#EXTINF:-1 tvg-id="" tvg-name="S*CUL | DISCOVERY CHANNEL FHD NORTE" tvg-logo="" group-title="PREMIUM SATELITE",S*CUL | DISCOVERY CHANNEL FHD NORTE
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/299318
 
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://svtv.xyz:8000/images/813513ce030768aab17b38d54a047587.png" group-title="DISCOVERY'S",DISCOVERY CHANNEL HD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/30076
 
-#EXTINF:-1 tvg-id="" tvg-name="S*SAT | CUL | DISCOVERY HOME & HEALTH SD" tvg-logo="https://i.ibb.co/gTbw0bq/H-H.png" group-title="PREMIUM SATELITE",S*SAT | CUL | DISCOVERY HOME & HEALTH SD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/292837
-
-
-#EXTINF:-1 tvg-id="" tvg-name="S*SAT | CUL | DISCOVERY TURBO SD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-turbo_m.png" group-title="PREMIUM SATELITE",S*SAT | CUL | DISCOVERY TURBO SD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/292838
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL V*" tvg-logo="http://svtv.xyz:8000/images/813513ce030768aab17b38d54a047587.png" group-title="DISCOVERY'S",DISCOVERY CHANNEL V*
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/287610
 
 #EXTINF:-1 tvg-id="" tvg-name="S*SAT | CUL | NAT GEO FHD SUR" tvg-logo="http://51.222.43.170:36995/images/c9ac57e5a641756778160612169d4005.png" group-title="PREMIUM SATELITE",S*SAT | CUL | NAT GEO FHD SUR
 http://svtv.xyz:8080/PMP30D78/BrdEAh9/292860
 
 
-#EXTINF:-1 tvg-id="" tvg-name="S*CUL | DISCOVERY CHANNEL FHD SUR" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" group-title="PREMIUM SATELITE",S*CUL | DISCOVERY CHANNEL FHD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/296566
-
-#EXTINF:-1 tvg-id="" tvg-name="S*SAT | CUL | INVESTIGATION DISCOVERY SD" tvg-logo="http://i.ibb.co/RYvrN4k/Investigation-Discovery.png" group-title="PREMIUM SATELITE",S*SAT | CUL | INVESTIGATION DISCOVERY SD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/292872
-
-
-#EXTINF:-1 tvg-id="" tvg-name="S*CUL | INVESTIGATION DISCOVERY FHD NORTE" tvg-logo="http://i.ibb.co/RYvrN4k/Investigation-Discovery.png" group-title="PREMIUM SATELITE",S*CUL | INVESTIGATION DISCOVERY FHD NORTE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/296592
-
 #EXTINF:-1 tvg-id="" tvg-name="S*CUL | DISCOVERY WORLD FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CUL | DISCOVERY WORLD FHD
 http://svtv.xyz:8080/PMP30D78/BrdEAh9/299219
 
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD LAT HD " tvg-logo="http://svtv.xyz:8000/images/3ca47374c11805c5ca3e2ae4726f3122.png" group-title="DISCOVERY'S",DISCOVERY WORLD LAT HD 
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/31050
 
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD V*" tvg-logo="http://svtv.xyz:8000/images/3ca47374c11805c5ca3e2ae4726f3122.png" group-title="DISCOVERY'S",DISCOVERY WORLD V*
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/287611
 
 #EXTINF:-1 tvg-id="" tvg-name="S*CUL | INVESTIGATION DISCOVERY FHD NORTE" tvg-logo="http://i.ibb.co/RYvrN4k/Investigation-Discovery.png" group-title="PREMIUM SATELITE",S*CUL | INVESTIGATION DISCOVERY FHD NORTE
 http://svtv.xyz:8080/PMP30D78/BrdEAh9/296592
-
-#EXTINF:-1 tvg-id="" tvg-name="S*CUL | DISCOVERY WORLD FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CUL | DISCOVERY WORLD FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299219
-
-
-#EXTINF:-1 tvg-id="" tvg-name="S*CUL | DISCOVERY HOME & HEALTH FHD NORTE" tvg-logo="https://i.ibb.co/gTbw0bq/H-H.png" group-title="PREMIUM SATELITE",S*CUL | DISCOVERY HOME & HEALTH FHD NORTE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299307
-
-#EXTINF:-1 tvg-id="" tvg-name="S*CUL | DISCOVERY THEATER FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CUL | DISCOVERY THEATER FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299310
-
-#EXTINF:-1 tvg-id="" tvg-name="S*CUL | DISCOVERY CHANNEL FHD NORTE" tvg-logo="" group-title="PREMIUM SATELITE",S*CUL | DISCOVERY CHANNEL FHD NORTE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299318
-
 
 #EXTINF:-1 tvg-id="" tvg-name="S*CUL | INVESTIGATION DISCOVERY FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CUL | INVESTIGATION DISCOVERY FHD
 http://svtv.xyz:8080/PMP30D78/BrdEAh9/299254
 
+#EXTINF:-1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY HD" tvg-logo="http://svtv.xyz:8000/images/b59c162c35b231fe4d7300c38b0c182a.png" group-title="DISCOVERY'S",INVESTIGATION DISCOVERY HD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/31049
 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://svtv.xyz:8000/images/813513ce030768aab17b38d54a047587.png" group-title="DISCOVERY'S",DISCOVERY CHANNEL HD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/30076
+#EXTINF:-1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY V*" tvg-logo="http://svtv.xyz:8000/images/b59c162c35b231fe4d7300c38b0c182a.png" group-title="DISCOVERY'S",INVESTIGATION DISCOVERY V*
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/287612
+
+#EXTINF:-1 tvg-id="" tvg-name="S*CUL | DISCOVERY HOME & HEALTH FHD NORTE" tvg-logo="https://i.ibb.co/gTbw0bq/H-H.png" group-title="PREMIUM SATELITE",S*CUL | DISCOVERY HOME & HEALTH FHD NORTE
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/299307
+
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H NORTE V*" tvg-logo="https://i.ibb.co/gTbw0bq/H-H.png" group-title="DISCOVERY'S",DISCOVERY H&H NORTE V*
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/31064
+
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H SUR V*" tvg-logo="https://i.ibb.co/gTbw0bq/H-H.png" group-title="DISCOVERY'S",DISCOVERY H&H SUR V*
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/287616
+
+
+#EXTINF:-1 tvg-id="" tvg-name="S*CUL | DISCOVERY THEATER FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CUL | DISCOVERY THEATER FHD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/299310
+
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO MX HD" tvg-logo="http://svtv.xyz:8000/images/58d50ec4ff35a5a2a9d7925696d1d64f.png" group-title="DISCOVERY'S",DISCOVERY TURBO MX HD
 http://svtv.xyz:8080/PMP30D78/BrdEAh9/30078
@@ -96,53 +77,27 @@ http://svtv.xyz:8080/PMP30D78/BrdEAh9/30078
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CIVILIZATION HD" tvg-logo="http://svtv.xyz:8000/images/5342678c1fa638de9bbfa78db0ddca42.png" group-title="DISCOVERY'S",DISCOVERY CIVILIZATION HD
 http://svtv.xyz:8080/PMP30D78/BrdEAh9/30082
 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY  H&H  SD" tvg-logo="http://svtv.xyz:8000/images/fcd8f69a6e6e13eac99d7278428610c8.png" group-title="DISCOVERY'S",DISCOVERY  H&H  SD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/30084
-
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="http://svtv.xyz:8000/images/b4b059879499d7ab60d4054fe490b8e9.png" group-title="DISCOVERY'S",DISCOVERY SCIENCE SD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31047
-
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE HD *dp" tvg-logo="http://svtv.xyz:8000/images/b4b059879499d7ab60d4054fe490b8e9.png" group-title="DISCOVERY'S",DISCOVERY SCIENCE HD *dp
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31048
-
-#EXTINF:-1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY HD" tvg-logo="http://svtv.xyz:8000/images/b59c162c35b231fe4d7300c38b0c182a.png" group-title="DISCOVERY'S",INVESTIGATION DISCOVERY HD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31049
-
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD LAT HD " tvg-logo="http://svtv.xyz:8000/images/3ca47374c11805c5ca3e2ae4726f3122.png" group-title="DISCOVERY'S",DISCOVERY WORLD LAT HD 
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31050
-
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FAMILIA" tvg-logo="http://svtv.xyz:8000/images/347a1d14a9ee6d8ef67a0d7aa8552c4f.png" group-title="DISCOVERY'S",DISCOVERY FAMILIA
 http://svtv.xyz:8080/PMP30D78/BrdEAh9/31053
-
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER SD" tvg-logo="http://svtv.xyz:8000/images/092558c40d2000b3fe3e19a270ae9da9.png" group-title="DISCOVERY'S",DISCOVERY THEATER SD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/110775
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TLC HD." tvg-logo="http://svtv.xyz:8000/images/1f1146db861cf7485d48e9ea3ac5c762.png" group-title="DISCOVERY'S",DISCOVERY TLC HD.
 http://svtv.xyz:8080/PMP30D78/BrdEAh9/110781
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="S*CUL | ANIMAL PLANET SD SUR" tvg-logo="" group-title="PREMIUM SATELITE",S*CUL | ANIMAL PLANET SD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299275
-
-
 #EXTINF:-1 tvg-id="" tvg-name="S*MTV 00S FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*MTV 00S FHD
 http://svtv.xyz:8080/PMP30D78/BrdEAh9/299306
-
 
 #EXTINF:-1 tvg-id="" tvg-name="S*CUL | NAT GEO FHD NORTE" tvg-logo="" group-title="PREMIUM SATELITE",S*CUL | NAT GEO FHD NORTE
 http://svtv.xyz:8080/PMP30D78/BrdEAh9/299315
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="CUL | ANIMAL PLANET " tvg-logo="http://svtv.xyz:8000/images/9e0bed69858a3eec7dde677072dfb39f.png" group-title="CULTURA",CUL | ANIMAL PLANET 
 http://svtv.xyz:8080/PMP30D78/BrdEAh9/30074
 
-#EXTINF:-1 tvg-id="" tvg-name="CUL | HISTORY 2" tvg-logo="http://svtv.xyz:8000/images/778cf37af9690ab4ca5c09faf4b92f9b.png" group-title="CULTURA",CUL | HISTORY 2
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31054
-
 #EXTINF:-1 tvg-id="" tvg-name="CUL | NATGEO MUNDO" tvg-logo="http://svtv.xyz:8000/images/de308bd745c7f4e7cb6df40ba009a45e.png" group-title="CULTURA",CUL | NATGEO MUNDO
 http://svtv.xyz:8080/PMP30D78/BrdEAh9/31058
+
+#EXTINF:-1 tvg-id="" tvg-name="CUL | NATGEO WILD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo.png" group-title="CULTURA",CUL | NATGEO WILD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/182223
 
 #EXTINF:-1 tvg-id="" tvg-name="CUL | FOOD NETWORK HD" tvg-logo="http://svtv.xyz:8000/images/072ca0976074aa6959035498252b9cf1.png" group-title="CULTURA",CUL | FOOD NETWORK HD
 http://svtv.xyz:8080/PMP30D78/BrdEAh9/31063
@@ -153,32 +108,9 @@ http://svtv.xyz:8080/PMP30D78/BrdEAh9/67600
 #EXTINF:-1 tvg-id="" tvg-name="CUL | HGTV MX" tvg-logo="http://svtv.xyz:8000/images/1890e0812faeb12f2f66110349f4f4cb.png" group-title="CULTURA",CUL | HGTV MX
 http://svtv.xyz:8080/PMP30D78/BrdEAh9/110851
 
-#EXTINF:-1 tvg-id="" tvg-name="CUL | NATGEO WILD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo.png" group-title="CULTURA",CUL | NATGEO WILD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/182223
-
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H NORTE V*" tvg-logo="https://i.ibb.co/gTbw0bq/H-H.png" group-title="DISCOVERY'S",DISCOVERY H&H NORTE V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31064
-
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL V*" tvg-logo="http://svtv.xyz:8000/images/813513ce030768aab17b38d54a047587.png" group-title="DISCOVERY'S",DISCOVERY CHANNEL V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/287610
-
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD V*" tvg-logo="http://svtv.xyz:8000/images/3ca47374c11805c5ca3e2ae4726f3122.png" group-title="DISCOVERY'S",DISCOVERY WORLD V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/287611
-
-#EXTINF:-1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY V*" tvg-logo="http://svtv.xyz:8000/images/b59c162c35b231fe4d7300c38b0c182a.png" group-title="DISCOVERY'S",INVESTIGATION DISCOVERY V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/287612
-
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H SUR V*" tvg-logo="https://i.ibb.co/gTbw0bq/H-H.png" group-title="DISCOVERY'S",DISCOVERY H&H SUR V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/287616
-
-#EXTINF:-1 tvg-id="" tvg-name="CUL | HISTORY NORTE V*" tvg-logo="http://svtv.xyz:8000/images/43f1ac6263ded5b136c8c5db73c73c6c.png" group-title="CULTURA",CUL | HISTORY NORTE V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31056
 
 #EXTINF:-1 tvg-id="" tvg-name="CUL | EL GOURMET V*" tvg-logo="http://svtv.xyz:8000/images/1c521cacf9c00df7a9142c8cfb8d6384.png" group-title="CULTURA",CUL | EL GOURMET V*
 http://svtv.xyz:8080/PMP30D78/BrdEAh9/31065
-
-#EXTINF:-1 tvg-id="" tvg-name="CUL | HISTORY SUR 2 V*" tvg-logo="http://svtv.xyz:8000/images/43f1ac6263ded5b136c8c5db73c73c6c.png" group-title="CULTURA",CUL | HISTORY SUR 2 V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/287607
 
 #EXTINF:-1 tvg-id="" tvg-name="CUL | NATGEO V*" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo.png" group-title="CULTURA",CUL | NATGEO V*
 http://svtv.xyz:8080/PMP30D78/BrdEAh9/287613
