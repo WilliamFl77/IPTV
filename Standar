@@ -132,9 +132,6 @@ http://svtv.xyz:8080/PMP30D78/BrdEAh9/292816
 #EXTINF:-1 tvg-id="" tvg-name="S*SAT | EN | HOLA TV FHD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/640px-%C2%A1HOLA%21TVlogo.jpg" group-title="PREMIUM SATELITE",S*SAT | EN | HOLA TV FHD
 http://svtv.xyz:8080/PMP30D78/BrdEAh9/292817
 
-#EXTINF:-1 tvg-id="" tvg-name="S*SAT | CO | CARACOL SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Caracol_2003.png/revision/latest/scale-to-width-down/340?cb=20200209130328&path-prefix=es" group-title="PREMIUM SATELITE",S*SAT | CO | CARACOL SD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/292821
-
 #EXTINF:-1 tvg-id="" tvg-name="S*SAT | ES: ANTENA 3 INTERNACIONAL SD" tvg-logo="https://findlogovector.com/wp-content/uploads/2018/12/antena-3-tv-logo-vector.png" group-title="PREMIUM SATELITE",S*SAT | ES: ANTENA 3 INTERNACIONAL SD
 http://svtv.xyz:8080/PMP30D78/BrdEAh9/292827
 
@@ -242,7 +239,7 @@ http://svtv.xyz:8080/PMP30D78/BrdEAh9/299224
 http://svtv.xyz:8080/PMP30D78/BrdEAh9/299225
 
 
-#EXTINF:-1 tvg-id="" tvg-name="S*PE | GOL PER鑴� FHD ??" tvg-logo="" group-title="PREMIUM SATELITE",S*PE | GOL PER鑴� FHD ??
+#EXTINF:-1 tvg-id="" tvg-name="S*PE | GOL PER鑴? FHD ??" tvg-logo="" group-title="PREMIUM SATELITE",S*PE | GOL PER鑴? FHD ??
 http://svtv.xyz:8080/PMP30D78/BrdEAh9/299226
 
 #EXTINF:-1 tvg-id="" tvg-name="S*DEP | TYC SPORT SD" tvg-logo="http://svtv.xyz:8000/images/a3929ff1f9f4affebf1e59f5db46b938.png" group-title="PREMIUM SATELITE",S*DEP | TYC SPORT SD
@@ -272,7 +269,7 @@ http://svtv.xyz:8080/PMP30D78/BrdEAh9/299224
 http://svtv.xyz:8080/PMP30D78/BrdEAh9/299225
 
 
-#EXTINF:-1 tvg-id="" tvg-name="S*PE | GOL PER鑴� FHD ??" tvg-logo="" group-title="PREMIUM SATELITE",S*PE | GOL PER鑴� FHD ??
+#EXTINF:-1 tvg-id="" tvg-name="S*PE | GOL PER鑴? FHD ??" tvg-logo="" group-title="PREMIUM SATELITE",S*PE | GOL PER鑴? FHD ??
 http://svtv.xyz:8080/PMP30D78/BrdEAh9/29922
 
 #EXTINF:-1 tvg-id="" tvg-name="S*CO | WIN SPORT+ FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CO | WIN SPORT+ FHD
@@ -375,10 +372,10 @@ http://svtv.xyz:8080/PMP30D78/BrdEAh9/34241
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 4 FHD***" tvg-logo="https://img.sport-tv-guide.live/images/stations/a244.png" group-title="ESPN",ESPN 4 FHD***
 http://svtv.xyz:8080/PMP30D78/BrdEAh9/22912
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 锟�?" tvg-logo="http://svtv.xyz:8000/images/0a8b37a500a5835bdb95304f7efebddc.png" group-title="ESPN",ESPN 2 锟�?
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 锟??" tvg-logo="http://svtv.xyz:8000/images/0a8b37a500a5835bdb95304f7efebddc.png" group-title="ESPN",ESPN 2 锟??
 http://svtv.xyz:8080/PMP30D78/BrdEAh9/29776
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 锟�?" tvg-logo="http://svtv.xyz:8000/images/dbc89618838575bb5f470d437d248829.png" group-title="ESPN",ESPN 3 锟�?
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 锟??" tvg-logo="http://svtv.xyz:8000/images/dbc89618838575bb5f470d437d248829.png" group-title="ESPN",ESPN 3 锟??
 http://svtv.xyz:8080/PMP30D78/BrdEAh9/30954
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN ARG 1 HD" tvg-logo="http://svtv.xyz/nologo.png" group-title="ESPN",ESPN ARG 1 HD
@@ -391,7 +388,7 @@ http://svtv.xyz:8080/PMP30D78/BrdEAh9/164987
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SD" tvg-logo="http://svtv.xyz/nologo.png" group-title="ESPN",ESPN 2 SD
 http://svtv.xyz:8080/PMP30D78/BrdEAh9/164989
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN SUR 锟�?" tvg-logo="http://svtv.xyz:8000/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="ESPN",ESPN SUR 锟�?
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SUR 锟??" tvg-logo="http://svtv.xyz:8000/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="ESPN",ESPN SUR 锟??
 http://svtv.xyz:8080/PMP30D78/BrdEAh9/72707
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 1 MX HD." tvg-logo="http://svtv.xyz:8000/images/fa74b8ac9b6e1d65670ce20acde555a9.png" group-title="ESPN",ESPN 1 MX HD.
@@ -409,7 +406,7 @@ http://svtv.xyz:8080/PMP30D78/BrdEAh9/22904
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 AR HD" tvg-logo="http://svtv.xyz:8000/images/0a8b37a500a5835bdb95304f7efebddc.png" group-title="ESPN",ESPN 2 AR HD
 http://svtv.xyz:8080/PMP30D78/BrdEAh9/22910
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 AR HD 锟�?" tvg-logo="http://svtv.xyz:8000/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="ESPN",ESPN 1 AR HD 锟�?
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 AR HD 锟??" tvg-logo="http://svtv.xyz:8000/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="ESPN",ESPN 1 AR HD 锟??
 http://svtv.xyz:8080/PMP30D78/BrdEAh9/30956
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 3 AR HD" tvg-logo="http://svtv.xyz:8000/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="ESPN",ESPN 3 AR HD
@@ -976,6 +973,104 @@ http://svtv.xyz:8080/PMP30D78/BrdEAh9/288085
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER V*" tvg-logo="http://svtv.xyz:8000/images/092558c40d2000b3fe3e19a270ae9da9.png" group-title="DISCOVERY'S",DISCOVERY THEATER V*
 http://svtv.xyz:8080/PMP30D78/BrdEAh9/31052
+
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | CARACOL FHD" tvg-logo="http://svtv.xyz:8000/images/24cc4821f3c1a40be781fe4387cad3b6.png" group-title="COLOMBIA",COL | CARACOL FHD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/61894
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | CARACOL HD*" tvg-logo="http://svtv.xyz:8000/images/24cc4821f3c1a40be781fe4387cad3b6.png" group-title="COLOMBIA",COL | CARACOL HD*
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/159809
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | CARACOL INTERNACIONAL HD" tvg-logo="http://svtv.xyz:8000/images/cd099a82baaad628b043e32ea61ef032.png" group-title="COLOMBIA",COL | CARACOL INTERNACIONAL HD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/31368
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | LA KALLE HD" tvg-logo="http://svtv.xyz:8000/images/b389ee4954f151c9841ac0deb343a951.png" group-title="COLOMBIA",COL | LA KALLE HD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/31387
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | RCN FHD" tvg-logo="http://svtv.xyz:8000/images/288148e6b416c1956de7f7f336991033.png" group-title="COLOMBIA",COL | RCN FHD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/31359
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | RCN INTERNACIONAL" tvg-logo="http://svtv.xyz:8000/images/b49fa523dba6a60827472f94ba7df8c4.png" group-title="COLOMBIA",COL | RCN INTERNACIONAL
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/31363
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | NTN24" tvg-logo="http://svtv.xyz:8000/images/50415063975dc6134a566c92709674cb.png" group-title="COLOMBIA",COL | NTN24
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/31358
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | RCN NOVELAS SD" tvg-logo="http://svtv.xyz:8000/images/069f464a9e460a5ed75fa599bb19aad1.png" group-title="COLOMBIA",COL | RCN NOVELAS SD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/33395
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | WIN SPORTS *" tvg-logo="http://svtv.xyz:8000/images/295c6a2a261905970889580da0f3c601.png" group-title="DEPORTE LATINO",COL | WIN SPORTS *
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/38815
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | TELE CARIBE HD" tvg-logo="http://svtv.xyz:8000/images/fef5073cdf85b719fd0de678315568c8.png" group-title="COLOMBIA",COL | TELE CARIBE HD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/31361
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL UNO" tvg-logo="http://svtv.xyz:8000/images/0200abb799a26158456f814660ab30eb.png" group-title="COLOMBIA",COL | CANAL UNO
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/31364
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL 12 HD" tvg-logo="http://svtv.xyz:8000/images/3038b0dadbc0cbef263b672e51abb58d.png" group-title="COLOMBIA",COL | CANAL 12 HD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/31365
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | CITY TV  FHD**" tvg-logo="http://svtv.xyz:8000/images/b24080d53734cf8d45ac547c65abf12c.png" group-title="COLOMBIA",COL | CITY TV  FHD**
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/31373
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | TELEANTIOQUIA HD**" tvg-logo="http://svtv.xyz:8000/images/f9318418184f449baf2b148a3a6a6021.png" group-title="COLOMBIA",COL | TELEANTIOQUIA HD**
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/31377
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL CAPITAL" tvg-logo="http://svtv.xyz:8000/images/51484e9b6777674c0d28a31ebb597571.png" group-title="COLOMBIA",COL | CANAL CAPITAL
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/31378
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | CALI TV" tvg-logo="http://svtv.xyz:8000/images/9c9511497691e9afac300f0cc4c33b3d.png" group-title="COLOMBIA",COL | CALI TV
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/31380
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL INSTITUCIONAL HD" tvg-logo="http://svtv.xyz:8000/images/a244d019d3349a0f8103a657fceebd1a.png" group-title="COLOMBIA",COL | CANAL INSTITUCIONAL HD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/31382
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | SENAL COLOMBIA" tvg-logo="http://svtv.xyz:8000/images/a9e8a24367172302066307486248bf63.png" group-title="COLOMBIA",COL | SENAL COLOMBIA
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/31383
+#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL TRO HD" tvg-logo="http://svtv.xyz:8000/images/14078df1b083aff8c5210720736237d0.PNG" group-title="COLOMBIA",COL | CANAL TRO HD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/31391
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL TRECE HD" tvg-logo="http://svtv.xyz:8000/images/df74d4747016b4341255909a07838516.png" group-title="COLOMBIA",COL | CANAL TRECE HD
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/31393
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | AVIVAMIENTO (720P)" tvg-logo="http://svtv.xyz:8000/images/9978eafc70b80ebfee5bab6bc15ba7e1.png" group-title="COLOMBIA",COL | AVIVAMIENTO (720P)
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/61885
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL 2" tvg-logo="http://svtv.xyz:8000/images/78b83e8577bea6dab641e02ebd104a25.png" group-title="COLOMBIA",COL | CANAL 2
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/61887
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL DOCE (720P)" tvg-logo="http://svtv.xyz:8000/images/269f5fe125549487e735263ba1433f41.png" group-title="COLOMBIA",COL | CANAL DOCE (720P)
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/61892
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | TELECARIBE DEPORTES 2" tvg-logo="http://svtv.xyz:8000/images/627a6e7d14e1ac6186ac426a2eebd580.png" group-title="COLOMBIA",COL | TELECARIBE DEPORTES 2
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/61904
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | TELEPAC脙颅FICO" tvg-logo="http://svtv.xyz:8000/images/a59bf7a6a68243edd5be37d6a6fb582d.png" group-title="COLOMBIA",COL | TELEPAC脙颅FICO
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/61906
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | TV GRACIA (720P)" tvg-logo="http://svtv.xyz:8000/images/d7d2b1295067e97c778684c586c49e74.png" group-title="COLOMBIA",COL | TV GRACIA (720P)
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/61907
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | WIN SPORTS +" tvg-logo="http://svtv.xyz:8000/images/295c6a2a261905970889580da0f3c601.png" group-title="DEPORTE LATINO",COL | WIN SPORTS +
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/68891
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | CABLE NOTICIAS" tvg-logo="http://svtv.xyz:8000/images/bcfb932ca281271ae21817f57565c28d.png" group-title="COLOMBIA",COL | CABLE NOTICIAS
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/84868
+
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL CALI" tvg-logo="" group-title="COLOMBIA",COL | CANAL CALI
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/196436
+#EXTINF:-1 tvg-id="" tvg-name="COL | TELEVID" tvg-logo="" group-title="COLOMBIA",COL | TELEVID
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/275750
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | TELECAFE" tvg-logo="" group-title="COLOMBIA",COL | TELECAFE
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/277654
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | TV AGRO" tvg-logo="http://192.99.0.195:8080/images/34a95fbabf3abeb24dae09d19cb34389.png" group-title="COLOMBIA",COL | TV AGRO
+http://svtv.xyz:8080/PMP30D78/BrdEAh9/277697
+
+
 
 
 
