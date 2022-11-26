@@ -1,122 +1,60 @@
-
-
 #EXTM3U
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="MI GENTE | CANAL MI GENTE HD." tvg-logo="https://www.migente-tv.com/wp-content/uploads/2022/04/logo.png" group-title="MUSICA",LAT | CANAL MI GENTE HD
 https://hvtrafico.ddns.net:443/migente720/migente720.stream/chunklist_w206477037.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="S*SAT | CUL | HISTORY FHD SUR" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/458px-History_Logo.svg.png" group-title="PREMIUM SATELITE",S*SAT | CUL | HISTORY FHD SUR
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/292816
 
-#EXTINF:-1 tvg-id="" tvg-name="S*CUL | HISTORY FHD NORTE" tvg-logo="" group-title="PREMIUM SATELITE",S*CUL | HISTORY FHD NORTE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299220
+#EXTINF:-1 tvg-id="" tvg-name="S*SAT | CUL | DISCOVERY CHANNEL SD SUR" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" group-title="PREMIUM SATELITE",S*SAT | CUL | DISCOVERY CHANNEL SD SUR
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/292836
 
-#EXTINF:-1 tvg-id="" tvg-name="CUL | HISTORY NORTE V*" tvg-logo="http://svtv.xyz:8000/images/43f1ac6263ded5b136c8c5db73c73c6c.png" group-title="CULTURA",CUL | HISTORY NORTE V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31056
+#EXTINF:-1 tvg-id="" tvg-name="S*SAT | CUL | DISCOVERY HOME & HEALTH SD" tvg-logo="https://i.ibb.co/gTbw0bq/H-H.png" group-title="PREMIUM SATELITE",S*SAT | CUL | DISCOVERY HOME & HEALTH SD
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/292837
 
-#EXTINF:-1 tvg-id="" tvg-name="S*CUL | HISTORY 2 FHD SUR" tvg-logo="" group-title="PREMIUM SATELITE",S*CUL | HISTORY 2 FHD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299255
+#EXTINF:-1 tvg-id="" tvg-name="S*SAT | CUL | DISCOVERY TURBO SD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-turbo_m.png" group-title="PREMIUM SATELITE",S*SAT | CUL | DISCOVERY TURBO SD
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/292838
 
+#EXTINF:-1 tvg-id="" tvg-name="S*SAT | CUL | HISTORY 2 SD" tvg-logo="http://51.222.43.170:36995/images/7dacd2ff1a0e6315afbaf2dd862df248.png" group-title="PREMIUM SATELITE",S*SAT | CUL | HISTORY 2 SD
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/292857
 
-
-#EXTINF:-1 tvg-id="" tvg-name="S*CUL | DISCOVERY CHANNEL FHD SUR" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" group-title="PREMIUM SATELITE",S*CUL | DISCOVERY CHANNEL FHD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/296566
-
-#EXTINF:-1 tvg-id="" tvg-name="S*CUL | DISCOVERY CHANNEL FHD NORTE" tvg-logo="" group-title="PREMIUM SATELITE",S*CUL | DISCOVERY CHANNEL FHD NORTE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299318
-
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://svtv.xyz:8000/images/813513ce030768aab17b38d54a047587.png" group-title="DISCOVERY'S",DISCOVERY CHANNEL HD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/30076
-
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL V*" tvg-logo="http://svtv.xyz:8000/images/813513ce030768aab17b38d54a047587.png" group-title="DISCOVERY'S",DISCOVERY CHANNEL V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/287610
+#EXTINF:-1 tvg-id="" tvg-name="S*SAT | CUL | HISTORY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/976px-History_Logo.svg.png" group-title="PREMIUM SATELITE",S*SAT | CUL | HISTORY SD
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/292858
 
 #EXTINF:-1 tvg-id="" tvg-name="S*SAT | CUL | NAT GEO FHD SUR" tvg-logo="http://51.222.43.170:36995/images/c9ac57e5a641756778160612169d4005.png" group-title="PREMIUM SATELITE",S*SAT | CUL | NAT GEO FHD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/292860
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/292860
 
+#EXTINF:-1 tvg-id="" tvg-name="S*SAT | CUL | INVESTIGATION DISCOVERY SD" tvg-logo="http://i.ibb.co/RYvrN4k/Investigation-Discovery.png" group-title="PREMIUM SATELITE",S*SAT | CUL | INVESTIGATION DISCOVERY SD
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/292872
 
-#EXTINF:-1 tvg-id="" tvg-name="S*CUL | DISCOVERY WORLD FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CUL | DISCOVERY WORLD FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299219
-
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD LAT HD " tvg-logo="http://svtv.xyz:8000/images/3ca47374c11805c5ca3e2ae4726f3122.png" group-title="DISCOVERY'S",DISCOVERY WORLD LAT HD 
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31050
-
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD V*" tvg-logo="http://svtv.xyz:8000/images/3ca47374c11805c5ca3e2ae4726f3122.png" group-title="DISCOVERY'S",DISCOVERY WORLD V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/287611
+#EXTINF:-1 tvg-id="" tvg-name="S*CUL | DISCOVERY CHANNEL FHD SUR" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" group-title="PREMIUM SATELITE",S*CUL | DISCOVERY CHANNEL FHD SUR
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/296566
 
 #EXTINF:-1 tvg-id="" tvg-name="S*CUL | INVESTIGATION DISCOVERY FHD NORTE" tvg-logo="http://i.ibb.co/RYvrN4k/Investigation-Discovery.png" group-title="PREMIUM SATELITE",S*CUL | INVESTIGATION DISCOVERY FHD NORTE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/296592
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/296592
+
+#EXTINF:-1 tvg-id="" tvg-name="S*CUL | DISCOVERY WORLD FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CUL | DISCOVERY WORLD FHD
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299219
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="S*CUL | HISTORY FHD NORTE" tvg-logo="" group-title="PREMIUM SATELITE",S*CUL | HISTORY FHD NORTE
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299220
+
 
 #EXTINF:-1 tvg-id="" tvg-name="S*CUL | INVESTIGATION DISCOVERY FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CUL | INVESTIGATION DISCOVERY FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299254
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299254
 
-#EXTINF:-1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY HD" tvg-logo="http://svtv.xyz:8000/images/b59c162c35b231fe4d7300c38b0c182a.png" group-title="DISCOVERY'S",INVESTIGATION DISCOVERY HD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31049
+#EXTINF:-1 tvg-id="" tvg-name="S*CUL | HISTORY 2 FHD SUR" tvg-logo="" group-title="PREMIUM SATELITE",S*CUL | HISTORY 2 FHD SUR
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299255
 
-#EXTINF:-1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY V*" tvg-logo="http://svtv.xyz:8000/images/b59c162c35b231fe4d7300c38b0c182a.png" group-title="DISCOVERY'S",INVESTIGATION DISCOVERY V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/287612
+#EXTINF:-1 tvg-id="" tvg-name="S*EN | EL GOURMET FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*EN | EL GOURMET FHD
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299261
 
-#EXTINF:-1 tvg-id="" tvg-name="S*CUL | DISCOVERY HOME & HEALTH FHD NORTE" tvg-logo="https://i.ibb.co/gTbw0bq/H-H.png" group-title="PREMIUM SATELITE",S*CUL | DISCOVERY HOME & HEALTH FHD NORTE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299307
-
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H NORTE V*" tvg-logo="https://i.ibb.co/gTbw0bq/H-H.png" group-title="DISCOVERY'S",DISCOVERY H&H NORTE V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31064
-
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H SUR V*" tvg-logo="https://i.ibb.co/gTbw0bq/H-H.png" group-title="DISCOVERY'S",DISCOVERY H&H SUR V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/287616
-
-
-#EXTINF:-1 tvg-id="" tvg-name="S*CUL | DISCOVERY THEATER FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CUL | DISCOVERY THEATER FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299310
-
-
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO MX HD" tvg-logo="http://svtv.xyz:8000/images/58d50ec4ff35a5a2a9d7925696d1d64f.png" group-title="DISCOVERY'S",DISCOVERY TURBO MX HD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/30078
-
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CIVILIZATION HD" tvg-logo="http://svtv.xyz:8000/images/5342678c1fa638de9bbfa78db0ddca42.png" group-title="DISCOVERY'S",DISCOVERY CIVILIZATION HD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/30082
-
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FAMILIA" tvg-logo="http://svtv.xyz:8000/images/347a1d14a9ee6d8ef67a0d7aa8552c4f.png" group-title="DISCOVERY'S",DISCOVERY FAMILIA
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31053
-
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TLC HD." tvg-logo="http://svtv.xyz:8000/images/1f1146db861cf7485d48e9ea3ac5c762.png" group-title="DISCOVERY'S",DISCOVERY TLC HD.
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/110781
-
-
-#EXTINF:-1 tvg-id="" tvg-name="S*MTV 00S FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*MTV 00S FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299306
-
-#EXTINF:-1 tvg-id="" tvg-name="S*CUL | NAT GEO FHD NORTE" tvg-logo="" group-title="PREMIUM SATELITE",S*CUL | NAT GEO FHD NORTE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299315
-
-#EXTINF:-1 tvg-id="" tvg-name="CUL | ANIMAL PLANET " tvg-logo="http://svtv.xyz:8000/images/9e0bed69858a3eec7dde677072dfb39f.png" group-title="CULTURA",CUL | ANIMAL PLANET 
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/30074
-
-#EXTINF:-1 tvg-id="" tvg-name="CUL | NATGEO MUNDO" tvg-logo="http://svtv.xyz:8000/images/de308bd745c7f4e7cb6df40ba009a45e.png" group-title="CULTURA",CUL | NATGEO MUNDO
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31058
-
-#EXTINF:-1 tvg-id="" tvg-name="CUL | NATGEO WILD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo.png" group-title="CULTURA",CUL | NATGEO WILD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/182223
-
-#EXTINF:-1 tvg-id="" tvg-name="CUL | FOOD NETWORK HD" tvg-logo="http://svtv.xyz:8000/images/072ca0976074aa6959035498252b9cf1.png" group-title="CULTURA",CUL | FOOD NETWORK HD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31063
-
-#EXTINF:-1 tvg-id="" tvg-name="CUL | INMOBILIARIA TV" tvg-logo="http://svtv.xyz:8000/images/7e69db392db542ea773406518c359671.png" group-title="CULTURA",CUL | INMOBILIARIA TV
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/67600
-
-#EXTINF:-1 tvg-id="" tvg-name="CUL | HGTV MX" tvg-logo="http://svtv.xyz:8000/images/1890e0812faeb12f2f66110349f4f4cb.png" group-title="CULTURA",CUL | HGTV MX
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/110851
-
-
-#EXTINF:-1 tvg-id="" tvg-name="CUL | EL GOURMET V*" tvg-logo="http://svtv.xyz:8000/images/1c521cacf9c00df7a9142c8cfb8d6384.png" group-title="CULTURA",CUL | EL GOURMET V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31065
-
-#EXTINF:-1 tvg-id="" tvg-name="CUL | NATGEO V*" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo.png" group-title="CULTURA",CUL | NATGEO V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/287613
-
-#EXTINF:-1 tvg-id="" tvg-name="CUL | ANIMAL PLANET V*" tvg-logo="http://svtv.xyz:8000/images/9e0bed69858a3eec7dde677072dfb39f.png" group-title="CULTURA",CUL | ANIMAL PLANET V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/288080
+#EXTINF:-1 tvg-id="" tvg-name="S*CUL | DISCOVERY HOME & HEALTH FHD SUR" tvg-logo="https://i.ibb.co/gTbw0bq/H-H.png" group-title="PREMIUM SATELITE",S*CUL | DISCOVERY HOME & HEALTH FHD SUR
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299271
 
 
 
@@ -126,824 +64,144 @@ http://svtv.xyz:8080/PMP30D78/BrdEAh9/288080
 
 
 #EXTINF:-1 tvg-id="" tvg-name="S*SAT | CINE | CINECANAL FHD SUR" tvg-logo="http://svtv.xyz:8000/images/a0bd0b2b983bc4f3baa99632d5f9c36c.png" group-title="PREMIUM SATELITE",S*SAT | CINE | CINECANAL FHD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/292822
-
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/292822
 
 #EXTINF:-1 tvg-id="" tvg-name="S*SAT | CINE | HBO XTREME FHD SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="PREMIUM SATELITE",S*SAT | CINE | HBO XTREME FHD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/292823
-
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/292823
 
 #EXTINF:-1 tvg-id="" tvg-name="S*SAT | UNIVERSAL CHANNEL FHD SUR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY92YKLSX4pOWU0RxeNcEVenTL-mCXcc0VwQ&usqp=CAU" group-title="PREMIUM SATELITE",S*SAT | UNIVERSAL CHANNEL FHD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/292824
-
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/292824
 
 #EXTINF:-1 tvg-id="" tvg-name="S*SAT | EN | WARNER TV NORTE FHD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/526px-Warner2018LA.png" group-title="PREMIUM SATELITE",S*SAT | EN | WARNER TV NORTE FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/292825
-
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/292825
 
 #EXTINF:-1 tvg-id="" tvg-name="S*SAT | CINE | AXN SD SUR" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/640px-AXN_logo_%282015%29.svg.png" group-title="PREMIUM SATELITE",S*SAT | CINE | AXN SD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/292826
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/292826
 
 #EXTINF:-1 tvg-id="" tvg-name="S*SAT | CINE | CINECANAL  SD" tvg-logo="http://svtv.xyz:8000/images/a0bd0b2b983bc4f3baa99632d5f9c36c.png" group-title="PREMIUM SATELITE",S*SAT | CINE | CINECANAL  SD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/292833
-
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/292833
 
 #EXTINF:-1 tvg-id="" tvg-name="S*SAT | CINE | CINEMAX SD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/640px-Cinemax_%28Yellow%29.svg.png" group-title="PREMIUM SATELITE",S*SAT | CINE | CINEMAX SD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/292834
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/292834
 
 #EXTINF:-1 tvg-id="" tvg-name="S*SAT | CINE | GOLDEN SD SUR" tvg-logo="http://51.222.43.170:36995/images/4239155985365aa76dd1affd80561dd2.png" group-title="PREMIUM SATELITE",S*SAT | CINE | GOLDEN SD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/292851
-
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/292851
 
 #EXTINF:-1 tvg-id="" tvg-name="S*SAT | CINE | HBO 2 SUR" tvg-logo="http://svtv.xyz:8000/images/637ca4da63b0295353b15f6bfe7a6ad6.png" group-title="PREMIUM SATELITE",S*SAT | CINE | HBO 2 SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/292852
-
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/292852
 
 #EXTINF:-1 tvg-id="" tvg-name="S*SAT | CINE | HBO PLUS SD" tvg-logo="http://svtv.xyz:8000/images/8dab71cd68e2a8b333112b2e3634d5e0.png" group-title="PREMIUM SATELITE",S*SAT | CINE | HBO PLUS SD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/292854
-
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/292854
 
 #EXTINF:-1 tvg-id="" tvg-name="S*SAT | CINE | HBO  SD SUR" tvg-logo="http://51.222.43.170:36995/images/a6e4a9db864869243bb13335800d9731.png" group-title="PREMIUM SATELITE",S*SAT | CINE | HBO  SD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/292855
-
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/292855
 
 #EXTINF:-1 tvg-id="" tvg-name="S*SAT | CINE | HBO XTREME SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="PREMIUM SATELITE",S*SAT | CINE | HBO XTREME SD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/292856
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/292856
+
+#EXTINF:-1 tvg-id="" tvg-name="S*SAT | STN" tvg-logo="https://i0.wp.com/television.com.py/wp-content/uploads/2016/12/LogoSNTverano.jpg?ssl=1" group-title="PREMIUM SATELITE",S*SAT | STN
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/292861
 
 #EXTINF:-1 tvg-id="" tvg-name="S*SAT | CINE | SPACE SD SUR" tvg-logo="http://51.222.43.170:36995/images/70fae6a0b602eafc43bba02c4078e623.png" group-title="PREMIUM SATELITE",S*SAT | CINE | SPACE SD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/292864
-
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/292864
 
 #EXTINF:-1 tvg-id="" tvg-name="S*SAT | CINE | SYFY SD" tvg-logo="https://static.mercadonegro.pe/wp-content/uploads/2017/07/27012717/syfy_2017_logo_stacked.png" group-title="PREMIUM SATELITE",S*SAT | CINE | SYFY SD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/292865
-
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/292865
 
 #EXTINF:-1 tvg-id="" tvg-name="S*SAT | CINE | TNT SD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41SnZkqVXQL.png" group-title="PREMIUM SATELITE",S*SAT | CINE | TNT SD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/292866
-
-#EXTINF:-1 tvg-id="" tvg-name="S*SAT | CINE | UNIVERSAL CRIME SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest/scale-to-width-down/250?cb=20220102014712&path-prefix=es" group-title="PREMIUM SATELITE",S*SAT | CINE | UNIVERSAL CRIME SD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/292874
-
-#EXTINF:-1 tvg-id="" tvg-name="S*SAT | CINE | UNIVERSAL COMEDY SD" tvg-logo="https://www.universalplus.com/assets/logo_comedy_hero.png" group-title="PREMIUM SATELITE",S*SAT | CINE | UNIVERSAL COMEDY SD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/292875
-
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/292866
 
 #EXTINF:-1 tvg-id="" tvg-name="S*SAT | CINE | UNIVERSAL REALITY SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Universal_Reality.png/revision/latest/scale-to-width-down/250?cb=20211201172008" group-title="PREMIUM SATELITE",S*SAT | CINE | UNIVERSAL REALITY SD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/292876
-
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/292876
 
 #EXTINF:-1 tvg-id="" tvg-name="S*SUN CHANNEL" tvg-logo="https://pbs.twimg.com/profile_images/3109144896/098d1aa837e9a8ab0905612a63ea52aa_400x400.png" group-title="PREMIUM SATELITE",S*SUN CHANNEL
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/296554
-
-#EXTINF:-1 tvg-id="" tvg-name="S*CINE | A&E SD NORTE" tvg-logo="http://51.222.43.170:36995/images/3dbdd5967ecf1a9be6608d390828c015.png" group-title="PREMIUM SATELITE",S*CINE | A&E SD NORTE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/296593
-
-
-#EXTINF:-1 tvg-id="" tvg-name="S*EN | TNT SERIES FHD NORTE" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="PREMIUM SATELITE",S*EN | TNT SERIES FHD NORTE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/296594
-
-#EXTINF:-1 tvg-id="" tvg-name="S*CINE | HBO NORTE FHD" tvg-logo="https://static.epg.best/cz/HBO.cz.png" group-title="PREMIUM SATELITE",S*CINE | HBO NORTE FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299218
-
-
-#EXTINF:-1 tvg-id="" tvg-name="S*CINE | HBO 2 FHD NORTE" tvg-logo="http://svtv.xyz:8000/images/637ca4da63b0295353b15f6bfe7a6ad6.png" group-title="PREMIUM SATELITE",S*CINE | HBO 2 FHD NORTE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299229
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/296554
 
 #EXTINF:-1 tvg-id="" tvg-name="S*CINE | CANAL DHE FHD" tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-dhe-logo.png" group-title="PREMIUM SATELITE",S*CINE | CANAL DHE FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/296565
-
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/296565
 
 #EXTINF:-1 tvg-id="" tvg-name="S*CINE | A&E SD NORTE" tvg-logo="http://51.222.43.170:36995/images/3dbdd5967ecf1a9be6608d390828c015.png" group-title="PREMIUM SATELITE",S*CINE | A&E SD NORTE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/296593
-
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/296593
 
 #EXTINF:-1 tvg-id="" tvg-name="S*EN | TNT SERIES FHD NORTE" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="PREMIUM SATELITE",S*EN | TNT SERIES FHD NORTE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/296594
-
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/296594
 
 #EXTINF:-1 tvg-id="" tvg-name="S*CINE | HBO NORTE FHD" tvg-logo="https://static.epg.best/cz/HBO.cz.png" group-title="PREMIUM SATELITE",S*CINE | HBO NORTE FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299218
-
-
-#EXTINF:-1 tvg-id="" tvg-name="S*CINE | HBO POP FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CINE | HBO POP FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/29922
-
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299218
 
 #EXTINF:-1 tvg-id="" tvg-name="S*CINE | HBO POP FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CINE | HBO POP FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299228
-
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299228
 
 #EXTINF:-1 tvg-id="" tvg-name="S*CINE | HBO 2 FHD NORTE" tvg-logo="http://svtv.xyz:8000/images/637ca4da63b0295353b15f6bfe7a6ad6.png" group-title="PREMIUM SATELITE",S*CINE | HBO 2 FHD NORTE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299229
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299229
 
 
 #EXTINF:-1 tvg-id="" tvg-name="S*EN | WARNER TV SUR FHD " tvg-logo="http://serviciosvisuales.ga:25461/images/9724076cceed4c18d42e04d6157f0e54.png" group-title="PREMIUM SATELITE",S*EN | WARNER TV SUR FHD 
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299240
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299240
+
+#EXTINF:-1 tvg-id="" tvg-name="S*DEP | TYC SPORT  FHD" tvg-logo="http://svtv.xyz:8000/images/a3929ff1f9f4affebf1e59f5db46b938.png" group-title="PREMIUM SATELITE",S*DEP | TYC SPORT  FHD
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299241
 
 #EXTINF:-1 tvg-id="" tvg-name="S*EN | TNT SERIES FHD SUR" tvg-logo="http://svtv.xyz:8000/images/3d9b6b4d3c0fe15c610dbc7bcfcd93d3.png" group-title="PREMIUM SATELITE",S*EN | TNT SERIES FHD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299242
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299242
+
+#EXTINF:-1 tvg-id="" tvg-name="S*CL | TNT SPORTS FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CL | TNT SPORTS FHD
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299243
 
 #EXTINF:-1 tvg-id="" tvg-name="S*CINE | TNT SUR FHD" tvg-logo="https://static.epg.best/ar/TNT.ar.png" group-title="PREMIUM SATELITE",S*CINE | TNT SUR FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299244
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299244
 
 #EXTINF:-1 tvg-id="" tvg-name="S*CINE | STUDIO UNIVERSAL FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CINE | STUDIO UNIVERSAL FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299245
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299245
 
 #EXTINF:-1 tvg-id="" tvg-name="S*CINE | SPACE FHD SUR" tvg-logo="" group-title="PREMIUM SATELITE",S*CINE | SPACE FHD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299246
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299246
 
 #EXTINF:-1 tvg-id="" tvg-name="S*EN | SONY CHANNEL FHD SUR" tvg-logo="http://svtv.xyz:8000/images/9ae2767f15b15da469c307585dd350c0.png" group-title="PREMIUM SATELITE",S*EN | SONY CHANNEL FHD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299247
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299247
 
 #EXTINF:-1 tvg-id="" tvg-name="S*CINE | STAR CHANNEL FHD SUR" tvg-logo="" group-title="PREMIUM SATELITE",S*CINE | STAR CHANNEL FHD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299248
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299248
+
+#EXTINF:-1 tvg-id="" tvg-name="S*CINE | HBO 2 FHD SUR" tvg-logo="http://svtv.xyz:8000/images/637ca4da63b0295353b15f6bfe7a6ad6.png" group-title="PREMIUM SATELITE",S*CINE | HBO 2 FHD SUR
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299257
+
+#EXTINF:-1 tvg-id="" tvg-name="S*EN | FX FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*EN | FX FHD
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299258
+
+#EXTINF:-1 tvg-id="" tvg-name="S*CINE | AXN FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CINE | AXN FHD
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299277
+
+#EXTINF:-1 tvg-id="" tvg-name="S*CINE | A&E FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CINE | A&E FHD
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299278
+
+#EXTINF:-1 tvg-id="" tvg-name="S*CINE | AMC FHD SUR" tvg-logo="" group-title="PREMIUM SATELITE",S*CINE | AMC FHD SUR
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299279
 
 
 #EXTINF:-1 tvg-id="" tvg-name="S*CINE | HBO FHD SUR DUAL AUDIO" tvg-logo="" group-title="PREMIUM SATELITE",S*CINE | HBO FHD SUR DUAL AUDIO
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299256
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299256
 
-#EXTINF:-1 tvg-id="" tvg-name="S*CINE | HBO 2 FHD SUR" tvg-logo="http://svtv.xyz:8000/images/637ca4da63b0295353b15f6bfe7a6ad6.png" group-title="PREMIUM SATELITE",S*CINE | HBO 2 FHD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299257
-
-#EXTINF:-1 tvg-id="" tvg-name="S*EN | FX FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*EN | FX FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299258
 
 #EXTINF:-1 tvg-id="" tvg-name="S*CINE | CINEMAX FHD SUR" tvg-logo="" group-title="PREMIUM SATELITE",S*CINE | CINEMAX FHD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299272
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299272
 
-#EXTINF:-1 tvg-id="" tvg-name="S*CINE | AXN FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CINE | AXN FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299277
 
-#EXTINF:-1 tvg-id="" tvg-name="S*CINE | A&E FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CINE | A&E FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299278
 
-#EXTINF:-1 tvg-id="" tvg-name="S*CINE | AMC FHD SUR" tvg-logo="" group-title="PREMIUM SATELITE",S*CINE | AMC FHD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299279
 
 
-#EXTINF:-1 tvg-id="" tvg-name="S*CINE | AMC FHD NORTE" tvg-logo="" group-title="PREMIUM SATELITE",S*CINE | AMC FHD NORTE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299296
 
-#EXTINF:-1 tvg-id="" tvg-name="S*CINE | STAR CHANNEL FHD NORTE" tvg-logo="" group-title="PREMIUM SATELITE",S*CINE | STAR CHANNEL FHD NORTE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299303
 
-#EXTINF:-1 tvg-id="" tvg-name="S*EN | SONY CHANNEL FHD NORTE" tvg-logo="http://svtv.xyz:8000/images/9ae2767f15b15da469c307585dd350c0.png" group-title="PREMIUM SATELITE",S*EN | SONY CHANNEL FHD NORTE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299304
 
-#EXTINF:-1 tvg-id="" tvg-name="S*CINE | CINECANAL FHD NORTE" tvg-logo="http://svtv.xyz:8000/images/a0bd0b2b983bc4f3baa99632d5f9c36c.png" group-title="PREMIUM SATELITE",S*CINE | CINECANAL FHD NORTE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299305
 
-#EXTINF:-1 tvg-id="" tvg-name="S*CINE | UNIVERSAL PREMIERE FHD NORTE" tvg-logo="" group-title="PREMIUM SATELITE",S*CINE | UNIVERSAL PREMIERE FHD NORTE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299308
-
-
-#EXTINF:-1 tvg-id="" tvg-name="S*CINE | HBO PLUS FHD" tvg-logo="http://svtv.xyz:8000/images/8dab71cd68e2a8b333112b2e3634d5e0.png" group-title="PREMIUM SATELITE",S*CINE | HBO PLUS FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299319
-
-#EXTINF:-1 tvg-id="" tvg-name="S*CINE | HBO FAMILY FHD NORTE" tvg-logo="" group-title="PREMIUM SATELITE",S*CINE | HBO FAMILY FHD NORTE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299320
-
-#EXTINF:-1 tvg-id="" tvg-name="S*CINE | TNT NORTE FHD" tvg-logo="https://static.epg.best/ar/TNT.ar.png" group-title="PREMIUM SATELITE",S*CINE | TNT NORTE FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299312
-
-#EXTINF:-1 tvg-id="" tvg-name="S*CINE | UNIVERSAL CINEMA FHD NORTE" tvg-logo="" group-title="PREMIUM SATELITE",S*CINE | UNIVERSAL CINEMA FHD NORTE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299313
-
-#EXTINF:-1 tvg-id="" tvg-name="S*CINE | PARAMOUNT NETWORK FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CINE | PARAMOUNT NETWORK FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299314
-
-
-#EXTINF:-1 tvg-id="" tvg-name="S*CINE | UNIVERSAL COMEDY FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CINE | UNIVERSAL COMEDY FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299323
-
-#EXTINF:-1 tvg-id="" tvg-name="S*CINE | UNIVERSAL REALITY FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CINE | UNIVERSAL REALITY FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299324
-
-#EXTINF:-1 tvg-id="" tvg-name="S*CINE | UNIVERSAL PREMIERE FHD SUR" tvg-logo="" group-title="PREMIUM SATELITE",S*CINE | UNIVERSAL PREMIERE FHD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299325
-
-#EXTINF:-1 tvg-id="" tvg-name="S*CINE | UNIVERSAL CRIME FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CINE | UNIVERSAL CRIME FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299326
-
-#EXTINF:-1 tvg-id="" tvg-name="S*CINE | HBO XTREME FHD NORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="PREMIUM SATELITE",S*CINE | HBO XTREME FHD NORTE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299327
-
-#EXTINF:-1 tvg-id="" tvg-name="S*EN | WARNER TV SUR FHD " tvg-logo="http://serviciosvisuales.ga:25461/images/9724076cceed4c18d42e04d6157f0e54.png" group-title="PREMIUM SATELITE",S*EN | WARNER TV SUR FHD 
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299240
-
-#EXTINF:-1 tvg-id="" tvg-name="S*EN | TNT SERIES FHD SUR" tvg-logo="http://svtv.xyz:8000/images/3d9b6b4d3c0fe15c610dbc7bcfcd93d3.png" group-title="PREMIUM SATELITE",S*EN | TNT SERIES FHD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299242
-
-#EXTINF:-1 tvg-id="" tvg-name="S*CINE | TNT SUR FHD" tvg-logo="https://static.epg.best/ar/TNT.ar.png" group-title="PREMIUM SATELITE",S*CINE | TNT SUR FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299244
-
-#EXTINF:-1 tvg-id="" tvg-name="S*CINE | STUDIO UNIVERSAL FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CINE | STUDIO UNIVERSAL FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299245
-
-#EXTINF:-1 tvg-id="" tvg-name="S*CINE | SPACE FHD SUR" tvg-logo="" group-title="PREMIUM SATELITE",S*CINE | SPACE FHD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299246
-
-#EXTINF:-1 tvg-id="" tvg-name="S*EN | SONY CHANNEL FHD SUR" tvg-logo="http://svtv.xyz:8000/images/9ae2767f15b15da469c307585dd350c0.png" group-title="PREMIUM SATELITE",S*EN | SONY CHANNEL FHD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299247
-
-#EXTINF:-1 tvg-id="" tvg-name="S*CINE | STAR CHANNEL FHD SUR" tvg-logo="" group-title="PREMIUM SATELITE",S*CINE | STAR CHANNEL FHD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299248
-
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Pixar 閳︾粨鍒涘步鎵充绩" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042012/cars_2.png?itok=JXy7Blmx" group-title="DISNEY +",Cinema Disney Pixar 閳︾粨鍒涘步鎵充绩
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31251
-
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Family 閳︾粨鍒涘步鎵充绩" tvg-logo="http://svtv.xyz:8000/images/91ecfd6938ec2d02c45c5260593d3f6c.jpg" group-title="DISNEY +",Cinema Disney Family 閳︾粨鍒涘步鎵充绩
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31252
-
-#EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL" tvg-logo="http://svtv.xyz:8000/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="DISNEY +",CINE MARVEL
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31253
-
-#EXTINF:-1 tvg-id="" tvg-name="Disney Princess 閳︾粨鍒涘步鎵充绩" tvg-logo="http://svtv.xyz:8000/images/1a8e7030e65c913373ba3f3c89b25898.jpg" group-title="DISNEY +",Disney Princess 閳︾粨鍒涘步鎵充绩
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31254
-
-#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action 閳︾粨鍒涘步鎵充绩" tvg-logo="http://svtv.xyz:8000/images/2ec5d184e3f9dd38bb7a8dd55f222bf3.png" group-title="DISNEY +",Disney Live Action 閳︾粨鍒涘步鎵充绩
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31255
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | CINEMAX HD*" tvg-logo="http://svtv.xyz:8000/images/18c234e60a3dc89fa4b4176e3d37d080.png" group-title="PREMIUM LATINO",LAT | CINEMAX HD*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/67
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | FX  HD" tvg-logo="http://svtv.xyz:8000/images/a1d2f92ee37d23d923743f93e4a60483.png" group-title="PREMIUM LATINO",LAT | FX  HD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/77
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | CINECANAL MX" tvg-logo="http://svtv.xyz:8000/images/a0bd0b2b983bc4f3baa99632d5f9c36c.png" group-title="PREMIUM LATINO",LAT | CINECANAL MX
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31015
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | FXM OP1" tvg-logo="http://svtv.xyz:8000/images/ea4dd14f6b137743920234e823449a48.png" group-title="PREMIUM LATINO",LAT | FXM OP1
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31020
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | SPACE HD *" tvg-logo="http://svtv.xyz:8000/images/f72fd3a822e7fd3078c2d8c0aa89c976.png" group-title="PREMIUM LATINO",LAT | SPACE HD *
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31021
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | SPACE " tvg-logo="http://svtv.xyz:8000/images/f72fd3a822e7fd3078c2d8c0aa89c976.png" group-title="PREMIUM LATINO",LAT | SPACE 
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31022
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | SONY CHANNEL" tvg-logo="http://svtv.xyz:8000/images/9ae2767f15b15da469c307585dd350c0.png" group-title="PREMIUM LATINO",LAT | SONY CHANNEL
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31024
-
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | WARNER HD" tvg-logo="http://svtv.xyz:8000/images/9724076cceed4c18d42e04d6157f0e54.png" group-title="PREMIUM LATINO",LAT | WARNER HD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31027
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | UNIVERSAL CHANNEL HD" tvg-logo="http://svtv.xyz:8000/images/c9e7e7a94a518fa0394d6e611709bd9f.png" group-title="PREMIUM LATINO",LAT | UNIVERSAL CHANNEL HD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31028
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | STUDIO UNIVERSAL FHD" tvg-logo="http://svtv.xyz:8000/images/c5ff12f633e68dde65169a8b05451256.png" group-title="PREMIUM LATINO",LAT | STUDIO UNIVERSAL FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31029
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | AXN FHD" tvg-logo="http://svtv.xyz:8000/images/8e40a10a19a214a5ed5931229cf58c49.png" group-title="PREMIUM LATINO",LAT | AXN FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31032
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | AXN HD" tvg-logo="http://svtv.xyz:8000/images/8e40a10a19a214a5ed5931229cf58c49.png" group-title="PREMIUM LATINO",LAT | AXN HD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31033
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | A&E HD" tvg-logo="http://svtv.xyz:8000/images/d6c69f64082f75c962dcfadecbbbc339.png" group-title="PREMIUM LATINO",LAT | A&E HD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31034
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | TCM" tvg-logo="http://svtv.xyz:8000/images/35ea90f53b9ab170a70143cd66830ac8.png" group-title="PREMIUM LATINO",LAT | TCM
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31038
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | GOLDEN PREMIER*" tvg-logo="http://svtv.xyz:8000/images/2149bad6769a9d8fadb5fa449e5ac906.png" group-title="PREMIUM LATINO",LAT | GOLDEN PREMIER*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31040
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | GOLDEN EDGE" tvg-logo="http://svtv.xyz:8000/images/2149bad6769a9d8fadb5fa449e5ac906.png" group-title="PREMIUM LATINO",LAT | GOLDEN EDGE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31041
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | DE PELICULAS PLUS" tvg-logo="http://svtv.xyz:8000/images/53f44c72eff733c435c35a46fb1665c1.png" group-title="PREMIUM LATINO",LAT | DE PELICULAS PLUS
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31044
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | CINE LEGO HD" tvg-logo="http://svtv.xyz:8000/images/2bd4244d1a73c8d1f26fc5e5352c2aae.png" group-title="PREMIUM LATINO",LAT | CINE LEGO HD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31046
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | CINE DC FILM HD" tvg-logo="https://www.pngitem.com/pimgs/m/7-73355_transparent-dinamita-png-cinema-dinamita-png-download.png" group-title="PREMIUM LATINO",LAT | CINE DC FILM HD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31246
-#EXTINF:-1 tvg-id="" tvg-name="LAT | CINELATINO" tvg-logo="http://svtv.xyz:8000/images/a4eceecf5d76d39581d4125e1e34754a.png" group-title="PREMIUM LATINO",LAT | CINELATINO
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31249
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | SYFY" tvg-logo="http://svtv.xyz:8000/images/61d7e5ff7c5d6f56f35e606148c25412.png" group-title="PREMIUM LATINO",LAT | SYFY
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31256
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | PARAMOUNT CHANNEL SUR HD" tvg-logo="http://svtv.xyz:8000/images/01ba5107c29021d98d6a8ca5ea316972.png" group-title="PREMIUM LATINO",LAT | PARAMOUNT CHANNEL SUR HD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31261
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | CINECANAL HD" tvg-logo="http://svtv.xyz:8000/images/a0bd0b2b983bc4f3baa99632d5f9c36c.png" group-title="PREMIUM LATINO",LAT | CINECANAL HD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/43190
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT |  TV PERU" tvg-logo="http://svtv.xyz/nologo.png" group-title="PREMIUM LATINO",LAT |  TV PERU
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/109531
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | DE PELICULA CLASICO" tvg-logo="https://forounivers.com/uploads/monthly_2021_01/small.Logo-de-Pelicula-2021.png.23ff352bff7e01f52b5fffb70ddb86dc.png" group-title="PREMIUM LATINO",LAT | DE PELICULA CLASICO
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/109986
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | HORRORFY" tvg-logo="http://svtv.xyz:8000/images/c81e728d9d4c2f636f067f89cc14862c.jpeg" group-title="PREMIUM LATINO",LAT | HORRORFY
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/109989
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | TOP CINE" tvg-logo="http://svtv.xyz:8000/images/2cf6e23cb123df93942020f06ada4423.jpg" group-title="PREMIUM LATINO",LAT | TOP CINE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/109991
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | CINE SUR" tvg-logo="http://svtv.xyz:8000/images/a5d60cc7fcc62832456bb3b1a406d369.png" group-title="PREMIUM LATINO",LAT | CINE SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/109992
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | TNT MX" tvg-logo="http://svtv.xyz:8000/images/2bfef0530e86875773ac557931601714.png" group-title="PREMIUM LATINO",LAT | TNT MX
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/164030
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | TNT SERIES MX" tvg-logo="http://svtv.xyz:8000/images/3d9b6b4d3c0fe15c610dbc7bcfcd93d3.png" group-title="PREMIUM LATINO",LAT | TNT SERIES MX
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/164032
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | CINEMAX HD 2" tvg-logo="http://svtv.xyz:8000/images/18c234e60a3dc89fa4b4176e3d37d080.png" group-title="PREMIUM LATINO",LAT | CINEMAX HD 2
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/164034
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | CINECANAL HD" tvg-logo="http://svtv.xyz:8000/images/a0bd0b2b983bc4f3baa99632d5f9c36c.png" group-title="PREMIUM LATINO",LAT | CINECANAL HD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/164036
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | CINE SUR" tvg-logo="http://svtv.xyz:8000/images/a5d60cc7fcc62832456bb3b1a406d369.png" group-title="PREMIUM LATINO",LAT | CINE SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/164049
-
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA DINAMITA" tvg-logo="" group-title="PREMIUM LATINO",CINEMA DINAMITA
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/277655
-
-#EXTINF:-1 tvg-id="" tvg-name="2M | DISTRITO COMEDIA" tvg-logo="http://svtv.xyz/cine-sd.png" group-title="PREMIUM LATINO 2MB",2M | DISTRITO COMEDIA
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/165082
-
-#EXTINF:-1 tvg-id="" tvg-name="2M | HISTORY" tvg-logo="http://svtv.xyz:8000/images/43f1ac6263ded5b136c8c5db73c73c6c.png" group-title="PREMIUM LATINO 2MB",2M | HISTORY
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/197030
-
-#EXTINF:-1 tvg-id="" tvg-name="2M | A&E" tvg-logo="http://svtv.xyz:8000/images/d6c69f64082f75c962dcfadecbbbc339.png" group-title="PREMIUM LATINO 2MB",2M | A&E
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/197031
-
-#EXTINF:-1 tvg-id="" tvg-name="2M | HBO FAMILY" tvg-logo="http://svtv.xyz:8000/images/567902b022119f8abef5b7c5eec55f38.png" group-title="PREMIUM LATINO 2MB",2M | HBO FAMILY
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/197110
-
-#EXTINF:-1 tvg-id="" tvg-name="2M | HBO PLUS" tvg-logo="http://svtv.xyz:8000/images/8dab71cd68e2a8b333112b2e3634d5e0.png" group-title="PREMIUM LATINO 2MB",2M | HBO PLUS
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/197113
-
-#EXTINF:-1 tvg-id="" tvg-name="TNT LATINO HD" tvg-logo="http://svtv.xyz:8000/images/2bfef0530e86875773ac557931601714.png" group-title="TNT",TNT LATINO HD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/89
-
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES 1" tvg-logo="http://svtv.xyz:8000/images/3d9b6b4d3c0fe15c610dbc7bcfcd93d3.png" group-title="TNT",TNT SERIES 1
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/92
-
-#EXTINF:-1 tvg-id="" tvg-name="TNT AR HD" tvg-logo="https://static.epg.best/ar/TNT.ar.png" group-title="TNT",TNT AR HD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31009
-
-#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL  HD" tvg-logo="https://i.imgur.com/DO60msJ.png" group-title="STAR CANALES",STAR CHANNEL  HD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/124514
-
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CINEMA  *dp" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" group-title="STAR CANALES",UNIVERSAL CINEMA  *dp
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/191230
-
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CRIME" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" group-title="STAR CANALES",UNIVERSAL CRIME
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/191233
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 **" tvg-logo="http://svtv.xyz:8000/images/637ca4da63b0295353b15f6bfe7a6ad6.png" group-title="HBO CANALES",HBO 2 **
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/30968
-
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="http://svtv.xyz:8000/images/e4991df53d68d8995e52ba9e5c37284f.png" group-title="HBO CANALES",HBO MUNDI
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/30971
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP*" tvg-logo="https://www.vhv.rs/dpng/d/438-4382659_hbo-pop-png-transparent-png.png" group-title="HBO CANALES",HBO POP*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/30972
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE AR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO CANALES",HBO SIGNATURE AR HD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/30975
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO Plus MX HD" tvg-logo="http://svtv.xyz:8000/images/8dab71cd68e2a8b333112b2e3634d5e0.png" group-title="HBO CANALES",HBO Plus MX HD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/30976
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO *" tvg-logo="https://static.epg.best/cz/HBO.cz.png" group-title="HBO CANALES",HBO *
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/30979
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP MX" tvg-logo="https://www.vhv.rs/dpng/d/438-4382659_hbo-pop-png-transparent-png.png" group-title="HBO CANALES",HBO POP MX
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/30982
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD +V" tvg-logo="http://svtv.xyz:8000/images/567902b022119f8abef5b7c5eec55f38.png" group-title="HBO CANALES",HBO FAMILY HD +V
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/30984
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="HBO CANALES",HBO XTREME FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/157728
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | CINEMAX V*" tvg-logo="http://svtv.xyz:8000/images/18c234e60a3dc89fa4b4176e3d37d080.png" group-title="PREMIUM LATINO",LAT | CINEMAX V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31014
-
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | CINECANAL V*" tvg-logo="http://svtv.xyz:8000/images/a0bd0b2b983bc4f3baa99632d5f9c36c.png" group-title="PREMIUM LATINO",LAT | CINECANAL V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31016
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | WARNER TV NORTE V*" tvg-logo="http://serviciosvisuales.ga:25461/images/9724076cceed4c18d42e04d6157f0e54.png" group-title="PREMIUM LATINO",LAT | WARNER TV NORTE V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31026
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | A&E V*" tvg-logo="http://svtv.xyz:8000/images/d6c69f64082f75c962dcfadecbbbc339.png" group-title="PREMIUM LATINO",LAT | A&E V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31034
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | PARAMOUNT NETWORK V*" tvg-logo="http://svtv.xyz:8000/images/01ba5107c29021d98d6a8ca5ea316972.png" group-title="PREMIUM LATINO",LAT | PARAMOUNT NETWORK V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31042
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | AMC NORTE V*" tvg-logo="http://svtv.xyz:8000/images/72a7f30fd311f7abd23e1f88d4783abd.png" group-title="PREMIUM LATINO",LAT | AMC NORTE V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31247
-
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | AMC SUR V*" tvg-logo="http://svtv.xyz:8000/images/72a7f30fd311f7abd23e1f88d4783abd.png" group-title="PREMIUM LATINO",LAT | AMC SUR V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31257
-
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | CANAL DHE V*" tvg-logo="http://svtv.xyz:8000/images/8e04d22f04ba9b2313d368cffafb9379.png" group-title="PREMIUM LATINO",LAT | CANAL DHE V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31260
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | TNT SERIES V*" tvg-logo="http://svtv.xyz:8000/images/3d9b6b4d3c0fe15c610dbc7bcfcd93d3.png" group-title="PREMIUM LATINO",LAT | TNT SERIES V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/164031
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | GOLDEN V*" tvg-logo="http://svtv.xyz:8000/images/2149bad6769a9d8fadb5fa449e5ac906.png" group-title="PREMIUM LATINO",LAT | GOLDEN V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/164043
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | SONY CHANNEL NORTE V*" tvg-logo="http://svtv.xyz:8000/images/9ae2767f15b15da469c307585dd350c0.png" group-title="PREMIUM LATINO",LAT | SONY CHANNEL NORTE V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/287958
-
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | AXN (H)" tvg-logo="http://svtv.xyz:8000/images/8e40a10a19a214a5ed5931229cf58c49.png" group-title="PREMIUM LATINO",LAT | AXN (H)
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/288079
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | FXM V*" tvg-logo="http://svtv.xyz:8000/images/ea4dd14f6b137743920234e823449a48.png" group-title="PREMIUM LATINO",LAT | FXM V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/288084
-
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | SPACE (H)" tvg-logo="http://svtv.xyz:8000/images/f72fd3a822e7fd3078c2d8c0aa89c976.png" group-title="PREMIUM LATINO",LAT | SPACE (H)
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/288087
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT | STUDIO UNIVERSAL V*" tvg-logo="http://svtv.xyz:8000/images/c5ff12f633e68dde65169a8b05451256.png" group-title="PREMIUM LATINO",LAT | STUDIO UNIVERSAL V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/288088
-
-
-#EXTINF:-1 tvg-id="" tvg-name="TNT SUR V*" tvg-logo="https://static.epg.best/ar/TNT.ar.png" group-title="TNT",TNT SUR V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31010
-
-#EXTINF:-1 tvg-id="" tvg-name="TNT MX V*" tvg-logo="http://svtv.xyz:8000/images/2bfef0530e86875773ac557931601714.png" group-title="TNT",TNT MX V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31012
-
-#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL NORTE V*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1280px-Star_Action_2020.svg.png" group-title="STAR CANALES",STAR CHANNEL NORTE V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/30993
-
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE SUR V*" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" group-title="STAR CANALES",UNIVERSAL PREMIERE SUR V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/191231
-
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL REALITY V*" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" group-title="STAR CANALES",UNIVERSAL REALITY V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/191232
-
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL COMEDY V*" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" group-title="STAR CANALES",UNIVERSAL COMEDY V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/191234
-
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CINEMA V*" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" group-title="STAR CANALES",UNIVERSAL CINEMA V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/287614
-
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE NORTE V*" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" group-title="STAR CANALES",UNIVERSAL PREMIERE NORTE V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/287615
-
-#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL SUR V*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1280px-Star_Action_2020.svg.png" group-title="STAR CANALES",STAR CHANNEL SUR V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/287960
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO NORTE V*" tvg-logo="https://static.epg.best/cz/HBO.cz.png" group-title="HBO CANALES",HBO NORTE V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/109
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 NORTE V*" tvg-logo="http://svtv.xyz:8000/images/637ca4da63b0295353b15f6bfe7a6ad6.png" group-title="HBO CANALES",HBO 2 NORTE V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/5514
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS HD V*" tvg-logo="http://svtv.xyz:8000/images/8dab71cd68e2a8b333112b2e3634d5e0.png" group-title="HBO CANALES",HBO PLUS HD V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/30969
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 SUR V*" tvg-logo="http://svtv.xyz:8000/images/637ca4da63b0295353b15f6bfe7a6ad6.png" group-title="HBO CANALES",HBO 2 SUR V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/30970
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME MX V*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="HBO CANALES",HBO XTREME MX V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/30973
-
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD V*" tvg-logo="http://svtv.xyz:8000/images/567902b022119f8abef5b7c5eec55f38.png" group-title="HBO CANALES",HBO FAMILY HD V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/287608
-
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO SUR V*" tvg-logo="https://static.epg.best/cz/HBO.cz.png" group-title="HBO CANALES",HBO SUR V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/287609
-
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP V*" tvg-logo="https://www.vhv.rs/dpng/d/438-4382659_hbo-pop-png-transparent-png.png" group-title="HBO CANALES",HBO POP V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/288085
-
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER V*" tvg-logo="http://svtv.xyz:8000/images/092558c40d2000b3fe3e19a270ae9da9.png" group-title="DISCOVERY'S",DISCOVERY THEATER V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31052
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="S*INF | CARTOON NETWORK FHD NORTE" tvg-logo="http://51.222.43.170:36995/images/4fea3689172d681e5220a51714d76b4d.png" group-title="PREMIUM SATELITE",S*INF | CARTOON NETWORK FHD NORTE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/296591
-
-
-#EXTINF:-1 tvg-id="" tvg-name="S*INF | CARTOON NETWORK FHD NORTE" tvg-logo="http://51.222.43.170:36995/images/4fea3689172d681e5220a51714d76b4d.png" group-title="PREMIUM SATELITE",S*INF | CARTOON NETWORK FHD NORTE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/296591
-
-#EXTINF:-1 tvg-id="" tvg-name="S*INF | DISCOVERY KIDS FHD SUR" tvg-logo="" group-title="PREMIUM SATELITE",S*INF | DISCOVERY KIDS FHD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299270
-
-
-#EXTINF:-1 tvg-id="" tvg-name="S*INF | CARTOON NETWORK FHD SUR" tvg-logo="" group-title="PREMIUM SATELITE",S*INF | CARTOON NETWORK FHD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299273
-
-#EXTINF:-1 tvg-id="" tvg-name="S*INF | DISCOVERY KIDS FHD NORTE" tvg-logo="" group-title="PREMIUM SATELITE",S*INF | DISCOVERY KIDS FHD NORTE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299299
-
-#EXTINF:-1 tvg-id="" tvg-name="INF | BABY TV" tvg-logo="http://svtv.xyz:8000/images/95171258279507cbae7495dac7cd46bd.png" group-title="INFANTILES",INF | BABY TV
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/117
-
-#EXTINF:-1 tvg-id="" tvg-name="INF | NICK" tvg-logo="http://svtv.xyz:8000/images/01cfd6cbdeb526af56a72884b210e301.png" group-title="INFANTILES",INF | NICK
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/121
-
-#EXTINF:-1 tvg-id="" tvg-name="INF | DISNEY CHANNEL HD" tvg-logo="http://svtv.xyz:8000/images/5bc92e45e1b6ef92fe8334157ee5ffd3.png" group-title="INFANTILES",INF | DISNEY CHANNEL HD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/127
-
-#EXTINF:-1 tvg-id="" tvg-name="INF | NICK JR FHD" tvg-logo="http://svtv.xyz:8000/images/57f6f526c0a95af828613d43dac5cad0.png" group-title="INFANTILES",INF | NICK JR FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/129
-
-#EXTINF:-1 tvg-id="" tvg-name="INF | DISCOVERY KIDS" tvg-logo="http://svtv.xyz:8000/images/efe45c3e9f81419fda1b6e6b76b33798.png" group-title="INFANTILES",INF | DISCOVERY KIDS
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31082
-
-#EXTINF:-1 tvg-id="" tvg-name="INF | NICKTOONS" tvg-logo="http://svtv.xyz:8000/images/9b37f14f4c74b8195a04a7705c7e2c74.png" group-title="INFANTILES",INF | NICKTOONS
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31095
-
-#EXTINF:-1 tvg-id="" tvg-name="INF | DISNEY JR." tvg-logo="http://svtv.xyz:8000/images/decb16725c425712f4d56ef0a49c83f9.png" group-title="INFANTILES",INF | DISNEY JR.
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31097
-
-#EXTINF:-1 tvg-id="" tvg-name="INF | NATGEO KIDS" tvg-logo="http://svtv.xyz:8000/images/a86611ac39662989980777f656c43f19.png" group-title="INFANTILES",INF | NATGEO KIDS
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/48337
-
-#EXTINF:-1 tvg-id="" tvg-name="INF | BOOMERANG." tvg-logo="http://svtv.xyz:8000/images/2bd6e1f23788306146b52b0f018fa2bb.png" group-title="INFANTILES",INF | BOOMERANG.
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/75612
-
-#EXTINF:-1 tvg-id="" tvg-name="INF | BITME *dp" tvg-logo="http://svtv.xyz:8000/images/1d88291d2963d53bceb75d8bb1fa2d8d.png" group-title="INFANTILES",INF | BITME *dp
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/75618
-
-#EXTINF:-1 tvg-id="" tvg-name="INF | DISNEY XD" tvg-logo="http://svtv.xyz:8000/images/88d38d7e606f3407449091e3f3349861.png" group-title="INFANTILES",INF | DISNEY XD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/82597
-
-#EXTINF:-1 tvg-id="" tvg-name="INF | CARTOON NETWORK SUR V*" tvg-logo="http://svtv.xyz:8000/images/1bc94183160849d6b99192b880949a9e.png" group-title="INFANTILES",INF | CARTOON NETWORK SUR V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/120
-
-#EXTINF:-1 tvg-id="" tvg-name="INF | NICKELODEON V*" tvg-logo="http://svtv.xyz:8000/images/74c88f3c967009030c1392659e3cdb4a.png" group-title="INFANTILES",INF | NICKELODEON V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/130
-
-#EXTINF:-1 tvg-id="" tvg-name="INF | DISCOVERY KIDS NORTE (H)" tvg-logo="http://svtv.xyz:8000/images/efe45c3e9f81419fda1b6e6b76b33798.png" group-title="INFANTILES",INF | DISCOVERY KIDS NORTE (H)
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/287961
-
-#EXTINF:-1 tvg-id="" tvg-name="INF | DISCOVERY KIDS SUR V*" tvg-logo="http://svtv.xyz:8000/images/efe45c3e9f81419fda1b6e6b76b33798.png" group-title="INFANTILES",INF | DISCOVERY KIDS SUR V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/287962
-
-#EXTINF:-1 tvg-id="" tvg-name="INF | DISNEY JR V*" tvg-logo="http://svtv.xyz:8000/images/decb16725c425712f4d56ef0a49c83f9.png" group-title="INFANTILES",INF | DISNEY JR V*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/288083
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="HTV" tvg-logo="http://svtv.xyz:8000/images/55e730d0262e3f8f7f45f6bfc922b8f6.png" group-title="MUSICA",HTV
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/74450
-
-#EXTINF:-1 tvg-id="" tvg-name="Retro Plus TV * | CL" tvg-logo="http://svtv.xyz:8000/images/3724c625634fbd90bffa889bcc2a80b5.png" group-title="MUSICA",Retro Plus TV * | CL
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/74455
-
-#EXTINF:-1 tvg-id="" tvg-name="Recuerdos Retro Radio TV * | CL" tvg-logo="http://svtv.xyz:8000/images/cdf4dfa6a18261dabd1fcd89dbd5e33b.png" group-title="MUSICA",Recuerdos Retro Radio TV * | CL
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/74456
-
-#EXTINF:-1 tvg-id="" tvg-name="Ruidos TV * | CL" tvg-logo="http://svtv.xyz:8000/images/f294a2ed35beacb79fe57666c0aaf860.png" group-title="MUSICA",Ruidos TV * | CL
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/74457
-
-#EXTINF:-1 tvg-id="" tvg-name="Sexy Kpop TV * | BR" tvg-logo="http://svtv.xyz:8000/images/4baa6768319f9bd76d3afab3960b23ea.jpg" group-title="MUSICA",Sexy Kpop TV * | BR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/74466
-
-#EXTINF:-1 tvg-id="" tvg-name="Retro Plus TV Se甯絘l 2  | CL" tvg-logo="http://svtv.xyz:8000/images/6c9f1adecf8fd1791eec757d85b2707f.png" group-title="MUSICA",Retro Plus TV Se甯絘l 2  | CL
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/74468
-
-#EXTINF:-1 tvg-id="" tvg-name="Portal FoxMix  | CL" tvg-logo="http://svtv.xyz:8000/images/51d81234dead5ee14a0443fb11cae306.png" group-title="MUSICA",Portal FoxMix  | CL
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/74477
-
-#EXTINF:-1 tvg-id="" tvg-name="MU: MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Logo_mtv_plus.png/180px-Logo_mtv_plus.png" group-title="MUSICA",MU: MTV HD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/110008
-
-#EXTINF:-1 tvg-id="" tvg-name="MU: MTV 2" tvg-logo="https://sc.dish.com/shared/images/station-logos/MTV2.png" group-title="MUSICA",MU: MTV 2
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/110009
-
-#EXTINF:-1 tvg-id="" tvg-name="MU: MTV LIVE" tvg-logo="https://www.pngfind.com/pngs/m/75-751322_mtv-livesvg-wikipedia-mtv-live-hd-png-download.png" group-title="MUSICA",MU: MTV LIVE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/110010
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | CARACOL FHD" tvg-logo="http://svtv.xyz:8000/images/24cc4821f3c1a40be781fe4387cad3b6.png" group-title="COLOMBIA",COL | CARACOL FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/61894
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | CARACOL HD*" tvg-logo="http://svtv.xyz:8000/images/24cc4821f3c1a40be781fe4387cad3b6.png" group-title="COLOMBIA",COL | CARACOL HD*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/159809
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | CARACOL INTERNACIONAL HD" tvg-logo="http://svtv.xyz:8000/images/cd099a82baaad628b043e32ea61ef032.png" group-title="COLOMBIA",COL | CARACOL INTERNACIONAL HD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31368
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | LA KALLE HD" tvg-logo="http://svtv.xyz:8000/images/b389ee4954f151c9841ac0deb343a951.png" group-title="COLOMBIA",COL | LA KALLE HD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31387
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | RCN FHD" tvg-logo="http://svtv.xyz:8000/images/288148e6b416c1956de7f7f336991033.png" group-title="COLOMBIA",COL | RCN FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31359
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | RCN INTERNACIONAL" tvg-logo="http://svtv.xyz:8000/images/b49fa523dba6a60827472f94ba7df8c4.png" group-title="COLOMBIA",COL | RCN INTERNACIONAL
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31363
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | NTN24" tvg-logo="http://svtv.xyz:8000/images/50415063975dc6134a566c92709674cb.png" group-title="COLOMBIA",COL | NTN24
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31358
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | RCN NOVELAS SD" tvg-logo="http://svtv.xyz:8000/images/069f464a9e460a5ed75fa599bb19aad1.png" group-title="COLOMBIA",COL | RCN NOVELAS SD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/33395
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | WIN SPORTS *" tvg-logo="http://svtv.xyz:8000/images/295c6a2a261905970889580da0f3c601.png" group-title="DEPORTE LATINO",COL | WIN SPORTS *
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/38815
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | TELE CARIBE HD" tvg-logo="http://svtv.xyz:8000/images/fef5073cdf85b719fd0de678315568c8.png" group-title="COLOMBIA",COL | TELE CARIBE HD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31361
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL UNO" tvg-logo="http://svtv.xyz:8000/images/0200abb799a26158456f814660ab30eb.png" group-title="COLOMBIA",COL | CANAL UNO
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31364
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL 12 HD" tvg-logo="http://svtv.xyz:8000/images/3038b0dadbc0cbef263b672e51abb58d.png" group-title="COLOMBIA",COL | CANAL 12 HD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31365
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | CITY TV  FHD**" tvg-logo="http://svtv.xyz:8000/images/b24080d53734cf8d45ac547c65abf12c.png" group-title="COLOMBIA",COL | CITY TV  FHD**
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31373
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | TELEANTIOQUIA HD**" tvg-logo="http://svtv.xyz:8000/images/f9318418184f449baf2b148a3a6a6021.png" group-title="COLOMBIA",COL | TELEANTIOQUIA HD**
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31377
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL CAPITAL" tvg-logo="http://svtv.xyz:8000/images/51484e9b6777674c0d28a31ebb597571.png" group-title="COLOMBIA",COL | CANAL CAPITAL
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31378
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | CALI TV" tvg-logo="http://svtv.xyz:8000/images/9c9511497691e9afac300f0cc4c33b3d.png" group-title="COLOMBIA",COL | CALI TV
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31380
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL INSTITUCIONAL HD" tvg-logo="http://svtv.xyz:8000/images/a244d019d3349a0f8103a657fceebd1a.png" group-title="COLOMBIA",COL | CANAL INSTITUCIONAL HD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31382
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | SENAL COLOMBIA" tvg-logo="http://svtv.xyz:8000/images/a9e8a24367172302066307486248bf63.png" group-title="COLOMBIA",COL | SENAL COLOMBIA
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31383
-#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL TRO HD" tvg-logo="http://svtv.xyz:8000/images/14078df1b083aff8c5210720736237d0.PNG" group-title="COLOMBIA",COL | CANAL TRO HD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31391
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL TRECE HD" tvg-logo="http://svtv.xyz:8000/images/df74d4747016b4341255909a07838516.png" group-title="COLOMBIA",COL | CANAL TRECE HD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/31393
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | AVIVAMIENTO (720P)" tvg-logo="http://svtv.xyz:8000/images/9978eafc70b80ebfee5bab6bc15ba7e1.png" group-title="COLOMBIA",COL | AVIVAMIENTO (720P)
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/61885
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL 2" tvg-logo="http://svtv.xyz:8000/images/78b83e8577bea6dab641e02ebd104a25.png" group-title="COLOMBIA",COL | CANAL 2
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/61887
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL DOCE (720P)" tvg-logo="http://svtv.xyz:8000/images/269f5fe125549487e735263ba1433f41.png" group-title="COLOMBIA",COL | CANAL DOCE (720P)
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/61892
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | TELECARIBE DEPORTES 2" tvg-logo="http://svtv.xyz:8000/images/627a6e7d14e1ac6186ac426a2eebd580.png" group-title="COLOMBIA",COL | TELECARIBE DEPORTES 2
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/61904
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | TELEPAC脙颅FICO" tvg-logo="http://svtv.xyz:8000/images/a59bf7a6a68243edd5be37d6a6fb582d.png" group-title="COLOMBIA",COL | TELEPAC脙颅FICO
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/61906
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | TV GRACIA (720P)" tvg-logo="http://svtv.xyz:8000/images/d7d2b1295067e97c778684c586c49e74.png" group-title="COLOMBIA",COL | TV GRACIA (720P)
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/61907
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | WIN SPORTS +" tvg-logo="http://svtv.xyz:8000/images/295c6a2a261905970889580da0f3c601.png" group-title="DEPORTE LATINO",COL | WIN SPORTS +
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/68891
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | CABLE NOTICIAS" tvg-logo="http://svtv.xyz:8000/images/bcfb932ca281271ae21817f57565c28d.png" group-title="COLOMBIA",COL | CABLE NOTICIAS
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/84868
-
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL CALI" tvg-logo="" group-title="COLOMBIA",COL | CANAL CALI
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/196436
-#EXTINF:-1 tvg-id="" tvg-name="COL | TELEVID" tvg-logo="" group-title="COLOMBIA",COL | TELEVID
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/275750
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | TELECAFE" tvg-logo="" group-title="COLOMBIA",COL | TELECAFE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/277654
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | TV AGRO" tvg-logo="http://192.99.0.195:8080/images/34a95fbabf3abeb24dae09d19cb34389.png" group-title="COLOMBIA",COL | TV AGRO
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/277697
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/292816
-#EXTINF:-1 tvg-id="" tvg-name="S*SAT | EN | HOLA TV FHD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/640px-%C2%A1HOLA%21TVlogo.jpg" group-title="PREMIUM SATELITE",S*SAT | EN | HOLA TV FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/292817
-
-#EXTINF:-1 tvg-id="" tvg-name="S*SAT | ES: ANTENA 3 INTERNACIONAL SD" tvg-logo="https://findlogovector.com/wp-content/uploads/2018/12/antena-3-tv-logo-vector.png" group-title="PREMIUM SATELITE",S*SAT | ES: ANTENA 3 INTERNACIONAL SD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/292827
-
-
-#EXTINF:-1 tvg-id="" tvg-name="S*SAT | MX | CANAL DE LAS ESTRELLAS FHD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/511px-Las_Estrellas.svg.png" group-title="PREMIUM SATELITE",S*SAT | MX | CANAL DE LAS ESTRELLAS FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/292830
-
+#EXTINF:-1 tvg-id="" tvg-name="S*SAT | CO | CARACOL SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Caracol_2003.png/revision/latest/scale-to-width-down/340?cb=20200209130328&path-prefix=es" group-title="PREMIUM SATELITE",S*SAT | CO | CARACOL SD
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/292821
 
 #EXTINF:-1 tvg-id="" tvg-name="S*SAT | CO | RCN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/LogoNTyLR.svg/1200px-LogoNTyLR.svg.png" group-title="PREMIUM SATELITE",S*SAT | CO | RCN SD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/292831
-
-#EXTINF:-1 tvg-id="" tvg-name="S*EN | E! ENTERTAINMENT FHD NORTE" tvg-logo="http://51.222.43.170:36995/images/a01945d4b5c867d4b22c1ee08a7bc492.png" group-title="PREMIUM SATELITE",S*EN | E! ENTERTAINMENT FHD NORTE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/296579
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/292831
 
 #EXTINF:-1 tvg-id="" tvg-name="S*CO | CARACOL FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CO | CARACOL FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299221
-
-
-#EXTINF:-1 tvg-id="" tvg-name="S*PE | LATINA FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*PE | LATINA FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/292827
-
-#EXTINF:-1 tvg-id="" tvg-name="S*TELEMUNDO INTERNACIONAL SD" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/9/9a/TelemundoInt2018.png" group-title="PREMIUM SATELITE",S*TELEMUNDO INTERNACIONAL SD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/296559
-
-#EXTINF:-1 tvg-id="" tvg-name="S*MX | TLNOVELAS" tvg-logo="https://i.imgur.com/1lv5hkr.png" group-title="PREMIUM SATELITE",S*MX | TLNOVELAS
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/296560
-
-#EXTINF:-1 tvg-id="" tvg-name="S*EN | E! ENTERTAINMENT FHD SUR" tvg-logo="http://51.222.43.170:36995/images/a01945d4b5c867d4b22c1ee08a7bc492.png" group-title="PREMIUM SATELITE",S*EN | E! ENTERTAINMENT FHD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/296567
-
-
-#EXTINF:-1 tvg-id="" tvg-name="S*EN | FOOD NETWORK  FHD SUR" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" group-title="PREMIUM SATELITE",S*EN | FOOD NETWORK  FHD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/296568
-
-#EXTINF:-1 tvg-id="" tvg-name="S*EN | E! ENTERTAINMENT FHD NORTE" tvg-logo="http://51.222.43.170:36995/images/a01945d4b5c867d4b22c1ee08a7bc492.png" group-title="PREMIUM SATELITE",S*EN | E! ENTERTAINMENT FHD NORTE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/296579
-
-
-#EXTINF:-1 tvg-id="" tvg-name="S*CO | CARACOL FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CO | CARACOL FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299221
-
-#EXTINF:-1 tvg-id="" tvg-name="S*PE | LATINA FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*PE | LATINA FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299227
-
-#EXTINF:-1 tvg-id="" tvg-name="S*EN | KANAL D DRAMA FHD ??" tvg-logo="" group-title="PREMIUM SATELITE",S*EN | KANAL D DRAMA FHD ??
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299253
-
-#EXTINF:-1 tvg-id="" tvg-name="S*EN | EL GOURMET FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*EN | EL GOURMET FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299261
-
-#EXTINF:-1 tvg-id="" tvg-name="S*CUL | DISCOVERY HOME & HEALTH FHD SUR" tvg-logo="https://i.ibb.co/gTbw0bq/H-H.png" group-title="PREMIUM SATELITE",S*CUL | DISCOVERY HOME & HEALTH FHD SUR
-
-#EXTINF:-1 tvg-id="" tvg-name="S*MX | CANAL DE LAS ESTRELLAS SD" tvg-logo="" group-title="PREMIUM SATELITE",S*MX | CANAL DE LAS ESTRELLAS SD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299289
-
-#EXTINF:-1 tvg-id="" tvg-name="S*EN | PASIONES FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*EN | PASIONES FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299293
-
-#EXTINF:-1 tvg-id="" tvg-name="S*EN | COMEDY CENTRAL FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*EN | COMEDY CENTRAL FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299311
-
-#EXTINF:-1 tvg-id="" tvg-name="S*EN | E! ENTERTAIMENT FHD NORTE" tvg-logo="" group-title="PREMIUM SATELITE",S*EN | E! ENTERTAIMENT FHD NORTE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299298
-
-#EXTINF:-1 tvg-id="" tvg-name="S*TELEMUNDO INTERNACIONAL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="PREMIUM SATELITE",S*TELEMUNDO INTERNACIONAL FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299300
-
-#EXTINF:-1 tvg-id="" tvg-name="S*MTV LATINO FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*MTV LATINO FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299321
-
-#EXTINF:-1 tvg-id="" tvg-name="S*CO | RCN FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CO | RCN FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299330
-
-
-
-
-
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299221
 
 
 
@@ -956,247 +214,115 @@ http://svtv.xyz:8080/PMP30D78/BrdEAh9/299330
 
 
 #EXTINF:-1 tvg-id="" tvg-name="SAT | CO | WIN SPORTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTE LATINO",SAT | CO | WIN SPORTS FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/292818
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/292818
 
 #EXTINF:-1 tvg-id="" tvg-name="S*SAT | DEP | CLARO SPORTS 2" tvg-logo="https://static.epg.best/co/ClaroSports.co.png" group-title="PREMIUM SATELITE",S*SAT | DEP | CLARO SPORTS 2
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/292835
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/292835
 
 #EXTINF:-1 tvg-id="" tvg-name="S*SAT | EC | GOL TV SD" tvg-logo="http://144.217.91.146/Logos/Ecuador/gol-tv-us.png" group-title="PREMIUM SATELITE",S*SAT | EC | GOL TV SD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/292850
-
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/292850
 
 #EXTINF:-1 tvg-id="" tvg-name="S*SAT | CL | TNT SPORTS 2 SD" tvg-logo="https://i.imgur.com/buSQO1m.png" group-title="PREMIUM SATELITE",S*SAT | CL | TNT SPORTS 2 SD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/292867
-
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/292867
 
 #EXTINF:-1 tvg-id="" tvg-name="S*SAT | CL | TNT SPORTS 3 SD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tnt-sports-3-cl-2562.png" group-title="PREMIUM SATELITE",S*SAT | CL | TNT SPORTS 3 SD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/292868
-
-
-#EXTINF:-1 tvg-id="" tvg-name="S*EC | GOL TV FHD" tvg-logo="http://144.217.91.146/Logos/Ecuador/gol-tv-us.png" group-title="PREMIUM SATELITE",S*EC | GOL TV FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/296569
-
-
-#EXTINF:-1 tvg-id="" tvg-name="S*DEP | FOX SPORTS 3 SUR FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*DEP | FOX SPORTS 3 SUR FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299224
-
-
-#EXTINF:-1 tvg-id="" tvg-name="S*DEP | FOX SPORTS 1 SUR  FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*DEP | FOX SPORTS 1 SUR  FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299225
-
-
-#EXTINF:-1 tvg-id="" tvg-name="S*PE | GOL PER鑴? FHD ??" tvg-logo="" group-title="PREMIUM SATELITE",S*PE | GOL PER鑴? FHD ??
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299226
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/292868
 
 #EXTINF:-1 tvg-id="" tvg-name="S*DEP | TYC SPORT SD" tvg-logo="http://svtv.xyz:8000/images/a3929ff1f9f4affebf1e59f5db46b938.png" group-title="PREMIUM SATELITE",S*DEP | TYC SPORT SD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/296561
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/296561
 
 #EXTINF:-1 tvg-id="" tvg-name="S*DEP | ESPN 3 FHD NORTE" tvg-logo="" group-title="PREMIUM SATELITE",S*DEP | ESPN 3 FHD NORTE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/29922
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299222
 
 #EXTINF:-1 tvg-id="" tvg-name="S*EC | GOL TV FHD" tvg-logo="http://144.217.91.146/Logos/Ecuador/gol-tv-us.png" group-title="PREMIUM SATELITE",S*EC | GOL TV FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/296569
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/296569
 
-
-#EXTINF:-1 tvg-id="" tvg-name="S*DEP | ESPN 3 FHD NORTE" tvg-logo="" group-title="PREMIUM SATELITE",S*DEP | ESPN 3 FHD NORTE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299222
-
-
-#EXTINF:-1 tvg-id="" tvg-name="S*CL | TVN FHD" tvg-logo="" group-
-title="PREMIUM SATELITE",S*CL | TVN FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299223
-
+#EXTINF:-1 tvg-id="" tvg-name="S*CL | TVN FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CL | TVN FHD
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299223
 
 #EXTINF:-1 tvg-id="" tvg-name="S*DEP | FOX SPORTS 3 SUR FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*DEP | FOX SPORTS 3 SUR FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299224
-
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299224
 
 #EXTINF:-1 tvg-id="" tvg-name="S*DEP | FOX SPORTS 1 SUR  FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*DEP | FOX SPORTS 1 SUR  FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299225
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299225
 
+#EXTINF:-1 tvg-id="" tvg-name="S*PE | GOL PER脷 FHD ??" tvg-logo="" group-title="PREMIUM SATELITE",S*PE | GOL PER脷 FHD ??
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299226
 
-#EXTINF:-1 tvg-id="" tvg-name="S*PE | GOL PER鑴? FHD ??" tvg-logo="" group-title="PREMIUM SATELITE",S*PE | GOL PER鑴? FHD ??
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/29922
+#EXTINF:-1 tvg-id="" tvg-name="S*MOVISTAR PLUS SD" tvg-logo="" group-title="PREMIUM SATELITE",S*MOVISTAR PLUS SD
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299234
 
 #EXTINF:-1 tvg-id="" tvg-name="S*CO | WIN SPORT+ FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CO | WIN SPORT+ FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299238
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299238
 
 #EXTINF:-1 tvg-id="" tvg-name="S*CO | WIN SPORTS FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CO | WIN SPORTS FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299239
-
-#EXTINF:-1 tvg-id="" tvg-name="S*DEP | TYC SPORT  FHD" tvg-logo="http://svtv.xyz:8000/images/a3929ff1f9f4affebf1e59f5db46b938.png" group-title="PREMIUM SATELITE",S*DEP | TYC SPORT  FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299241
-
-#EXTINF:-1 tvg-id="" tvg-name="S*CL | TNT SPORTS FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CL | TNT SPORTS FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299243
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299239
 
 #EXTINF:-1 tvg-id="" tvg-name="S*PE | MOVISTAR DEPORTES FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*PE | MOVISTAR DEPORTES FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299250
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299250
+#EXTINF:-1 tvg-id="" tvg-name="S*CL | MEGA FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CL | MEGA FHD
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299251
 
 #EXTINF:-1 tvg-id="" tvg-name="S*DEP | FOX SPORTS 2 SUR FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*DEP | FOX SPORTS 2 SUR FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299259
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299259
 
 #EXTINF:-1 tvg-id="" tvg-name="S*EC | EL CANAL DEL FUTBOL FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*EC | EL CANAL DEL FUTBOL FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299260
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299260
 
 #EXTINF:-1 tvg-id="" tvg-name="S*DEP | ESPN 1  SUR... FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*DEP | ESPN 1  SUR... FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299262
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299262
 
 #EXTINF:-1 tvg-id="" tvg-name="S*DEP | ESPN 1  SUR FHD.." tvg-logo="" group-title="PREMIUM SATELITE",S*DEP | ESPN 1  SUR FHD..
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299263
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299263
 
 #EXTINF:-1 tvg-id="" tvg-name="S*DEP | ESPN 1  SUR FHD." tvg-logo="" group-title="PREMIUM SATELITE",S*DEP | ESPN 1  SUR FHD.
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299264
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299264
 
 #EXTINF:-1 tvg-id="" tvg-name="S*DEP | ESPN EXTRA ARGENTINA FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*DEP | ESPN EXTRA ARGENTINA FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299265
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299265
 
 #EXTINF:-1 tvg-id="" tvg-name="S*DEP | ESPN 4 FHD SUR" tvg-logo="" group-title="PREMIUM SATELITE",S*DEP | ESPN 4 FHD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299266
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299266
 
 #EXTINF:-1 tvg-id="" tvg-name="S*DEP | ESPN 3 FHD SUR" tvg-logo="" group-title="PREMIUM SATELITE",S*DEP | ESPN 3 FHD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299267
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299267
 
 #EXTINF:-1 tvg-id="" tvg-name="S*DEP | ESPN 2 FHD SUR ." tvg-logo="" group-title="PREMIUM SATELITE",S*DEP | ESPN 2 FHD SUR .
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299268
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299268
 
 #EXTINF:-1 tvg-id="" tvg-name="S*DEP | ESPN 2 FHD SUR" tvg-logo="" group-title="PREMIUM SATELITE",S*DEP | ESPN 2 FHD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299269
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299269
 
 
-#EXTINF:-1 tvg-id="" tvg-name="S*DEP | FOX SPORTS 3 SD SUR" tvg-logo="" group-title="PREMIUM SATELITE",S*DEP | FOX SPORTS 3 SD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299280
-
-#EXTINF:-1 tvg-id="" tvg-name="S*DEP | FOX SPORTS 2 SD SUR" tvg-logo="" group-title="PREMIUM SATELITE",S*DEP | FOX SPORTS 2 SD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299281
-
-#EXTINF:-1 tvg-id="" tvg-name="S*DEP | FOX SPORTS 1 SD SUR" tvg-logo="" group-title="PREMIUM SATELITE",S*DEP | FOX SPORTS 1 SD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299282
-
-#EXTINF:-1 tvg-id="" tvg-name="S*DEP | ESPN 4 SD SUR" tvg-logo="" group-title="PREMIUM SATELITE",S*DEP | ESPN 4 SD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299283
-
-#EXTINF:-1 tvg-id="" tvg-name="S*DEP | ESPN 3 SD SUR" tvg-logo="" group-title="PREMIUM SATELITE",S*DEP | ESPN 3 SD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299284
-
-#EXTINF:-1 tvg-id="" tvg-name="S*DEP | ESPN 2 SD SUR ." tvg-logo="" group-title="PREMIUM SATELITE",S*DEP | ESPN 2 SD SUR .
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299285
-
-#EXTINF:-1 tvg-id="" tvg-name="S*DEP | ESPN 2 SD SUR" tvg-logo="" group-title="PREMIUM SATELITE",S*DEP | ESPN 2 SD SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299286
-
-#EXTINF:-1 tvg-id="" tvg-name="S*DEP | ESPN 1 SD  COL" tvg-logo="" group-title="PREMIUM SATELITE",S*DEP | ESPN 1 SD  COL
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299287
-
-#EXTINF:-1 tvg-id="" tvg-name="S*DEP | ESPN 1 SD CH" tvg-logo="" group-title="PREMIUM SATELITE",S*DEP | ESPN 1 SD CH
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299288
-
-#EXTINF:-1 tvg-id="" tvg-name="S*DEP | FOX SPORTS 3 FHD NORTE" tvg-logo="" group-title="PREMIUM SATELITE",S*DEP | FOX SPORTS 3 FHD NORTE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299297
-
-#EXTINF:-1 tvg-id="" tvg-name="S*DEP | FOX SPORTS 2 FHD NORTE" tvg-logo="" group-title="PREMIUM SATELITE",S*DEP | FOX SPORTS 2 FHD NORTE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299309
-
-#EXTINF:-1 tvg-id="" tvg-name="S*DEP | ESPN 1 FHD NORTE" tvg-logo="" group-title="PREMIUM SATELITE",S*DEP | ESPN 1 FHD NORTE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299316
-
-#EXTINF:-1 tvg-id="" tvg-name="S*DEP | ESPN 2 FHD NORTE" tvg-logo="" group-title="PREMIUM SATELITE",S*DEP | ESPN 2 FHD NORTE
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299317
-
-#EXTINF:-1 tvg-id="" tvg-name="S*CR | TIGO SPORTS FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CR | TIGO SPORTS FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299322
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM" tvg-logo="https://img.sport-tv-guide.live/images/stations/a244.png" group-title="ESPN",ESPN PREMIUM
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/22895
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD*" tvg-logo="https://img.sport-tv-guide.live/images/stations/a244.png" group-title="ESPN",ESPN 4 HD*
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/22896
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 FHD**" tvg-logo="https://img.sport-tv-guide.live/images/stations/a244.png" group-title="ESPN",ESPN 4 FHD**
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/34241
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 FHD***" tvg-logo="https://img.sport-tv-guide.live/images/stations/a244.png" group-title="ESPN",ESPN 4 FHD***
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/22912
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 锟??" tvg-logo="http://svtv.xyz:8000/images/0a8b37a500a5835bdb95304f7efebddc.png" group-title="ESPN",ESPN 2 锟??
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/29776
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 锟??" tvg-logo="http://svtv.xyz:8000/images/dbc89618838575bb5f470d437d248829.png" group-title="ESPN",ESPN 3 锟??
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/30954
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN ARG 1 HD" tvg-logo="http://svtv.xyz/nologo.png" group-title="ESPN",ESPN ARG 1 HD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/164986
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN ARG 1 SD" tvg-logo="http://svtv.xyz/nologo.png" group-title="ESPN",ESPN ARG 1 SD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/164987
+#EXTINF:-1 tvg-id="" tvg-name="S*INF | CARTOON NETWORK FHD NORTE" tvg-logo="http://51.222.43.170:36995/images/4fea3689172d681e5220a51714d76b4d.png" group-title="PREMIUM SATELITE",S*INF | CARTOON NETWORK FHD NORTE
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/296591
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SD" tvg-logo="http://svtv.xyz/nologo.png" group-title="ESPN",ESPN 2 SD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/164989
+#EXTINF:-1 tvg-id="" tvg-name="S*INF | DISCOVERY KIDS FHD SUR" tvg-logo="" group-title="PREMIUM SATELITE",S*INF | DISCOVERY KIDS FHD SUR
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299270
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN SUR 锟??" tvg-logo="http://svtv.xyz:8000/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="ESPN",ESPN SUR 锟??
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/72707
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 MX HD." tvg-logo="http://svtv.xyz:8000/images/fa74b8ac9b6e1d65670ce20acde555a9.png" group-title="ESPN",ESPN 1 MX HD.
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/29768
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 COL" tvg-logo="http://svtv.xyz:8000/images/0a8b37a500a5835bdb95304f7efebddc.png" group-title="ESPN",ESPN 2 COL
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/29785
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 LAT FHD " tvg-logo="http://svtv.xyz:8000/images/0a8b37a500a5835bdb95304f7efebddc.png" group-title="ESPN",ESPN 2 LAT FHD 
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/29775
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 LAT HD" tvg-logo="http://svtv.xyz:8000/images/0a8b37a500a5835bdb95304f7efebddc.png" group-title="ESPN",ESPN 2 LAT HD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/22904
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 AR HD" tvg-logo="http://svtv.xyz:8000/images/0a8b37a500a5835bdb95304f7efebddc.png" group-title="ESPN",ESPN 2 AR HD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/22910
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 AR HD 锟??" tvg-logo="http://svtv.xyz:8000/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="ESPN",ESPN 1 AR HD 锟??
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/30956
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 AR HD" tvg-logo="http://svtv.xyz:8000/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="ESPN",ESPN 3 AR HD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/22903
-
-#EXTINF:-1 tvg-id="" tvg-name="PE*| ESPN 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytTXX4p_2gch9e_nz6CyZTg-6G6iMdOb0qw&usqp=CAU" group-title="ESPN",PE*| ESPN 2 HD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/124520
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/2560px-ESPN_Plus.svg.png" group-title="ESPN",ESPN PLUS
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/253253
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/2560px-ESPN_Plus.svg.png" group-title="ESPN",ESPN PLUS 2
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/253254
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP | DAZN MOVISTAR 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="DAZN",ESP | DAZN MOVISTAR 2
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/278209
-
-#EXTINF:-1 tvg-id="" tvg-name="S*CO | WIN SPORTS FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CO | WIN SPORTS FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299239
-
-#EXTINF:-1 tvg-id="" tvg-name="S*DEP | TYC SPORT  FHD" tvg-logo="http://svtv.xyz:8000/images/a3929ff1f9f4affebf1e59f5db46b938.png" group-title="PREMIUM SATELITE",S*DEP | TYC SPORT  FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299241
+#EXTINF:-1 tvg-id="" tvg-name="S*INF | CARTOON NETWORK FHD SUR" tvg-logo="" group-title="PREMIUM SATELITE",S*INF | CARTOON NETWORK FHD SUR
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/299273
 
 
-#EXTINF:-1 tvg-id="" tvg-name="S*CL | TNT SPORTS FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*CL | TNT SPORTS FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299243
 
-#EXTINF:-1 tvg-id="" tvg-name="S*PE | MOVISTAR DEPORTES FHD" tvg-logo="" group-title="PREMIUM SATELITE",S*PE | MOVISTAR DEPORTES FHD
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/299250
 
-#EXTINF:-1 tvg-id="" tvg-name="2M | DIRECTV SPORTS" tvg-logo="http://svtv.xyz:8000/images/2ea156dba5886e33c0a461a41cb86c28.png" group-title="PREMIUM LATINO 2MB",2M | DIRECTV SPORTS
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/197117
 
-#EXTINF:-1 tvg-id="" tvg-name="2M | DIRECTV SPORTS 2 " tvg-logo="http://svtv.xyz:8000/images/2ea156dba5886e33c0a461a41cb86c28.png" group-title="PREMIUM LATINO 2MB",2M | DIRECTV SPORTS 2 
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/197118
-#EXTINF:-1 tvg-id="" tvg-name="2M | ESPN 4" tvg-logo="https://img.sport-tv-guide.live/images/stations/a244.png" group-title="PREMIUM LATINO 2MB",2M | ESPN 4
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/197127
-#EXTINF:-1 tvg-id="" tvg-name="2M | HECHOS ECUADRO" tvg-logo="" group-title="PREMIUM LATINO 2MB",2M | HECHOS ECUADRO
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/197130
-#EXTINF:-1 tvg-id="" tvg-name="2M | ESPN SUR" tvg-logo="" group-title="PREMIUM LATINO 2MB",2M | ESPN SUR
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/197131
-#EXTINF:-1 tvg-id="" tvg-name="ESPN ARG" tvg-logo="" group-title="PREMIUM LATINO 2MB",ESPN ARG
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/197132
 
-#EXTINF:-1 tvg-id="" tvg-name="2M | FOX SPORTS" tvg-logo="" group-title="PREMIUM LATINO 2MB",2M | FOX SPORTS
-http://svtv.xyz:8080/PMP30D78/BrdEAh9/197134
 
+
+#EXTINF:-1 tvg-id="" tvg-name="S*TELEMUNDO INTERNACIONAL SD" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/9/9a/TelemundoInt2018.png" group-title="PREMIUM SATELITE",S*TELEMUNDO INTERNACIONAL SD
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/296559
+
+#EXTINF:-1 tvg-id="" tvg-name="S*MX | TLNOVELAS" tvg-logo="https://i.imgur.com/1lv5hkr.png" group-title="PREMIUM SATELITE",S*MX | TLNOVELAS
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/296560
+
+#EXTINF:-1 tvg-id="" tvg-name="S*EN | E! ENTERTAINMENT FHD SUR" tvg-logo="http://51.222.43.170:36995/images/a01945d4b5c867d4b22c1ee08a7bc492.png" group-title="PREMIUM SATELITE",S*EN | E! ENTERTAINMENT FHD SUR
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/296567
+
+#EXTINF:-1 tvg-id="" tvg-name="S*EN | FOOD NETWORK  FHD SUR" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" group-title="PREMIUM SATELITE",S*EN | FOOD NETWORK  FHD SUR
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/296568
+
+#EXTINF:-1 tvg-id="" tvg-name="S*EN | E! ENTERTAINMENT FHD NORTE" tvg-logo="http://51.222.43.170:36995/images/a01945d4b5c867d4b22c1ee08a7bc492.png" group-title="PREMIUM SATELITE",S*EN | E! ENTERTAINMENT FHD NORTE
+http://svtv.xyz:8080/PMP90D18/fKFQ3tc/296579
