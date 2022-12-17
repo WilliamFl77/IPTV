@@ -1,5 +1,9 @@
 #EXTM3U
-
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 xui-id="157816" tvg-id="" tvg-name="M.M.M PORVENIR HD" tvg-logo="http://www.latinotv.com.co/logos/LOGO%20IGLESIA.gif" group-title="⭐COLOMBIA⭐",M.M.M PORVENIR HD
+http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq_8h02HybohshCAhB0q67D3_ZUvl_1E3dJcSSBaYIP1L
+#EXTINF:-1 xui-id="157816" tvg-id="" tvg-name="M.M.M PORVENIR HD" tvg-logo="http://www.latinotv.com.co/logos/LOGO%20IGLESIA.gif" group-title="⭐RELIGION⭐",M.M.M PORVENIR HD
+http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq_8h02HybohshCAhB0q67D3_ZUvl_1E3dJcSSBaYIP1L
 #EXTINF:-1 xui-id="89938" tvg-id="CARAHD" tvg-name="CARACOL TV" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4vA03qUTQ75zC6341i4RtGyzsO35WBGcUxbyu11VZhfYjQKuMGyK4c19eN-7FKhNY.jpg" group-title="?COLOMBIA?",CARACOL TV
 http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqxSCx7ngzv33GWX0u29E9ciiEURsGaOEC01nbVVINCVs
 #EXTINF:-1 xui-id="260" tvg-id="CARA" tvg-name="CARACOL HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4vA03qUTQ75zC6341i4RtGyzsO35WBGcUxbyu11VZhfYjQKuMGyK4c19eN-7FKhNY.jpg" group-title="?COLOMBIA?",CARACOL HD
