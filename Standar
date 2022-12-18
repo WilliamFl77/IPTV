@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1 xui-id="157816" tvg-id="" tvg-name="M.M.M PORVENIR HD" tvg-logo="http://www.latinotv.com.co/logos/LOGO%20IGLESIA.gif" group-title="⭐COLOMBIA⭐",M.M.M PORVENIR HD
+#EXTINF:-1 xui-id="157816" tvg-id="" tvg-name="M.M.M PORVENIR HD" tvg-logo="http://www.latinotv.com.co/logos/LOGO%20IGLESIA.gif" group-title="?COLOMBIA?",M.M.M PORVENIR HD
 http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq_8h02HybohshCAhB0q67D3_ZUvl_1E3dJcSSBaYIP1L
-#EXTINF:-1 xui-id="157816" tvg-id="" tvg-name="M.M.M PORVENIR HD" tvg-logo="http://www.latinotv.com.co/logos/LOGO%20IGLESIA.gif" group-title="⭐RELIGION⭐",M.M.M PORVENIR HD
+#EXTINF:-1 xui-id="157816" tvg-id="" tvg-name="M.M.M PORVENIR HD" tvg-logo="http://www.latinotv.com.co/logos/LOGO%20IGLESIA.gif" group-title="?RELIGION?",M.M.M PORVENIR HD
 http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq_8h02HybohshCAhB0q67D3_ZUvl_1E3dJcSSBaYIP1L
 #EXTINF:-1 xui-id="89938" tvg-id="CARAHD" tvg-name="CARACOL TV" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4vA03qUTQ75zC6341i4RtGyzsO35WBGcUxbyu11VZhfYjQKuMGyK4c19eN-7FKhNY.jpg" group-title="?COLOMBIA?",CARACOL TV
 http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqxSCx7ngzv33GWX0u29E9ciiEURsGaOEC01nbVVINCVs
@@ -44,10 +44,14 @@ http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqzieL_XpGDRDlREfTxiykVA
 http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq2FzADmiB_vx5G6BYysK4tU
 #EXTINF:-1 xui-id="286" tvg-id="PASNLAE" tvg-name="PASIONES" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5SdTaWir0Czp0sbjOxJ2DQEGdbOFBJ6QkLTwRJf8lczjGENhBYwWrFfH6aZw6ajvA.jpg" group-title="?COLOMBIA?",PASIONES
 http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq3UESM3tKoEWeP4xlaBFOxw
-#EXTINF:-1 xui-id="165306" tvg-id="" tvg-name="WIN SPORTS HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWX3dO1LrqBN1k1_iMCELtN01vc4cDoAtk8F8kxjLEt1rpi7zkkyCrLQz3ucpCheUHw.png" group-title="ENCODER CLARO",WIN SPORTS HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq8Ej_FWJeqpocbyox9BV6Hdhr2g-g9RiqUQpFVZgvi5o
-#EXTINF:-1 xui-id="165307" tvg-id="" tvg-name="Win Sports +" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5bhaCcbDa2D8ICOtSlZSE2wCa0z6gmgwWr9X_6hS6grEGuLk8_gd_y5Cjwxld_05s.jpg" group-title="ENCODER CLARO",Win Sports +
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq8Ej_FWJeqpocbyox9BV6HdLrfUv9o2j8LeLdkSsgLSs
+#EXTINF:-1 xui-id="416" tvg-id="WINSPRT" tvg-name="WIN SPORTS" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5RLjBDV_DD6La44T-uUT6DGFVwEc9hh_IkRKjH-NuOuIPCrunECKSMnfjVK-JrFJ8.jpg" group-title="??DEPORTES??",WIN SPORTS
+http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq9zfNnEe-nAcciBD5kCZpG0
+#EXTINF:-1 xui-id="417" tvg-id="WINSPRE" tvg-name="WIN SPORTS+ 4K" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5bhaCcbDa2D8ICOtSlZSE2wCa0z6gmgwWr9X_6hS6grEGuLk8_gd_y5Cjwxld_05s.jpg" group-title="??DEPORTES??",WIN SPORTS+ 4K
+http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqxEGf5WNDdDAYV5G72aHEms
+#EXTINF:-1 xui-id="109253" tvg-id="WINSPRE" tvg-name="WIN SPORTS+ HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5bhaCcbDa2D8ICOtSlZSE2wCa0z6gmgwWr9X_6hS6grEGuLk8_gd_y5Cjwxld_05s.jpg" group-title="??DEPORTES??",WIN SPORTS+ HD
+http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq0eoXf4KHEk5hNUtNx8MR5b_tMEjVrlIjzA5ahcKffMh
+
+
 
 
 #EXTINF:-1 xui-id="324" tvg-id="FOXCAHD" tvg-name="STAR CHANNEL" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7l-IGpv3QbRTUZAyaLSH_qSHf4Idi1YGtqEckkYQfNFIMARTaxrIziDANieOvWfUY.jpg" group-title="?CINE Y SERIES?",STAR CHANNEL
@@ -510,9 +514,9 @@ http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqzk_-rKzfgqkj5VSa3mMD3w
 http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqx_rjcaGGhjmFd8wO5J1UhYYmbEwpOW7jJkDRzoEyEEU
 #EXTINF:-1 xui-id="109892" tvg-id="" tvg-name="Futurama 24/7" tvg-logo="http://xyz.latinotv.com.co:2082/images/HheysxGAvgaNAJBYw05ksXRcSiUQq0xYXZTrDCWhm6zPkzIqIG-D4KijS5lXrotQVWtz88zkQs1IJn2ZX2gpvZaNrlbdByxSaMHMPGVIT4SCDobtjdRZN92Eg7kVu9sS-MWxE1m8Z9O-ru9EQ9OrEn-nXccBfIg5GuGrg69VIe7-C_OEqr6OBm2r2CWa_exXLRikUijWU6qwmsKkaYjqzw.png" group-title="?24/7?",Futurama 24/7
 http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqx_rjcaGGhjmFd8wO5J1UhYYmbEwpOW7jJkDRzoEyEEU
-#EXTINF:-1 xui-id="142248" tvg-id="" tvg-name="El Chapulín Colorado 24/7" tvg-logo="http://xyz.latinotv.com.co:2082/images/HheysxGAvgaNAJBYw05ksXRcSiUQq0xYXZTrDCWhm6zPkzIqIG-D4KijS5lXrotQVWtz88zkQs1IJn2ZX2gpvZaNrlbdByxSaMHMPGVIT4RRA3BzKjxKVdFTKVGs_7TLpRMqN8FtGiuOqyiLmzNUrA3JhVEtw9lppJdrWev6kfKE2frlSGpaaj28vQqUaofSeS-uUgEuKI3dnI9zbFd_-Q.png" group-title="?ENTRETENIMIENTO?",El Chapulín Colorado 24/7
+#EXTINF:-1 xui-id="142248" tvg-id="" tvg-name="El Chapul铆n Colorado 24/7" tvg-logo="http://xyz.latinotv.com.co:2082/images/HheysxGAvgaNAJBYw05ksXRcSiUQq0xYXZTrDCWhm6zPkzIqIG-D4KijS5lXrotQVWtz88zkQs1IJn2ZX2gpvZaNrlbdByxSaMHMPGVIT4RRA3BzKjxKVdFTKVGs_7TLpRMqN8FtGiuOqyiLmzNUrA3JhVEtw9lppJdrWev6kfKE2frlSGpaaj28vQqUaofSeS-uUgEuKI3dnI9zbFd_-Q.png" group-title="?ENTRETENIMIENTO?",El Chapul铆n Colorado 24/7
 http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqyxqz9q0iUYOezzzvQB5lyEVH3DJZonh75jaB-qQy_Bh
-#EXTINF:-1 xui-id="142248" tvg-id="" tvg-name="El Chapulín Colorado 24/7" tvg-logo="http://xyz.latinotv.com.co:2082/images/HheysxGAvgaNAJBYw05ksXRcSiUQq0xYXZTrDCWhm6zPkzIqIG-D4KijS5lXrotQVWtz88zkQs1IJn2ZX2gpvZaNrlbdByxSaMHMPGVIT4RRA3BzKjxKVdFTKVGs_7TLpRMqN8FtGiuOqyiLmzNUrA3JhVEtw9lppJdrWev6kfKE2frlSGpaaj28vQqUaofSeS-uUgEuKI3dnI9zbFd_-Q.png" group-title="?24/7?",El Chapulín Colorado 24/7
+#EXTINF:-1 xui-id="142248" tvg-id="" tvg-name="El Chapul铆n Colorado 24/7" tvg-logo="http://xyz.latinotv.com.co:2082/images/HheysxGAvgaNAJBYw05ksXRcSiUQq0xYXZTrDCWhm6zPkzIqIG-D4KijS5lXrotQVWtz88zkQs1IJn2ZX2gpvZaNrlbdByxSaMHMPGVIT4RRA3BzKjxKVdFTKVGs_7TLpRMqN8FtGiuOqyiLmzNUrA3JhVEtw9lppJdrWev6kfKE2frlSGpaaj28vQqUaofSeS-uUgEuKI3dnI9zbFd_-Q.png" group-title="?24/7?",El Chapul铆n Colorado 24/7
 http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqyxqz9q0iUYOezzzvQB5lyEVH3DJZonh75jaB-qQy_Bh
 
 
@@ -554,6 +558,7 @@ http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq_KczF-6C4usXh-cZRKnAJA
 http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq-kIxt9qdNB-eIFGdCn75Hk
 #EXTINF:-1 xui-id="175" tvg-id="TYC" tvg-name="TYC SPORTS" tvg-logo="https://drive.google.com/uc?id=1t8e_b6d6shfS4WuhanZAPx7_pA99UtcY" group-title="??DEPORTES??",TYC SPORTS
 http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq2J6ClDR9b344kXuqGoCZjU
+
 
 
 
