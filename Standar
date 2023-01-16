@@ -1,574 +1,390 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1 xui-id="157816" tvg-id="" tvg-name="M.M.M PORVENIR HD" tvg-logo="http://www.latinotv.com.co/logos/LOGO%20IGLESIA.gif" group-title="?COLOMBIA?",M.M.M PORVENIR HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq_8h02HybohshCAhB0q67D3_ZUvl_1E3dJcSSBaYIP1L
-#EXTINF:-1 xui-id="157816" tvg-id="" tvg-name="M.M.M PORVENIR HD" tvg-logo="http://www.latinotv.com.co/logos/LOGO%20IGLESIA.gif" group-title="?RELIGION?",M.M.M PORVENIR HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq_8h02HybohshCAhB0q67D3_ZUvl_1E3dJcSSBaYIP1L
-#EXTINF:-1 xui-id="89938" tvg-id="CARAHD" tvg-name="CARACOL TV" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4vA03qUTQ75zC6341i4RtGyzsO35WBGcUxbyu11VZhfYjQKuMGyK4c19eN-7FKhNY.jpg" group-title="?COLOMBIA?",CARACOL TV
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqxSCx7ngzv33GWX0u29E9ciiEURsGaOEC01nbVVINCVs
-#EXTINF:-1 xui-id="260" tvg-id="CARA" tvg-name="CARACOL HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4vA03qUTQ75zC6341i4RtGyzsO35WBGcUxbyu11VZhfYjQKuMGyK4c19eN-7FKhNY.jpg" group-title="?COLOMBIA?",CARACOL HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqzjoCiCIAO67-89KJ6l5PL8
-#EXTINF:-1 xui-id="262" tvg-id="CARAIHD" tvg-name="CARACOL INTERNACIONAL" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5QDa-WmGQNRhz-e4zEaN5oAIS1-7yPlEKG5JLsIFxShv2qXY8ezv4Elq1n4ZxC804.jpg" group-title="?COLOMBIA?",CARACOL INTERNACIONAL
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq4gA0q44NZJIQwZStRIFmB0
-#EXTINF:-1 xui-id="3830" tvg-id="RCN4" tvg-name="RCN SD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5FF41dz9ExAGOs3PqtSs2yD5Cbwsr3kfRNhJ0HIA7KdWDTqS4Z7wipH-dfb5uEMC8.jpg" group-title="?COLOMBIA?",RCN SD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq-KfiGoRBL_L9fC_aMJn4-k
-#EXTINF:-1 xui-id="264" tvg-id="RCN4" tvg-name="RCN HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5FF41dz9ExAGOs3PqtSs2yD5Cbwsr3kfRNhJ0HIA7KdWDTqS4Z7wipH-dfb5uEMC8.jpg" group-title="?COLOMBIA?",RCN HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqw3OwwlA2fB8oJGPHISDxQY
-#EXTINF:-1 xui-id="265" tvg-id="RCNTEL" tvg-name="RCN Novelas" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6cVF8mbBvBroLS613DgJOyTOmYo7IqQsUUQlI4KwaCrTHMji8BN58QSi5sSMaCn3I.jpg" group-title="?COLOMBIA?",RCN Novelas
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq3rVDoogBA7hcZmlOTsxpLg
-#EXTINF:-1 xui-id="20789" tvg-id="RCN4" tvg-name="RCN+ HD" tvg-logo="https://www.kienyke.com/sites/default/files/styles/interna_destacada_s/public/2020-10/RCN.jpg?itok=53Ht6Wa4" group-title="?COLOMBIA?",RCN+ HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqzaSwWUKoTJB5k4Di359KPEHMyzPTP1oCQ6-aSPGqJDk
-#EXTINF:-1 xui-id="266" tvg-id="CAN1CAB" tvg-name="CANAL UNO" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7f4F6ODFdi6gWkVtKkzeh9jIUNQ2xvEEO7bOzFf7HPi2ONG1I014DvqJ7mN2maigU.jpg" group-title="?COLOMBIA?",CANAL UNO
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq0kfIExeIi77LDZpjB8HrBQ
-#EXTINF:-1 xui-id="268" tvg-id="SENAL" tvg-name="SE?AL COLOMBIA" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7hIm55D5lKK_4FNfXOBMc9_TSL-yXPbVsM38KFe9kdmtA71ZH5QBEPU0WMxgQbLlI.jpg" group-title="?COLOMBIA?",SE?AL COLOMBIA
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqwkGu3xXN6DLPmyVhRBAiD8
-#EXTINF:-1 xui-id="271" tvg-id="CKAL" tvg-name="CITYTV" tvg-logo="https://drive.google.com/uc?id=1oNLI5z-jBxSleCoa-1kmmqE2aA9LQKtw" group-title="?COLOMBIA?",CITYTV
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq-HV9WsILeHYi6QkT0aGWxY
-#EXTINF:-1 xui-id="272" tvg-id="NOTICIA" tvg-name="Cable Noticias" tvg-logo="http://xyz.latinotv.com.co:2082/images/tKmAA5qYl_9Wns307-rjMYyl3iHlauiNlnJWBruzMRDPUCQIdv4J-CwgTkv3hkwR.png" group-title="?COLOMBIA?",Cable Noticias
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq6bmxC4kgq0lMMvrwBHm460
-#EXTINF:-1 xui-id="273" tvg-id="CAPITAL" tvg-name="Canal Capital" tvg-logo="https://drive.google.com/uc?id=1q3Cd6IVueRhL1EO-KgkcOq39CNt9j8U7" group-title="?COLOMBIA?",Canal Capital
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq0glWmRmmD_YMlGnWvuBXE4
-#EXTINF:-1 xui-id="276" tvg-id="" tvg-name="La Kalle" tvg-logo="http://xyz.latinotv.com.co:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjE2RpESVN2HuKintT1w7EareMHj5QC2mSJNRedmhvfQRf_0rRg41dS1tS3zvPNPzH3cc_F7zujIw9oddHkNRbf_VBJeuHeqAfwxgGsp62LmY.png" group-title="?COLOMBIA?",La Kalle
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq1iUz9ujvqJBALYYa4aImn8
-#EXTINF:-1 xui-id="278" tvg-id="TELEAN" tvg-name="TeleAntoquia" tvg-logo="https://drive.google.com/uc?id=1posjnhpU3H79Sqfg7KMIwy7ZTzW7Icbo" group-title="?COLOMBIA?",TeleAntoquia
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqwcGjFcahCFVkSkn2TZo1-A
-#EXTINF:-1 xui-id="279" tvg-id="TELECAF" tvg-name="TeleCafe" tvg-logo="https://drive.google.com/uc?id=1pz3Se7bjR-ZKHZ_ZtahybmR9hpW4cvk_" group-title="?COLOMBIA?",TeleCafe
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq4OWPUSiJRubT0Q46k8ZayQ
-#EXTINF:-1 xui-id="280" tvg-id="TELECAR" tvg-name="Telecaribe" tvg-logo="https://drive.google.com/uc?id=1pwFPCPa82xNLTJpH47lfsvEj8EpyPSGa" group-title="?COLOMBIA?",Telecaribe
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqxDa16uAXBKAAN7VBlZAeCs
-#EXTINF:-1 xui-id="283" tvg-id="TELEMED" tvg-name="TeleMedellin" tvg-logo="https://drive.google.com/uc?id=1rwyXxCk6eh26XRzbGH3etwV7zvE0xgEf" group-title="?COLOMBIA?",TeleMedellin
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqzI41ggURykmIhGxUrkr4RE
-#EXTINF:-1 xui-id="284" tvg-id="TPAC" tvg-name="TelePacifico" tvg-logo="https://drive.google.com/uc?id=1rTeygN9MGIm8oqjJKqPWRQcMQX2fTRjt" group-title="?COLOMBIA?",TelePacifico
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqzieL_XpGDRDlREfTxiykVA
-#EXTINF:-1 xui-id="10" tvg-id="TVAGRO" tvg-name="TV AGRO" tvg-logo="https://drive.google.com/uc?id=1pSYkUprA3v0N39iOED4T_cW2CruPHFwL" group-title="?COLOMBIA?",TV AGRO
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq2FzADmiB_vx5G6BYysK4tU
-#EXTINF:-1 xui-id="286" tvg-id="PASNLAE" tvg-name="PASIONES" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5SdTaWir0Czp0sbjOxJ2DQEGdbOFBJ6QkLTwRJf8lczjGENhBYwWrFfH6aZw6ajvA.jpg" group-title="?COLOMBIA?",PASIONES
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq3UESM3tKoEWeP4xlaBFOxw
-#EXTINF:-1 xui-id="416" tvg-id="WINSPRT" tvg-name="WIN SPORTS" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5RLjBDV_DD6La44T-uUT6DGFVwEc9hh_IkRKjH-NuOuIPCrunECKSMnfjVK-JrFJ8.jpg" group-title="??DEPORTES??",WIN SPORTS
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq9zfNnEe-nAcciBD5kCZpG0
-#EXTINF:-1 xui-id="417" tvg-id="WINSPRE" tvg-name="WIN SPORTS+ 4K" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5bhaCcbDa2D8ICOtSlZSE2wCa0z6gmgwWr9X_6hS6grEGuLk8_gd_y5Cjwxld_05s.jpg" group-title="??DEPORTES??",WIN SPORTS+ 4K
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqxEGf5WNDdDAYV5G72aHEms
-#EXTINF:-1 xui-id="109253" tvg-id="WINSPRE" tvg-name="WIN SPORTS+ HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5bhaCcbDa2D8ICOtSlZSE2wCa0z6gmgwWr9X_6hS6grEGuLk8_gd_y5Cjwxld_05s.jpg" group-title="??DEPORTES??",WIN SPORTS+ HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq0eoXf4KHEk5hNUtNx8MR5b_tMEjVrlIjzA5ahcKffMh
-
-
-
-
-#EXTINF:-1 xui-id="324" tvg-id="FOXCAHD" tvg-name="STAR CHANNEL" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7l-IGpv3QbRTUZAyaLSH_qSHf4Idi1YGtqEckkYQfNFIMARTaxrIziDANieOvWfUY.jpg" group-title="?CINE Y SERIES?",STAR CHANNEL
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq6Usq1xz9102Jg2Rn-Qqs8c
-#EXTINF:-1 xui-id="325" tvg-id="FOXCAHD" tvg-name="STAR HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7l-IGpv3QbRTUZAyaLSH_qSHf4Idi1YGtqEckkYQfNFIMARTaxrIziDANieOvWfUY.jpg" group-title="?CINE Y SERIES?",STAR HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq_8oFAspXagv3qoZO2rLJVg
-#EXTINF:-1 xui-id="326" tvg-id="FOXCAHD" tvg-name="STAR FHD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7l-IGpv3QbRTUZAyaLSH_qSHf4Idi1YGtqEckkYQfNFIMARTaxrIziDANieOvWfUY.jpg" group-title="?CINE Y SERIES?",STAR FHD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq17JSIv2d8mcsCqbyGjJS8Y
-#EXTINF:-1 xui-id="327" tvg-id="CNLDHEN" tvg-name="DHE HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4jOqvw0rn5IdGqBY2ubjzG73kU_g6dgR-sxBv7nK0FBcJV15bu5vhwvyC5lErhnmQ.jpg" group-title="?CINE Y SERIES?",DHE HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq0Ocl-fuSTJjO3TMCZAXt0A
-#EXTINF:-1 xui-id="328" tvg-id="CINCHD" tvg-name="CINECANAL" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7EvKrT98nrX7A5PHisxwCibIksS_SrF_VtS8Qjr_okGHIh2XXBjDlY-iabOS-3e-8.jpg" group-title="?CINE Y SERIES?",CINECANAL
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqwAtCjg6gemW1R_jxc9SraM
-#EXTINF:-1 xui-id="329" tvg-id="CINCHD" tvg-name="CINECANAL FHD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7EvKrT98nrX7A5PHisxwCibIksS_SrF_VtS8Qjr_okGHIh2XXBjDlY-iabOS-3e-8.jpg" group-title="?CINE Y SERIES?",CINECANAL FHD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq0aO4LgJTBqy7Eor7tgisIg
-#EXTINF:-1 xui-id="330" tvg-id="CINL" tvg-name="CINE LATINO" tvg-logo="https://drive.google.com/uc?id=1C2C3rIalEwSJg9Rz-Vhl9kNeVVRqmVis" group-title="?CINE Y SERIES?",CINE LATINO
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq7mygMOGbL8b8hu9Kis-gGs
-#EXTINF:-1 xui-id="331" tvg-id="CDINA" tvg-name="CINEMA DINAMITA" tvg-logo="https://drive.google.com/uc?id=1BvN7YMuiUI0WkKmPyGWZbpq3guEcz1So" group-title="?CINE Y SERIES?",CINEMA DINAMITA
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq4RG3gFkcmL0pkHieEhskEw
-#EXTINF:-1 xui-id="332" tvg-id="MPREL" tvg-name="MULTIPREMIER" tvg-logo="https://drive.google.com/uc?id=1BxdQ-Hh7pVYIdFJ0_aqMZ4cqV1HzZygD" group-title="?CINE Y SERIES?",MULTIPREMIER
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqwauRTuONYRJKopd7roY5rY
-#EXTINF:-1 xui-id="333" tvg-id="AECOLHD" tvg-name="A&E" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7UFN_O2tPla8T1flAz5ISnTf29ickK4l12Q-VIzaF2NDKvjyHK1FQQJzaJz1CapUk.jpg" group-title="?CINE Y SERIES?",A&E
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq-50YYhykR-uE9fE298gUv4
-#EXTINF:-1 xui-id="334" tvg-id="AECOLHD" tvg-name="A&E FHD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7UFN_O2tPla8T1flAz5ISnTf29ickK4l12Q-VIzaF2NDKvjyHK1FQQJzaJz1CapUk.jpg" group-title="?CINE Y SERIES?",A&E FHD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq9iQ6aU1WB0SsnnB1EuY77s
-#EXTINF:-1 xui-id="335" tvg-id="AXNARGH" tvg-name="AXN" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4hvSm2VtX6frnNb60o5V780iKxCaHWkbujzkKnyiqfYKAKT3A1pCTVP9fdix1JFEo.jpg" group-title="?CINE Y SERIES?",AXN
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqxRc-0nz6CvPF5YoRJtRnKA
-#EXTINF:-1 xui-id="336" tvg-id="AXNARGH" tvg-name="AXN FHD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4hvSm2VtX6frnNb60o5V780iKxCaHWkbujzkKnyiqfYKAKT3A1pCTVP9fdix1JFEo.jpg" group-title="?CINE Y SERIES?",AXN FHD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq6A0nXAdV-TQCARi6JrVOSY
-#EXTINF:-1 xui-id="337" tvg-id="AMCANSD" tvg-name="AMC HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6GCKYUVOvHqNB3Ob4ZNzHsz9wPmJX437mYbGhpaaSzvxsTlYCSDnPZjdMjGnXsvAw.jpg" group-title="?CINE Y SERIES?",AMC HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq27ecCx2jwLYTUhHgXWpAF8
-#EXTINF:-1 xui-id="72720" tvg-id="AMCHSPE" tvg-name="AMC +" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6GCKYUVOvHqNB3Ob4ZNzHsz9wPmJX437mYbGhpaaSzvxsTlYCSDnPZjdMjGnXsvAw.jpg" group-title="?CINE Y SERIES?",AMC +
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq2OCsKrd3TEIHXMypxEAvKqeJyVZKvZneGLZR1SOtXp0
-#EXTINF:-1 xui-id="338" tvg-id="HCP" tvg-name="HOLLYWOOD" tvg-logo="http://xyz.latinotv.com.co:2082/images/9mtEKnJaCQLuOI_a-PWYDx2bDXd8jjdKiOyS1E29T4AzjZS4_HhKDTfYOFMb2G_UiluaRW1oVhoe8Du4WrbItk75TZ-BO2HDQrvtKwnicW0.jpg" group-title="?CINE Y SERIES?",HOLLYWOOD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq_LovQplBw1FgLhOLntDWVQ
-#EXTINF:-1 xui-id="339" tvg-id="TNTSMX" tvg-name="TNT SERIES" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL72TMo0Sg4nWxMUvd8zk0hnT1_2bXJXcntSfHIBRFb3dx4_B5UQfzIZPmBWbMDd3K8.jpg" group-title="?CINE Y SERIES?",TNT SERIES
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq0xKwJYW7tHTWMuBlITeFNk
-#EXTINF:-1 xui-id="340" tvg-id="TNTLCHH" tvg-name="TNT" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4gC1hvnSwhIDkFdWBuDj5wxIr9aRiqsi6Rhzcgoa0Ag3TZsDlBu7z3nmFsBRMl-Ko.jpg" group-title="?CINE Y SERIES?",TNT
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq9qxEplDGXVdbq89yTkirN4
-#EXTINF:-1 xui-id="341" tvg-id="TNTLCHH" tvg-name="TNT FHD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4gC1hvnSwhIDkFdWBuDj5wxIr9aRiqsi6Rhzcgoa0Ag3TZsDlBu7z3nmFsBRMl-Ko.jpg" group-title="?CINE Y SERIES?",TNT FHD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq1ggJnTAfc5M01GyprLSt34
-#EXTINF:-1 xui-id="342" tvg-id="TCMARHD" tvg-name="TCM" tvg-logo="http://xyz.latinotv.com.co:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUmA-s2Y9J-FScBjUYQULJDhbZhOQLNHRhG-9qubNcA6ptPA0WG8UFiyFYt-RwxN3rHNYRBglTrtroOCWvU8c7Slk3xfZHTdPsJDkgz0bFuGAuX9fTlr9YDZ0kqmIYjYGQ.png" group-title="?CINE Y SERIES?",TCM
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq17ZG67uEAYWl6YPX9TKPW0
-#EXTINF:-1 xui-id="343" tvg-id="TBSESPH" tvg-name="TBS" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4gbZf_sD4r5P3_wVDtockaoIuMUOk2FWkoAUgizpUvqc8N35aHfpKp11nj1mnH-_o.jpg" group-title="?CINE Y SERIES?",TBS
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq9Jb1YcvHxhkQwYk-wVMu4Y
-#EXTINF:-1 xui-id="344" tvg-id="SYFYLAM" tvg-name="SYFY" tvg-logo="https://static.giga.de/wp-content/uploads/2014/07/syfy.jpg" group-title="?CINE Y SERIES?",SYFY
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqzUwo9E1Szx3FYfnT1ux7iA
-#EXTINF:-1 xui-id="347" tvg-id="SUNDESP" tvg-name="SUNDANCE" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/9820e93e3d4b28151a59a15b052c86ea.jpg" group-title="?CINE Y SERIES?",SUNDANCE
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq5ils4yKsmZzklCmy1K9Xa0
-#EXTINF:-1 xui-id="348" tvg-id="STULCOH" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5ewiiCCxehG7jY9kOmFSRBE_YZ3Z5lykqZPyTWkniUa5esFx4kVtj3FQJrCAqSyJQ.jpg" group-title="?CINE Y SERIES?",STUDIO UNIVERSAL
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqz3wIQXJRg3FQu5x6iHNvIQ
-#EXTINF:-1 xui-id="349" tvg-id="SPACLAM" tvg-name="SPACE" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4yh8yhxeXxMnoXT5M3nqCkaly71ZbPDclDKl2HKicxHV7sDDoqjBX2lpLYVKQ_lvM.jpg" group-title="?CINE Y SERIES?",SPACE
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq4WPsIQ_khctD8Cu2hwuyZA
-#EXTINF:-1 xui-id="350" tvg-id="SPACEMD" tvg-name="SPACE HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4yh8yhxeXxMnoXT5M3nqCkaly71ZbPDclDKl2HKicxHV7sDDoqjBX2lpLYVKQ_lvM.jpg" group-title="?CINE Y SERIES?",SPACE HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq7JiirEj-Mu5fj2H5J01jBg
-#EXTINF:-1 xui-id="351" tvg-id="SPACEMD" tvg-name="SPACE FHD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4yh8yhxeXxMnoXT5M3nqCkaly71ZbPDclDKl2HKicxHV7sDDoqjBX2lpLYVKQ_lvM.jpg" group-title="?CINE Y SERIES?",SPACE FHD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq3dFfR8DQrsmffNIeUuXCXM
-#EXTINF:-1 xui-id="352" tvg-id="SONYCH" tvg-name="SONY" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4DTC0Mqc4ROh-FBopgIUi5_riYfrs7qATSie22BIXlYSrIXGFi6UsTK9U64FSuMr0.jpg" group-title="?CINE Y SERIES?",SONY
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq2Zgm8mKaiIzA1iGM4-nxBI
-#EXTINF:-1 xui-id="353" tvg-id="SETLHD" tvg-name="SONY FHD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4DTC0Mqc4ROh-FBopgIUi5_riYfrs7qATSie22BIXlYSrIXGFi6UsTK9U64FSuMr0.jpg" group-title="?CINE Y SERIES?",SONY FHD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq2oyGFBf32lv51LXt5lLiEQ
-#EXTINF:-1 xui-id="354" tvg-id="PARMDA" tvg-name="PARAMOUNT" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4MI4EltRynhHO5kI-W9Py1JbwKUC1MD5WS80edd-T5so2x3fRBdLPTiohj6ISo5Ig.jpg" group-title="?CINE Y SERIES?",PARAMOUNT
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq8R54UCBUjHpUzPKcYudJwU
-#EXTINF:-1 xui-id="357" tvg-id="GLDPRD2" tvg-name="GOLDEN PREMIER" tvg-logo="https://drive.google.com/uc?id=1s8Sjl8GtMMu6-4Ly0sXX414B0frne3GP" group-title="?CINE Y SERIES?",GOLDEN PREMIER
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq9uUcjf5VWYBepv0Jn5xhDs
-#EXTINF:-1 xui-id="358" tvg-id="GLDEN" tvg-name="GOLDEN" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4iXq1JqJ-TiAp1dvblibW0BXz5281e2XCqTDHsqNcU__UKcGTfGqghXsvXoxBJros.jpg" group-title="?CINE Y SERIES?",GOLDEN
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq0qYCV4d_sCAyXcZxbRSEs0
-#EXTINF:-1 xui-id="359" tvg-id="GOLDNHD" tvg-name="GOLDEN PLUS" tvg-logo="https://drive.google.com/uc?id=1uLMaiFrKa7bxTP8X1QQIb5CokwWZKtcd" group-title="?CINE Y SERIES?",GOLDEN PLUS
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqy1sKp9OXnTJMJFIOZpWQL4
-#EXTINF:-1 xui-id="360" tvg-id="GLDEDAM" tvg-name="GOLDEN EDGE" tvg-logo="https://drive.google.com/uc?id=1uKPWxeF-hGwPT71_MLtlxq6-eDOGMYd4" group-title="?CINE Y SERIES?",GOLDEN EDGE
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq4rNc1m8JbOQzS2m6_AzPUI
-#EXTINF:-1 xui-id="362" tvg-id="FXLAHDA" tvg-name="FX" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6OmHFmmaz8f0bj8u7xVTWndG9MjM7INZFO-YgOjLVaevWsOuI94Ro0L8dCrk7bos4.jpg" group-title="?CINE Y SERIES?",FX
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq8ZWhTV4A1Mgl8laMBv_9Rs
-#EXTINF:-1 xui-id="363" tvg-id="FXLAHDA" tvg-name="FX HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6OmHFmmaz8f0bj8u7xVTWndG9MjM7INZFO-YgOjLVaevWsOuI94Ro0L8dCrk7bos4.jpg" group-title="?CINE Y SERIES?",FX HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqzlNeoVXgRykdIFa4dH_U3Q
-#EXTINF:-1 xui-id="364" tvg-id="FXLAHDA" tvg-name="FX FHD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6OmHFmmaz8f0bj8u7xVTWndG9MjM7INZFO-YgOjLVaevWsOuI94Ro0L8dCrk7bos4.jpg" group-title="?CINE Y SERIES?",FX FHD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqxnjAkpNSjeQKxgHLMaZuK4
-#EXTINF:-1 xui-id="365" tvg-id="FXMCHHD" tvg-name="FXM" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7JcrbgpDdB49eW3PXzzyE77wVFQmcrg6JYdnN2FVjGU9OfqxVt6kggX38x6MQAu-4.jpg" group-title="?CINE Y SERIES?",FXM
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq6Nu2d-f-7puRibDZswoVgY
-#EXTINF:-1 xui-id="366" tvg-id="FXMCHHD" tvg-name="FXM HD" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/62cc491e9d82f8e70a8a69f01ade2e8c.jpg" group-title="?CINE Y SERIES?",FXM HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqwXVpJaEr6-7gPPYTzKSBEU
-#EXTINF:-1 xui-id="373" tvg-id="" tvg-name="EXTREMA" tvg-logo="https://drive.google.com/uc?id=1CERprKnVI6P2Z4CBcRxLTMFAl7XHKMO7" group-title="?CINE Y SERIES?",EXTREMA
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq-dDUqGm2Xwb4WvL1mm_H1Y
-#EXTINF:-1 xui-id="374" tvg-id="WARCOL" tvg-name="WARNER CHANNEL" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/cd38aa0841c88e18672c6fedf8acd8f9.jpg" group-title="?CINE Y SERIES?",WARNER CHANNEL
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq8ZgrxXjPqpfuULtDqj6dVQ
-#EXTINF:-1 xui-id="375" tvg-id="UNILAHD" tvg-name="UNIVERSAL CHANNEL" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6l4BBy2rt8fSSiT12n7X9mufkcWYJALEwSdlvZ-4vR85yoKURJoKQVPiV0LHuLOlU.jpg" group-title="?CINE Y SERIES?",UNIVERSAL CHANNEL
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq5OPe_dsMHEDpPpek6flA5Y
-#EXTINF:-1 xui-id="376" tvg-id="CINELWH" tvg-name="CINEMAX" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6Z9ziHxk7aLdtQF4Nt4KgoSl1kvsUuqRMZH0wwEhXJwb-GuE1cjbhG230dE-km4JE.jpg" group-title="?CINE Y SERIES?",CINEMAX
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq434nLF1MXTzZTlF3Z0RSPA
-#EXTINF:-1 xui-id="377" tvg-id="DEPELA" tvg-name="DE PELICULA" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/27e111b61d1ae686bfb398ef9956b1b5.jpg" group-title="?CINE Y SERIES?",DE PELICULA
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq1ucck_O8O7xbUxrXRODJKs
-#EXTINF:-1 xui-id="379" tvg-id="DEPLPLA" tvg-name="DE PELICULA PLUS" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/27e111b61d1ae686bfb398ef9956b1b5.jpg" group-title="?CINE Y SERIES?",DE PELICULA PLUS
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqx44KltJL12D0Y8hiY-SmSE
-#EXTINF:-1 xui-id="380" tvg-id="EUROPA" tvg-name="EUROPA EUROPA" tvg-logo="https://drive.google.com/uc?id=1uUWoGbuvEPjz1dcsdpjtQA0gUV-CjLxB" group-title="?CINE Y SERIES?",EUROPA EUROPA
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq5zCQiUO5ch1OeULy8KY0zM
-
-
-
-#EXTINF:-1 xui-id="467" tvg-id="BBTVFR" tvg-name="BABY TV" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7nWkscW-gV18pVvmYgY7ZPjGUqsVwcaSWObdbG4rZfIkq8BH1Am6CexIfKShs2FWM.jpg" group-title="?KIDS?",BABY TV
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq5krWBuJAfo7qHHW2nakmeY
-#EXTINF:-1 xui-id="468" tvg-id="DKNCHD" tvg-name="DISCOVERY KIDS" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6FD_4HOJGcnYL5wBBpk1m2SIEU4ouPsw7lxZ1NRdQtiIcvvHW6TQr_Ryz4DkhgZPs.jpg" group-title="?KIDS?",DISCOVERY KIDS
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq-9uSFwLrzfBK5jjKrFCDB8
-#EXTINF:-1 xui-id="469" tvg-id="SPDISHD" tvg-name="DISNEY CHANNEL" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7P7n9tDHrNse2VEikxdA1hnhW9tEvJOz4wmafTS__8aXcptB74_tqNwD4QlpAUdUs.jpg" group-title="?KIDS?",DISNEY CHANNEL
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqymDhU5U5R7HPvbVh-uHorw
-#EXTINF:-1 xui-id="471" tvg-id="" tvg-name="DISNEY JR." tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6oUnKHZG0fGJX77VkDOH3IqW1vpOlmXVWue_adGJmV1fPuih1DobZgtUjQaatMPuA.jpg" group-title="?KIDS?",DISNEY JR.
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq0aJyE_ubhKRqsswgoboVbo
-#EXTINF:-1 xui-id="472" tvg-id="" tvg-name="SEMILLAS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBcM0m-xgot4wKNKO5NDLIl7RierkOIZm701pBJxRVtc-Yg-mSwIOzVdv0t-MNki1maTw&usqp=CAU" group-title="?KIDS?",SEMILLAS HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqwANiwVvpCWGu_A8-GgTuFs
-#EXTINF:-1 xui-id="473" tvg-id="TOONLSE" tvg-name="CARTOON NETWORK" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6OKLcZPcUjmVJ-MTqODa-qcJrEg7N5uOcdbKCfeSf1AU5c4bj-pvA_RXlidclU8nM.jpg" group-title="?KIDS?",CARTOON NETWORK
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq4k-H6EWu3VjECgb0y61pEw
-#EXTINF:-1 xui-id="474" tvg-id="BOOMANZ" tvg-name="BOOMERANG" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7L0lVChUt8vngM9MoEBxr1vsr-cWfWkDUKtGOVh9y2UKq_pz-otY4gSU1ocwwCHnw.jpg" group-title="?KIDS?",BOOMERANG
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq0xu1-pvr5mv46oDmc9XiYk
-#EXTINF:-1 xui-id="475" tvg-id="TOONCST" tvg-name="TOONCAST" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL66NL8TEkWVKld9TBiEXTI2DYQ7BKobvnLdsFItkrXiUM5Nzb5XageO5Ra46TnmlPY.jpg" group-title="?KIDS?",TOONCAST
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqwoSe53ujR59OFwgZvMEdw0
-#EXTINF:-1 xui-id="476" tvg-id="NICKLMC" tvg-name="NICKELODEON" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6wmVfPCfNl_C7dOvsfIO7eGYoYuYh-7G4iP8hLFQhUF2oaxeVKXfS5zJ1k-OJeANU.jpg" group-title="?KIDS?",NICKELODEON
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq7iAckE6fHrzVRuZafrVvqQ
-#EXTINF:-1 xui-id="477" tvg-id="NJRANZ" tvg-name="NICK JR" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5JSqtVm9YQyRvdQOyM7k0OvJuIH-hyGl-M2fNjsn6kg5AFvb49GUEeLiPXTNSowX4.jpg" group-title="?KIDS?",NICK JR
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqz-RvMvGOtknonKdK0Qgkaw
-#EXTINF:-1 xui-id="479" tvg-id="NIKLAHD" tvg-name="NICK 2" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7lafy2DGBXXRo_hcXHEJgDLMkOvdcLF8d3kLYhlgJcGK3mVAdT66jJXX7pnVEtQAs.jpg" group-title="?KIDS?",NICK 2
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqwy6k6CdQqLvBWIkytFW8aI
-
-
-
-
-
-
-
-#EXTINF:-1 xui-id="381" tvg-id="APMXHD" tvg-name="ANIMAL PLANET" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6Bj6BPQi26-1GMAlE5A4tiYZ9zs4dBnG-TSCCs6NWh_B3E04121Iv0R9bkgsNT90U.jpg" group-title="?CULTURA?",ANIMAL PLANET
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqzaKj9ca5v5jIDfyfwnyA2Y
-#EXTINF:-1 xui-id="382" tvg-id="APMXHD" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6Bj6BPQi26-1GMAlE5A4tiYZ9zs4dBnG-TSCCs6NWh_B3E04121Iv0R9bkgsNT90U.jpg" group-title="?CULTURA?",ANIMAL PLANET FHD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqyKBethQWUdHBJRWEVb4fG0
-#EXTINF:-1 xui-id="383" tvg-id="TDCLVHD" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7yCuA3exlJ9H5qc3yn1b4IVdpuxrTVoPRWGxyekn8PYszRjMdx8Cmalvt2jfbxoGc.jpg" group-title="?CULTURA?",DISCOVERY CHANNEL
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq_1knOEbxDw5HbQFq_GdkMU
-#EXTINF:-1 xui-id="384" tvg-id="TDCLVHD" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7yCuA3exlJ9H5qc3yn1b4IVdpuxrTVoPRWGxyekn8PYszRjMdx8Cmalvt2jfbxoGc.jpg" group-title="?CULTURA?",DISCOVERY CHANNEL FHD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqy1zA7Ra_oFgj2DUewWNpa0
-#EXTINF:-1 xui-id="385" tvg-id="DHHCV" tvg-name="DISCOVERY H&H" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6w8xYY2ZwwWS8VAR8tfLQT3AQhJYRkaTTRq6e0jQ29cT7vapxH3O40B6MVVCmrhEg.jpg" group-title="?CULTURA?",DISCOVERY H&H
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqxhOIiJ6IZmtLKA3ol1-Kfg
-#EXTINF:-1 xui-id="387" tvg-id="DSCIENH" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6WPPJbBl86fwHkPvoSO21mG6YL8ZcWRcz6bQe28ssutm0fSZVh1Mlyx682RSJ12Xc.jpg" group-title="?CULTURA?",DISCOVERY SCIENCE
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqyx9IaaQpBLd5wgaJwKQ0Qc
-#EXTINF:-1 xui-id="388" tvg-id="DTRBLAH" tvg-name="DISCOVERY TURBO" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5Q_2pVjAbSxzqeYLME4PyQSl8MP4wkJhFUE1rl8VzfgpUJ7fhc7FRaKskHmTbOF9M.jpg" group-title="?CULTURA?",DISCOVERY TURBO
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq-XDutiX0MyKBXhn9WXO2vI
-#EXTINF:-1 xui-id="389" tvg-id="DTRBLAH" tvg-name="DISCOVERY TURBO FHD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5Q_2pVjAbSxzqeYLME4PyQSl8MP4wkJhFUE1rl8VzfgpUJ7fhc7FRaKskHmTbOF9M.jpg" group-title="?CULTURA?",DISCOVERY TURBO FHD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqzry1PLGU_tgSrdxxZtjQ3Q
-#EXTINF:-1 xui-id="390" tvg-id="DWRLDA" tvg-name="DISCOVERY WORLD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7K3Eg43tcQHZBG-_fZ98ULmfNwxDUV_7qIjmxrR_vZeGdITbOhbeZX7pphPw3KsgI.jpg" group-title="?CULTURA?",DISCOVERY WORLD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq4bighwA4Jh8etzM3y2zeFk
-#EXTINF:-1 xui-id="391" tvg-id="DTHLAHA" tvg-name="DISCOVERY THEATER" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7vKkjJ2IJPnHKGO5xFnhD5AW_PF3xqttYNqvEX61KB1E2dimGQLEKLq8m01kYaSNI.jpg" group-title="?CULTURA?",DISCOVERY THEATER
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqyZcfgsgmvDgTCNMUtqPCP4
-#EXTINF:-1 xui-id="392" tvg-id="IDLA" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="https://drive.google.com/uc?id=1CritGdwtqDlx4mEX-kwxY2plLxk07-uV" group-title="?CULTURA?",INVESTIGATION DISCOVERY
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq1MjQM8gSHZCCRm6ymP-zS0
-#EXTINF:-1 xui-id="393" tvg-id="TLCMXH" tvg-name="TLC" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5IGkbuBQfiIFkOsCgI7fnJA93UjNn3XKqsX9qeaV_b723yT6xM-LLTHjw5qOkx0aU.jpg" group-title="?CULTURA?",TLC
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq8LJe8g_fwJSxVL96NCPeak
-#EXTINF:-1 xui-id="394" tvg-id="H2LAHD" tvg-name="H2" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/76752f90065d6e124ec57fe8633525dd.jpg" group-title="?CULTURA?",H2
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqwC4gLCihdHsOejofElQW-Y
-#EXTINF:-1 xui-id="395" tvg-id="H2LAHD" tvg-name="H2 FHD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6RSOlbVG2bhhy9My7jlAxb7xw8srkoPVG1q01moPzsdcBbsAKwt6d4c-BcGIhNbuA.jpg" group-title="?CULTURA?",H2 FHD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq5FYFkA30x31E50neDedcc4
-#EXTINF:-1 xui-id="396" tvg-id="HCCHDA" tvg-name="HISTORY" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7BxfMdUXdozuQK_EH0fiyPlEeTISxxca2EGr31EGnw6FxruM4OC18Nuj9BsHF2qi4.jpg" group-title="?CULTURA?",HISTORY
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqztxCnvd7pRBCQPKk0ppfEo
-#EXTINF:-1 xui-id="397" tvg-id="HCCHDA" tvg-name="HISTORY FHD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7BxfMdUXdozuQK_EH0fiyPlEeTISxxca2EGr31EGnw6FxruM4OC18Nuj9BsHF2qi4.jpg" group-title="?CULTURA?",HISTORY FHD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq31WrHegWSVlVrr2DOLVDb0
-#EXTINF:-1 xui-id="18902" tvg-id="NATGSHD" tvg-name="ES: NATGEO WILD FHD" tvg-logo="https://drive.google.com/uc?id=1pGNZPldD4spbULygPnn1UVpCIhWa9hJE" group-title="?CULTURA?",ES: NATGEO WILD FHD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqxRHKIGZyj1DHsjbQ7xPJ54dTreJ6ZMIiAYGRgAuYClO
-#EXTINF:-1 xui-id="400" tvg-id="NGCCLA" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7SmCsqtIzD1Vqvpd-5UuuxJC1TDVm2opArxGTD8H0kOeoi7aEW3GCZUfmE5CRvKAs.jpg" group-title="?CULTURA?",NATIONAL GEOGRAPHIC
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq4E4oS3CuTfqtVaoc13Qr1o
-#EXTINF:-1 xui-id="402" tvg-id="GOURMTA" tvg-name="EL GOURMET" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6yP-wGpg7b6oxykzh3TQys-R_LB-ZCNiji8pc1twISYoB5VxK7eujvIEYTFSpURkE.jpg" group-title="?CULTURA?",EL GOURMET
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq3oBjdd2OzAomEgsKoXqqEA
-#EXTINF:-1 xui-id="403" tvg-id="MASCHIA" tvg-name="MAS CHIC" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5WTA3wsJVrYmDiU_SSs8vXbSskQ5Rv6scHR_21BJjAA6JDrS7zobEQTvRuKzzMF1w.jpg" group-title="?CULTURA?",MAS CHIC
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq8i_LkQJ5BqPmURyYJxIXcU
-#EXTINF:-1 xui-id="404" tvg-id="LIFELEH" tvg-name="LIFETIME" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4GpnHDdg4Z6K4qRCad53xdy44gcRczpC_7d_px-2wEh1sTCWv3UWVU4AqCF470pHA.jpg" group-title="?CULTURA?",LIFETIME
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq3DgcY1XzTLNRRuymaW01fs
-
-
-#EXTINF:-1 xui-id="438" tvg-id="HBOXLAM" tvg-name="HBO XTREME" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6I61CReNxBOo984zMYWSOiRDmOo4hzzsfKGsrFAyWCZHxFNQcqarAkyXBkltZz9MI.jpg" group-title="?PREMIUM?",HBO XTREME
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq1_6qpEzKdgOsbRw28gH3LI
-#EXTINF:-1 xui-id="439" tvg-id="HBOXLAM" tvg-name="HBO XTREME FHD" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/a1cb1ce71cd36dbd399e4d25376154d3.jpg" group-title="?PREMIUM?",HBO XTREME FHD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq4zSi1Bc91HMLAlBiRH1r00
-#EXTINF:-1 xui-id="440" tvg-id="POPAM" tvg-name="HBO POP" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/7653018e5d5c754336a190e5bf655ba9.jpg" group-title="?PREMIUM?",HBO POP
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq-DntiV4sMy5Kd9t71iXShc
-#EXTINF:-1 xui-id="441" tvg-id="MUNLEH" tvg-name="HBO MUNDI" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7JI8i8xZe89R61o9TG8O8JW1Kc_lyY1P1k7ni1TgO1-gW0XlMb3z8MFS-zSPFExNo.jpg" group-title="?PREMIUM?",HBO MUNDI
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq4WV88sTc19tXEhV1zcVriM
-#EXTINF:-1 xui-id="442" tvg-id="MUNLEH" tvg-name="HBO MUNDI FHD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7JI8i8xZe89R61o9TG8O8JW1Kc_lyY1P1k7ni1TgO1-gW0XlMb3z8MFS-zSPFExNo.jpg" group-title="?PREMIUM?",HBO MUNDI FHD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq8xyIFrEdKDz-0lGaQGqml0
-#EXTINF:-1 xui-id="443" tvg-id="HBOCHIL" tvg-name="HBO" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/b306366bd39df2a59bf36334544b264c.jpg" group-title="?PREMIUM?",HBO
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq0r2J6rpYGdfnWpEVgzOvKg
-#EXTINF:-1 xui-id="444" tvg-id="HBOCHIL" tvg-name="HBO FHD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6qUrj6uJZqyqqcK-AoAvLOv2kXpbo7vA4yq_eijkedjDzspzIV6ux8LG2QQwXw9kM.jpg" group-title="?PREMIUM?",HBO FHD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqwsrJUsKkGBN1-HnZwPiIvo
-#EXTINF:-1 xui-id="445" tvg-id="HBOPNHE" tvg-name="HBO 2" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4N4VP9YcS5FbX658HwfOsXKiujExGg-agb5LHEHiQIWAXmZos2u3FRPdiI_R1rg58.jpg" group-title="?PREMIUM?",HBO 2
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq3yojQqQKyxd62dYjWS17pc
-#EXTINF:-1 xui-id="446" tvg-id="HBOPNHE" tvg-name="HBO 2 FHD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4N4VP9YcS5FbX658HwfOsXKiujExGg-agb5LHEHiQIWAXmZos2u3FRPdiI_R1rg58.jpg" group-title="?PREMIUM?",HBO 2 FHD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq4-J4KGOW0kNNxjOQJ2Xh5U
-#EXTINF:-1 xui-id="447" tvg-id="HBODA" tvg-name="HBO PLUS" tvg-logo="https://drive.google.com/uc?id=1LL-9uS6XWJ1NLrQl4o8IPVn6WlfpSJJU" group-title="?PREMIUM?",HBO PLUS
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq5nzprrVmgrQ3mPuRwZBNBU
-#EXTINF:-1 xui-id="448" tvg-id="HBODA" tvg-name="HBO PLUS FHD" tvg-logo="https://drive.google.com/uc?id=1LL-9uS6XWJ1NLrQl4o8IPVn6WlfpSJJU" group-title="?PREMIUM?",HBO PLUS FHD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq0NyMkJnk4sWZp6JBotPt-4
-#EXTINF:-1 xui-id="449" tvg-id="HBOHDA" tvg-name="HBO FAMILY" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/80a47380ba7093fa47a5d01d5484df99.jpg" group-title="?PREMIUM?",HBO FAMILY
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq3ne9tvGDUsT_4AaBiVuhEw
-#EXTINF:-1 xui-id="450" tvg-id="HBOHDA" tvg-name="HBO FAMILY FHD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5QQpRCBWKCVDm7xQUHHfchj8m4ZhpB9VZsugDvpLxkUmF5smOMAd6YvBtrdsOhe4o.jpg" group-title="?PREMIUM?",HBO FAMILY FHD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqz3y_en9m8e7qD5ZVfFHsA8
-#EXTINF:-1 xui-id="452" tvg-id="HBOSIG" tvg-name="HBO SIGNATURE FHD" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/4c7291ebfd9fdf7e8895a23306c9ce7d.jpg" group-title="?PREMIUM?",HBO SIGNATURE FHD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq0ARHgcIn8W4FwTRwUnE29g
-#EXTINF:-1 xui-id="454" tvg-id="" tvg-name="UNIVERSAL PREMIERE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" group-title="?PREMIUM?",UNIVERSAL PREMIERE FHD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq1BCFZTN9k-kgv0INR1zmhw
-#EXTINF:-1 xui-id="455" tvg-id="UniversalCrime" tvg-name="UNIVERSAL CRIME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Universal_Crime_logo.png" group-title="?PREMIUM?",UNIVERSAL CRIME HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqzJQ-odSLcXGOW8LQ8MG-dU
-#EXTINF:-1 xui-id="457" tvg-id="UniversalReality" tvg-name="UNIVERSAL REALITY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Universal_Reality_logo.png" group-title="?PREMIUM?",UNIVERSAL REALITY HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq9hDwAwKvjtQqYsqc6gdn6M
-#EXTINF:-1 xui-id="459" tvg-id="UniversalComedy" tvg-name="UNIVERSAL COMEDY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Universal_Comedy_logo.png" group-title="?PREMIUM?",UNIVERSAL COMEDY HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq0yfzuZZ2yhrLDHrboTpiFM
-#EXTINF:-1 xui-id="463" tvg-id="UniversalCinema" tvg-name="UNIVERSAL CINEMA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Universal_Cinema_2021.png/revision/latest?cb=20220102014101&path-prefix=es" group-title="?PREMIUM?",UNIVERSAL CINEMA HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq0rndaao4HYLf10Vyl3Wc-0
-#EXTINF:-1 xui-id="465" tvg-id="" tvg-name="NBA HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/pOJ-t6AZ9jwgg4EyWRtVnXlnwGk3sqJo6dh4zdOBXeFVPGwb4dtwQ9DnGOoSdqC2IKg_jdpo0EfGxuHj9aZdzcUgit5B4Z_TQvR7R-E4wbtEJnuKCyqkt-5amXH1Sq_puhFNMHtMx7SeWsnEIq8wXA.jpg" group-title="??DEPORTES??",NBA HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq3RUCe_nOZ0m6ceJ1HoQbh4
-
-
-
-#EXTINF:-1 xui-id="94419" tvg-id="" tvg-name="Canal 8 Catacaos | PE" tvg-logo="http://xyz.latinotv.com.co:2082/images/134b9a3baef493a60b88ccab835d770a.png" group-title="?MUSICA?",Canal 8 Catacaos | PE
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq4LKwpj6G_7cBQWWeJorvyCw8_TuNtq9-8Lao-00hJmO
-#EXTINF:-1 xui-id="94420" tvg-id="" tvg-name="Central TV Chosica | PE" tvg-logo="http://xyz.latinotv.com.co:2082/images/ac9283070e3ff1b650a0036b98027c54.png" group-title="?MUSICA?",Central TV Chosica | PE
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq1W2Jnw_lJQeqOdj5HoAHfVre5pmI0w45ulYJdWJFfxx
-#EXTINF:-1 xui-id="94428" tvg-id="" tvg-name="Monterrico TV | PE" tvg-logo="http://xyz.latinotv.com.co:2082/images/ac9283070e3ff1b650a0036b98027c54.png" group-title="?MUSICA?",Monterrico TV | PE
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqyA6g60S5YdVW-mVxdI4Jkj0KzxhVNsHlqQARjrhbhkK
-#EXTINF:-1 xui-id="94430" tvg-id="" tvg-name="Ovacion | PE" tvg-logo="http://xyz.latinotv.com.co:2082/images/4a36f0a41e31a0d739d5266cd15cabb1.png" group-title="?MUSICA?",Ovacion | PE
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq0IP_IJETcit0eCcsn-xwMT6Azm9GWpbDi8CsWq8bxq1
-#EXTINF:-1 xui-id="94431" tvg-id="" tvg-name="Panamericana | PE" tvg-logo="http://xyz.latinotv.com.co:2082/images/HheysxGAvgaNAJBYw05ksXRcSiUQq0xYXZTrDCWhm6wJCctKf_9zIdSjyCyEKGTu2569v268M4Vafv44dxZ8sggvaI5n2LkxT5OwEHzkoU4.png" group-title="?MUSICA?",Panamericana | PE
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq33R8A54FJQjYHG7UVAlou4csAQzV3xpx6CG603toTxF
-#EXTINF:-1 xui-id="94436" tvg-id="" tvg-name="TVPE | PE" tvg-logo="http://xyz.latinotv.com.co:2082/images/bfc09e99ce2972dd057d8c21a469039e.png" group-title="?MUSICA?",TVPE | PE
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq0JDYLwL-8S6PeBgm5thZ4feKqCj_AiHq5sg7vd1ZI-A
-#EXTINF:-1 xui-id="94544" tvg-id="" tvg-name="BANDAMAX" tvg-logo="http://xyz.latinotv.com.co:2082/images/HheysxGAvgaNAJBYw05ksXRcSiUQq0xYXZTrDCWhm6xn8byTMsiaNdLOHJlacEOdp6LNn6rsKylwsCGWmDh13iNlokcuigQO5MBm-mVltCY.png" group-title="?MUSICA?",BANDAMAX
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq5VhSAULn_-1TRo5Q_5YDHug8Og--cPYxsT5gxiV2_am
-#EXTINF:-1 xui-id="94545" tvg-id="" tvg-name="FHD| MTV" tvg-logo="http://xyz.latinotv.com.co:2082/images/589ec3f7fafec2e500119a433eba81db.png" group-title="?MUSICA?",FHD| MTV
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq1umi-1YejMf1NBNmfAzXYieZshXnZEOhPKM3YNjTMxV
-#EXTINF:-1 xui-id="94547" tvg-id="" tvg-name="FHD| CONCERT CHANNEL" tvg-logo="http://xyz.latinotv.com.co:2082/images/8df52dc174e3e56823b20e0cc65eeb23.png" group-title="?MUSICA?",FHD| CONCERT CHANNEL
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq-QxB-7RiVmI5rVIlSEn0oq2ljIbARaS3JhN95XvGVlD
-#EXTINF:-1 xui-id="94549" tvg-id="" tvg-name="FHD| TELEHIT" tvg-logo="http://xyz.latinotv.com.co:2082/images/2a712ea2c387a85b25cfa803a77042ff.png" group-title="?MUSICA?",FHD| TELEHIT
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq98ZARY8W9Pi9rlQpqVT3YtttCJvaU6lDMT6LCarYuoX
-#EXTINF:-1 xui-id="94551" tvg-id="" tvg-name="FHD| VH1" tvg-logo="http://xyz.latinotv.com.co:2082/images/35e1b11ee5382d17d25615f5ff31a989.png" group-title="?MUSICA?",FHD| VH1
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq0G_UxyOt_cRpj1XDRQs_QdLaNvNMivo8K4WWEwYuTjh
-#EXTINF:-1 xui-id="94552" tvg-id="" tvg-name="BANDAMAX SD" tvg-logo="http://xyz.latinotv.com.co:2082/images/HheysxGAvgaNAJBYw05ksXRcSiUQq0xYXZTrDCWhm6xn8byTMsiaNdLOHJlacEOdp6LNn6rsKylwsCGWmDh13iNlokcuigQO5MBm-mVltCY.png" group-title="?MUSICA?",BANDAMAX SD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq7970qnjIfzMdaa_Fxq9sbhAPuf7BsyDibJpZkcCt9cc
-#EXTINF:-1 xui-id="94553" tvg-id="" tvg-name="SD| MTV" tvg-logo="http://xyz.latinotv.com.co:2082/images/589ec3f7fafec2e500119a433eba81db.png" group-title="?MUSICA?",SD| MTV
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq72Oefp6lRba0cd_VOVtRXpKA4aDNF65dsgjNWIxyQeD
-#EXTINF:-1 xui-id="94554" tvg-id="" tvg-name="MUSICA SD| MTV 80s" tvg-logo="http://xyz.latinotv.com.co:2082/images/589ec3f7fafec2e500119a433eba81db.png" group-title="?MUSICA?",MUSICA SD| MTV 80s
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq_XrICE_6xn2kOeNK1pEMcG5fEvymTB53uxk4Ph2u-N7
-#EXTINF:-1 xui-id="94555" tvg-id="" tvg-name="MUSICA SD| MTV Classics" tvg-logo="http://xyz.latinotv.com.co:2082/images/589ec3f7fafec2e500119a433eba81db.png" group-title="?MUSICA?",MUSICA SD| MTV Classics
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq1bgE4p7yLDA_j_t5FqkwSPrNGDclaUf4UYvLUdgsXei
-#EXTINF:-1 xui-id="94556" tvg-id="" tvg-name="MUSICA SD| TELEHIT" tvg-logo="http://xyz.latinotv.com.co:2082/images/2a712ea2c387a85b25cfa803a77042ff.png" group-title="?MUSICA?",MUSICA SD| TELEHIT
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq_7nISatyfk0_GEJJGqmUOd0Yrb8wna8mFZLrTLhcKTY
-#EXTINF:-1 xui-id="94557" tvg-id="" tvg-name="FHD| VIDEO ROLA" tvg-logo="http://xyz.latinotv.com.co:2082/images/9b9899f1170a35a26fb3cfe0123b82aa.png" group-title="?MUSICA?",FHD| VIDEO ROLA
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqw-EIPonjEEH7oSlUXJWtoD_9QYLzf5F9d_Q1HHY3BqL
-#EXTINF:-1 xui-id="94561" tvg-id="" tvg-name="SD| HTV" tvg-logo="" group-title="?MUSICA?",SD| HTV
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq0fe-YuXaCGWjni2mA0VJUoEqmhwR19aF8OHXJpiVBfc
-#EXTINF:-1 xui-id="94562" tvg-id="" tvg-name="FHD| MC Dance" tvg-logo="" group-title="?MUSICA?",FHD| MC Dance
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq6LozzoSlcn9OP6oOTstCiPLUBEuHBaRqCOTMQk0UtlW
-#EXTINF:-1 xui-id="94563" tvg-id="" tvg-name="FHD| MC Mexicana" tvg-logo="" group-title="?MUSICA?",FHD| MC Mexicana
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq2LZSOjqkZhNdTHleXNyW78vUXWAzjQeOJrkFyesJfWH
-#EXTINF:-1 xui-id="94564" tvg-id="" tvg-name="FHD| MC Musica Urbana" tvg-logo="" group-title="?MUSICA?",FHD| MC Musica Urbana
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq84soeHtwBAjaVo19fDuiWNbYMeyZjAB5UVvyf9MYoaB
-#EXTINF:-1 xui-id="94565" tvg-id="" tvg-name="FHD| MC Rap" tvg-logo="" group-title="?MUSICA?",FHD| MC Rap
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqwN9Sx1irExs3lqidPQ4ngDfHq2r-0CeM2dS2_6jvZnJ
-
-
-
-
-
-
-#EXTINF:-1 xui-id="109244" tvg-id="" tvg-name="SONY COMEDIA" tvg-logo="http://xyz.latinotv.com.co:2082/images/zKfiZc2EbAJTgBT8Q9G5p-ormWcxxYlH0z1oByaXo7QfDQN64OTcSGybSrNEtsKp7ck0K5xDPE1LsRaAoI0uRfQiisB4ivrFpSuoowmZnvQ.png" group-title="?ENTRETENIMIENTO?",SONY COMEDIA
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqz8NTUMSxIRmTtIVGNPgQYxw2F92PWBwpTC-ho6YltsN
-#EXTINF:-1 xui-id="109245" tvg-id="" tvg-name="SONY NOVELAS" tvg-logo="http://xyz.latinotv.com.co:2082/images/zKfiZc2EbAJTgBT8Q9G5p-ormWcxxYlH0z1oByaXo7QfDQN64OTcSGybSrNEtsKp7ck0K5xDPE1LsRaAoI0uRfQiisB4ivrFpSuoowmZnvQ.png" group-title="?ENTRETENIMIENTO?",SONY NOVELAS
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqz8NTUMSxIRmTtIVGNPgQYxp-bZJpr5b-YLTBpPufC7S
-#EXTINF:-1 xui-id="109246" tvg-id="" tvg-name="SONY COMPETENCIAS" tvg-logo="http://xyz.latinotv.com.co:2082/images/zKfiZc2EbAJTgBT8Q9G5p-ormWcxxYlH0z1oByaXo7QfDQN64OTcSGybSrNEtsKp7ck0K5xDPE1LsRaAoI0uRfQiisB4ivrFpSuoowmZnvQ.png" group-title="?ENTRETENIMIENTO?",SONY COMPETENCIAS
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqz8NTUMSxIRmTtIVGNPgQYylB07NIGU2jvgkkHdX7FGl
-#EXTINF:-1 xui-id="296" tvg-id="" tvg-name="TLNOVELAS UNIVISION" tvg-logo="https://drive.google.com/uc?id=18FsqheyNZ98V5vHSmRWZSFNPQxe6MwGu" group-title="?ENTRETENIMIENTO?",TLNOVELAS UNIVISION
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq2crXsZPc5_SZLQ3mu91cgI
-#EXTINF:-1 xui-id="297" tvg-id="" tvg-name="NBC  UNIVERSO" tvg-logo="https://drive.google.com/uc?id=18RXd-75u7RcK_9H24B0qMzG9oFab1lcs" group-title="?ENTRETENIMIENTO?",NBC  UNIVERSO
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq1t0ZZInTURkPs7Tdnz9yMA
-#EXTINF:-1 xui-id="300" tvg-id="FOODIT" tvg-name="FOOD NETWORK" tvg-logo="https://drive.google.com/uc?id=1pJnYq2PdUvcUo5AEMmOpulQzY3IweyYO" group-title="?ENTRETENIMIENTO?",FOOD NETWORK
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq0181LVVMmDunm0GW4FlKe8
-#EXTINF:-1 xui-id="303" tvg-id="DISTCOM" tvg-name="DISTRITO COMEDIA" tvg-logo="https://drive.google.com/uc?id=1tsLXj-s_7-TbJssTsbn64iwKKOb-c7fh" group-title="?ENTRETENIMIENTO?",DISTRITO COMEDIA
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq12K48ojLT59pqTQeHCyYLI
-#EXTINF:-1 xui-id="304" tvg-id="TLNOHI" tvg-name="TLNOVELAS" tvg-logo="https://drive.google.com/uc?id=1rQOwxisSykCB02TdFK-wcIRJjsJxrHUI" group-title="?ENTRETENIMIENTO?",TLNOVELAS
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq6eX9tj_PymFIQx39hmT36w
-#EXTINF:-1 xui-id="307" tvg-id="XHTV" tvg-name="FORO TV" tvg-logo="https://drive.google.com/uc?id=1to4alk3T8PO9zs-6c3D9pJ_9hpfyJ_FY" group-title="?ENTRETENIMIENTO?",FORO TV
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq95oBGaJD2tc9PVN50qcNJw
-#EXTINF:-1 xui-id="309" tvg-id="TRUTV" tvg-name="TRU TV" tvg-logo="https://drive.google.com/uc?id=1rC3P8SpicFsdhsL8bQjwu_yIMUQGWfrf" group-title="?ENTRETENIMIENTO?",TRU TV
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqzTSDy9Osf2Wd8Sso1LiTUQ
-#EXTINF:-1 xui-id="310" tvg-id="TELEMC" tvg-name="TELEMUNDO" tvg-logo="https://drive.google.com/uc?id=1qNvjt0J3tKnORi10aqFsOz_vVFrdlXgY" group-title="?ENTRETENIMIENTO?",TELEMUNDO
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq3ayYz2jZCCG6VW4bPeTZEU
-#EXTINF:-1 xui-id="311" tvg-id="GLITZS" tvg-name="GLITZ" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/64d0f61a8695a747d9185604df1d46ad.jpg" group-title="?ENTRETENIMIENTO?",GLITZ
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq1wLeV4hFhfZs7miGg6BsOc
-#EXTINF:-1 xui-id="312" tvg-id="HOLATV" tvg-name="HOLA TV" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/74ae34f916bab4168b26246a9f1f1c63.jpg" group-title="?ENTRETENIMIENTO?",HOLA TV
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqzme0X4hX32bvlw9xY7jG78
-#EXTINF:-1 xui-id="313" tvg-id="" tvg-name="E!" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7CbaOvIqWyMD4osFovTqyjc7RQMW_rNz_rdWi3Q8Y3f0NQoOKfS9i_nVJPhTaENkg.jpg" group-title="?ENTRETENIMIENTO?",E!
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq-2OjOrGjoDeLtG8BEkZPMc
-#EXTINF:-1 xui-id="316" tvg-id="ADN40.mx" tvg-name="ADN40" tvg-logo="https://drive.google.com/uc?id=1tVFmQKIAZBOvrSHEdIp2bJSVLulwMGxU" group-title="?ENTRETENIMIENTO?",ADN40
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq3_g4Fz0qwj1DGy57dHONPY
-#EXTINF:-1 xui-id="318" tvg-id="COCECH" tvg-name="COMEDY CENTRAL" tvg-logo="https://drive.google.com/uc?id=1pUQnuSy4o47br1m4JjRJPzYIZz2aV6WW" group-title="?ENTRETENIMIENTO?",COMEDY CENTRAL
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq6TbxAkkON3qRRfoZ9Qx3po
-#EXTINF:-1 xui-id="319" tvg-id="AzCorazon.mx" tvg-name="AZTECA CORAZON" tvg-logo="https://drive.google.com/uc?id=1sBImcIiT0aMrLE1OB1ujvATabGbxrmSe" group-title="?ENTRETENIMIENTO?",AZTECA CORAZON
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq9NITdq3d6aIuGJgQOD9DcM
-#EXTINF:-1 xui-id="140930" tvg-id="XEWIZD2" tvg-name="LAS ESTRELLAS" tvg-logo="http://xyz.latinotv.com.co:2082/images/Gx0aJmIs8vx-6ZTH0B9crGP-9a9XBTJvf-2KNmt-E5pRYe8w1ODDH2aXvQN-dYEwOW65gHYa-n65oSVKJti0X8hjCLjckS9ThsgcPA1gqoY.png" group-title="?MEXICO?",LAS ESTRELLAS
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqyTDG_-BCSOl9BB9UKhdAE8nbaUbKA1jzG6cJWQePZSR
-#EXTINF:-1 xui-id="140931" tvg-id="" tvg-name="HD | LAS ESTRELLAS -2" tvg-logo="http://xyz.latinotv.com.co:2082/images/Gx0aJmIs8vx-6ZTH0B9crGP-9a9XBTJvf-2KNmt-E5pRYe8w1ODDH2aXvQN-dYEwOW65gHYa-n65oSVKJti0X8hjCLjckS9ThsgcPA1gqoY.png" group-title="?MEXICO?",HD | LAS ESTRELLAS -2
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqyTDG_-BCSOl9BB9UKhdAE_ObG7sYB_kJayCRKSnW_eV
-#EXTINF:-1 xui-id="140932" tvg-id="ESTRLLA" tvg-name="ESTRELLA TV" tvg-logo="http://xyz.latinotv.com.co:2082/images/Gx0aJmIs8vx-6ZTH0B9crGP-9a9XBTJvf-2KNmt-E5qjVuxgL9QO2rIMmG1dAzp43WZ2J6OAHXwWSyiJThJ_tWTTJ--tFkn7z5VrEDtkOFY.png" group-title="?MEXICO?",ESTRELLA TV
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqyTDG_-BCSOl9BB9UKhdAE8S2cc4Mo25350XZ2Mkyo8-
-
-
-
-
-
-
-#EXTINF:-1 xui-id="165196" tvg-id="" tvg-name="CARACOL" tvg-logo="http://xyz.latinotv.com.co:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjb00EkRs4XJ_Ri7FW81aAola5OQ9-6VupNu6-aP4l6vS7bFJeltSM7cxx8PbAjiOpcRSoqITG-zjz-cljHZE3mct8_0MA-kuenST_bFmRv0Y.png" group-title="ENCODER CLARO",CARACOL
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq6P0QjCZGAYKtmqLSolFar5XUv2ZqLUotwD1IPybL93U
-#EXTINF:-1 xui-id="165197" tvg-id="" tvg-name="CARACOL HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjb00EkRs4XJ_Ri7FW81aAola5OQ9-6VupNu6-aP4l6vS7bFJeltSM7cxx8PbAjiOpcRSoqITG-zjz-cljHZE3mct8_0MA-kuenST_bFmRv0Y.png" group-title="ENCODER CLARO",CARACOL HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq6P0QjCZGAYKtmqLSolFar6f3T6jvBMWBeJ2iibhOgbx
-#EXTINF:-1 xui-id="165198" tvg-id="" tvg-name="RCN HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5FF41dz9ExAGOs3PqtSs2yD5Cbwsr3kfRNhJ0HIA7KdWDTqS4Z7wipH-dfb5uEMC8.jpg" group-title="ENCODER CLARO",RCN HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq6P0QjCZGAYKtmqLSolFar6JOMpAy0M23gu3173vBjxI
-#EXTINF:-1 xui-id="165199" tvg-id="" tvg-name="RCN HD2" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5FF41dz9ExAGOs3PqtSs2yD5Cbwsr3kfRNhJ0HIA7KdWDTqS4Z7wipH-dfb5uEMC8.jpg" group-title="ENCODER CLARO",RCN HD2
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq6P0QjCZGAYKtmqLSolFar4AwNti_DjxSTD7fezecy2d
-#EXTINF:-1 xui-id="165200" tvg-id="" tvg-name="RCN TELENOVELAS" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6cVF8mbBvBroLS613DgJOyTOmYo7IqQsUUQlI4KwaCrTHMji8BN58QSi5sSMaCn3I.jpg" group-title="ENCODER CLARO",RCN TELENOVELAS
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqzEMhwk7dznwndHzVWAZnMUIotOPZsdcXJEN8AZSEkQ_
-#EXTINF:-1 xui-id="165202" tvg-id="" tvg-name="AMC HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/puYO2WAyl-KqpGJQtr_VWB0dBSJ-nMHnuFaClH6a5WixM98j69lsImw12pJC09UYWUj_1rCjV0jo9YeXxQKbaw.png" group-title="ENCODER CLARO",AMC HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqzEMhwk7dznwndHzVWAZnMWgTv23QaFBoHLdNB9fxka1
-#EXTINF:-1 xui-id="165203" tvg-id="" tvg-name="ANIMAL PLANET HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/D9UdQPvBgg5ZtNEWqZjRsmagfZ1Js5atqMxomTCRvgBvUJR94przk5N_pcxaVbRqofjJzR-127CGDay6EfnEXgLr3yRgByAF0Fof6EC0O9ZmuE8Ts5AMVGdT8ckLS6Ppx899XhkRJn1KurrTmNBYWg.jpg" group-title="ENCODER CLARO",ANIMAL PLANET HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqzEMhwk7dznwndHzVWAZnMUvJUxT-Zu9Hu3BrIV0zrqK
-#EXTINF:-1 xui-id="165205" tvg-id="" tvg-name="ANTV" tvg-logo="" group-title="ENCODER CLARO",ANTV
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqzEMhwk7dznwndHzVWAZnMWhv6ChIDY6LVbhVzsoKjjM
-#EXTINF:-1 xui-id="165206" tvg-id="" tvg-name="AXN HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4ny3XG5qtiBweC4YqX9i8399kpUNDPu7AgOEM2c8CxiwoetZhyh90XZHzVx37RpOA.jpg" group-title="ENCODER CLARO",AXN HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqzEMhwk7dznwndHzVWAZnMVpzWEUr-Y2rJYBGW1tYWaj
-#EXTINF:-1 xui-id="165209" tvg-id="" tvg-name="-BABYTV" tvg-logo="http://xyz.latinotv.com.co:2082/images/Rzl0xwd18EqugPs9zyPcYp6o2-1mCaDtMUHiICc6Hx1xHjBdQyasQXdDevwA0oejXshZUaD_esastbUXyaCivA.png" group-title="ENCODER CLARO",-BABYTV
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqzEMhwk7dznwndHzVWAZnMXeKxSDS8XIC_7SG05yx-r5
-#EXTINF:-1 xui-id="165212" tvg-id="" tvg-name="-BLOOMBERG" tvg-logo="http://xyz.latinotv.com.co:2082/images/HZ6LalYixtO5nyZavnSicOwqi9_tDbbYBt0mvFeT3VQmY55XizJ7lCRoEHKL4xpaVyHz-_ILu4GVdkSJwFuS_A.jpg" group-title="ENCODER CLARO",-BLOOMBERG
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq7lFpN01-9gNgTFplYB7wRRxxvCCAPcZz3hmgB63fAkz
-#EXTINF:-1 xui-id="165213" tvg-id="" tvg-name="-BOOMERANG" tvg-logo="http://xyz.latinotv.com.co:2082/images/mg9e4VnU5MiobcDarwnBsT1JN9-Ai4kP0epNFBxdkcU.png" group-title="ENCODER CLARO",-BOOMERANG
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq7lFpN01-9gNgTFplYB7wRQSsjMQ8HEDZ6sOCVe__-u1
-#EXTINF:-1 xui-id="165214" tvg-id="" tvg-name="- Las Estrellas" tvg-logo="http://xyz.latinotv.com.co:2082/images/Rzl0xwd18EqugPs9zyPcYp6o2-1mCaDtMUHiICc6Hx2h2oQ087rSJXss84R7PfJrYCsoL3hhnIb5cB6B_aPvjvZRQtXk8wRGCo0eUaaedVc.png" group-title="ENCODER CLARO",- Las Estrellas
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq7lFpN01-9gNgTFplYB7wRR_LW2WRPD6RmzyxuYXMsLS
-#EXTINF:-1 xui-id="165216" tvg-id="" tvg-name="-CARTOON NETWORK HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/puYO2WAyl-KqpGJQtr_VWB0dBSJ-nMHnuFaClH6a5Wg_pTFpVkfqmpehuyP4JIAhhPg5qUD6NJcTrE4iL-gjxA.png" group-title="ENCODER CLARO",-CARTOON NETWORK HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq7lFpN01-9gNgTFplYB7wRQUCIiS6AN6Ne8YgWeDgM3u
-#EXTINF:-1 xui-id="165217" tvg-id="" tvg-name="-CINECANAL HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/puYO2WAyl-KqpGJQtr_VWB0dBSJ-nMHnuFaClH6a5Wi-jNnH52N5dorpLgdba7kPpXXjy54Ou41SR_PykYgYaw.png" group-title="ENCODER CLARO",-CINECANAL HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq7lFpN01-9gNgTFplYB7wRQ30_bxlLGcuv9BO6-UKE46
-#EXTINF:-1 xui-id="165218" tvg-id="" tvg-name="-CINELATINO" tvg-logo="http://xyz.latinotv.com.co:2082/images/Rzl0xwd18EqugPs9zyPcYp6o2-1mCaDtMUHiICc6Hx3Z694yYrBQ3zm2FkEETgyN0ldzBKM-VZXeGOpBlJuucw.png" group-title="ENCODER CLARO",-CINELATINO
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq7lFpN01-9gNgTFplYB7wRSSR78gUDE-KIqaIs9WILHh
-#EXTINF:-1 xui-id="165219" tvg-id="" tvg-name="-CINEMA DINAMITA" tvg-logo="http://xyz.latinotv.com.co:2082/images/Rzl0xwd18EqugPs9zyPcYp6o2-1mCaDtMUHiICc6Hx08oX1XlR9DUMO45KPKyxYCN--dFwEGE5JDEKefPvhwaQ.png" group-title="ENCODER CLARO",-CINEMA DINAMITA
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq7lFpN01-9gNgTFplYB7wRQ9duiimTs998Jk5BMVmTMA
-#EXTINF:-1 xui-id="165220" tvg-id="" tvg-name="-CINEMAX" tvg-logo="http://xyz.latinotv.com.co:2082/images/puYO2WAyl-KqpGJQtr_VWB0dBSJ-nMHnuFaClH6a5Wi-jNnH52N5dorpLgdba7kPZyWUsgnGZ0xTIulK_YtrUg.png" group-title="ENCODER CLARO",-CINEMAX
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqzMoBOO4hOva4tQOFhj0xxqHS4sBF7f7jhrB9FELFY4_
-#EXTINF:-1 xui-id="165224" tvg-id="" tvg-name="-COMEDY CENTRAL HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/2dny-GpLISsoaNSrxeJH8GEW6qYewyf4XQx2kAAdYL6TStb0gP-dEorf5UoC3UaWdaUJgTMLEx6KfysMT_lJUmkBZWT6WDDpWowL8JDcN40GLLzgrhQOyDtPM_ic_T3G.png" group-title="ENCODER CLARO",-COMEDY CENTRAL HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqzMoBOO4hOva4tQOFhj0xxoZ_UjKCYCIfU9BLejjB2IC
-#EXTINF:-1 xui-id="165225" tvg-id="" tvg-name="-CONCERT CHANNEL HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/XSTNKyrnWJkO-JmgKUOjUpxuO2mVMf91-XAlTxRLVcHf7_qnlnLZRhWcZ3zKijMxDvREaenJntoYNAz5lFT7AZE2gPOAzDwlNBu8pVYwjEY.jpg" group-title="ENCODER CLARO",-CONCERT CHANNEL HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqzMoBOO4hOva4tQOFhj0xxobVyoVDkz_7PpVDDIQ8hs0
-#EXTINF:-1 xui-id="165226" tvg-id="" tvg-name="-DE PELICULA" tvg-logo="http://xyz.latinotv.com.co:2082/images/Rzl0xwd18EqugPs9zyPcYp6o2-1mCaDtMUHiICc6Hx0FjeVP2nQhxzrrXOzmMRdAeMEx_ZHIFJhmO-snxScksQ.png" group-title="ENCODER CLARO",-DE PELICULA
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqzMoBOO4hOva4tQOFhj0xxqnxgvj9buEp4ifce7IBgDi
-#EXTINF:-1 xui-id="165227" tvg-id="" tvg-name="-DHE HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/Rzl0xwd18EqugPs9zyPcYp6o2-1mCaDtMUHiICc6Hx039Ro_1p1HB2rYSeiNnFpwGOwLk7AcLaUzqKTcY_vzxA.png" group-title="ENCODER CLARO",-DHE HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqzMoBOO4hOva4tQOFhj0xxrWh72ZwHFalonhkndKpFBs
-#EXTINF:-1 xui-id="165228" tvg-id="" tvg-name="-DISCOVERY CHANNEL HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/lq6_H-p7GiNIswYM8PEdyiyoTCshktFmMb8pqS6tXgoCggXjcB9ZUPAwhVCr3ZE6fSF6heLssh19BfWnRrY4__x2pccpOW-L5iA7KJoPRqQ-zCK_haE1tK37bhXAvhOJ.jpg" group-title="ENCODER CLARO",-DISCOVERY CHANNEL HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqzMoBOO4hOva4tQOFhj0xxqPP4bqoAWnPByik7Ggkq3i
-#EXTINF:-1 xui-id="165229" tvg-id="" tvg-name="-DISCOVERY CIVILIZATION" tvg-logo="http://xyz.latinotv.com.co:2082/images/Om6hjLsYDPG-1L_qMe6thnjY_15oqQ-fp577XtzcBqAuAHUxX5R1_9kNQzCOeVGwv1pJH4iElhA99ibssl__yXSJC22VPir0sCH345T1vJU.png" group-title="ENCODER CLARO",-DISCOVERY CIVILIZATION
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqzMoBOO4hOva4tQOFhj0xxr_zbkjjhheJFnMveqLBI-e
-#EXTINF:-1 xui-id="165230" tvg-id="" tvg-name="-DISCOVERY CIVILIZATION- LC-1" tvg-logo="http://xyz.latinotv.com.co:2082/images/Om6hjLsYDPG-1L_qMe6thnjY_15oqQ-fp577XtzcBqAuAHUxX5R1_9kNQzCOeVGwv1pJH4iElhA99ibssl__yXSJC22VPir0sCH345T1vJU.png" group-title="ENCODER CLARO",-DISCOVERY CIVILIZATION- LC-1
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqyYbkXZo7EsWw6Ulrg8DtFOF2TH-HCIIgWcQfIQXkxzx
-#EXTINF:-1 xui-id="165231" tvg-id="" tvg-name="-DISCOVERY HOME HEALTH HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/tYuCR2v0eN95MvLNgEfCQlSB3EwEVOTteTUpHPRnVfLQzok_9UdkhvjUHjpSoy7v06kToWGJnItGQkLTvypnKQ.png" group-title="ENCODER CLARO",-DISCOVERY HOME HEALTH HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqyYbkXZo7EsWw6Ulrg8DtFMMGx9hk2xcdQg-xZMI9r5-
-#EXTINF:-1 xui-id="165232" tvg-id="" tvg-name="-DISCOVERY KIDS HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/2dny-GpLISsoaNSrxeJH8GEW6qYewyf4XQx2kAAdYL6TStb0gP-dEorf5UoC3UaWlqKVfwfliMhhldv1IFG1Tk03_VRFnMAtjEd8HxWtXabQ046qB9wDgZdHRrExmhUs.png" group-title="ENCODER CLARO",-DISCOVERY KIDS HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqyYbkXZo7EsWw6Ulrg8DtFNaLeUbW8Ifp_tTRDqHlwXe
-#EXTINF:-1 xui-id="165233" tvg-id="" tvg-name="-DISCOVERY SCIENCE" tvg-logo="http://xyz.latinotv.com.co:2082/images/Om6hjLsYDPG-1L_qMe6thnjY_15oqQ-fp577XtzcBqAuAHUxX5R1_9kNQzCOeVGwK5zgPsKAxHvtJtwJAhiEng.png" group-title="ENCODER CLARO",-DISCOVERY SCIENCE
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqyYbkXZo7EsWw6Ulrg8DtFNtgx9zcnEki5SoOzS5Up4O
-#EXTINF:-1 xui-id="165234" tvg-id="" tvg-name="-DISCOVERY THEATER HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/Om6hjLsYDPG-1L_qMe6thnjY_15oqQ-fp577XtzcBqDmhBSHwThOiCryWUHuL720RBI3_tNB88pElNTTC3VmmPM2vm7uScDQtwrSIjyKg4c.png" group-title="ENCODER CLARO",-DISCOVERY THEATER HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqyYbkXZo7EsWw6Ulrg8DtFMUBNhl4YF7_ABKjbGbdbpg
-#EXTINF:-1 xui-id="165235" tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="http://xyz.latinotv.com.co:2082/images/xlx8lmg-akOnGNPdxG11Ulww7tiXfw-Qq2y6H91hqZpQP8Vtc0JIdFQuU1J8Za_yg-J-sbJMfL18xci43iwoqCrMcOue6wY-PaPvJlL4iXM.png" group-title="ENCODER CLARO",DISCOVERY TURBO
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqyYbkXZo7EsWw6Ulrg8DtFN0NiZgNtndNQCgWM9wieBb
-#EXTINF:-1 xui-id="165236" tvg-id="" tvg-name="-DISCOVERY WORLD HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/mg9e4VnU5MiobcDarwnBsSqdbbGV-h9kvK8z9VtSzJw.png" group-title="ENCODER CLARO",-DISCOVERY WORLD HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqyYbkXZo7EsWw6Ulrg8DtFMZ4Rni8a6nX0eWE0mvXBY_
-#EXTINF:-1 xui-id="165237" tvg-id="" tvg-name="-DISNEY HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/Rzl0xwd18EqugPs9zyPcYp6o2-1mCaDtMUHiICc6Hx0LRmSCMKHuepSPqCLknV3FIPbBApq8gv29y2DvZ-5_rw.png" group-title="ENCODER CLARO",-DISNEY HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqyYbkXZo7EsWw6Ulrg8DtFOs_8HQPS3wD-YF1l3NCOwT
-#EXTINF:-1 xui-id="165238" tvg-id="" tvg-name="-DISNEY JR" tvg-logo="http://xyz.latinotv.com.co:2082/images/mg9e4VnU5MiobcDarwnBscuCh0FFlhx3yLRt2qf6Ok8.png" group-title="ENCODER CLARO",-DISNEY JR
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqyYbkXZo7EsWw6Ulrg8DtFPfibd1z6loaWKLTltqNQC-
-#EXTINF:-1 xui-id="165239" tvg-id="" tvg-name="-DW" tvg-logo="http://xyz.latinotv.com.co:2082/images/pUHDjlFDNzpYrovC35TR8JUYp8S35rPecb8UGajjBy8-oz9OmlIRMi8bDfHIVuFk.png" group-title="ENCODER CLARO",-DW
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqyYbkXZo7EsWw6Ulrg8DtFNb3vL5S7xUsnCPfN03Lazk
-#EXTINF:-1 xui-id="165257" tvg-id="" tvg-name="-GOLDEN HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/wa0mvnaHp95dlQYAfUtGao4vSs6oFJj-zltela8sCextWpF__R1uryHuZ81Sx19xzG4OqgM57gfo9cBCIODClQv-zQ7N4p5z41FmoX1b56o.png" group-title="ENCODER CLARO",-GOLDEN HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq84W9X72QpMf8dav-IB9ROaMHvZMx1oUydEONex5aAg3
-#EXTINF:-1 xui-id="165258" tvg-id="" tvg-name="-GOLDEN PLUS" tvg-logo="http://xyz.latinotv.com.co:2082/images/xlx8lmg-akOnGNPdxG11Ulww7tiXfw-Qq2y6H91hqZpQP8Vtc0JIdFQuU1J8Za_y8ijfVzy923o7gbmtYgRZag.png" group-title="ENCODER CLARO",-GOLDEN PLUS
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq84W9X72QpMf8dav-IB9ROa9rPPo797jLPT8XlnzbQwg
-#EXTINF:-1 xui-id="165259" tvg-id="" tvg-name="-GOLDEN PREMIER HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/wa0mvnaHp95dlQYAfUtGao4vSs6oFJj-zltela8sCextWpF__R1uryHuZ81Sx19xzG4OqgM57gfo9cBCIODClQv-zQ7N4p5z41FmoX1b56o.png" group-title="ENCODER CLARO",-GOLDEN PREMIER HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq84W9X72QpMf8dav-IB9ROYBZ8DcIDtu9dcudJEc_SPC
-#EXTINF:-1 xui-id="165261" tvg-id="" tvg-name="-GOURMET HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/uO0HTwVaPVayjnkPbvS5SHit4Can11sUdGj64zQm2inprVU6iniLg9-ni5L_IwAR8zvOdbmbra57Up6x5mZEXWmMghKzW9UaBcOp6bvcwZuAlKGbIKo-ASJpciWbyr6fa2FipncrBkVT5oOMYW2FHebZdhr6GQuLq6o-uYzKorY.jpg" group-title="ENCODER CLARO",-GOURMET HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq3J6huwk3rr9Gof1U2K4iH-zwVjIViocV06KzNfK0Xe-
-#EXTINF:-1 xui-id="165262" tvg-id="" tvg-name="H2" tvg-logo="http://xyz.latinotv.com.co:2082/images/puYO2WAyl-KqpGJQtr_VWB0dBSJ-nMHnuFaClH6a5WiTT2rErtFTRzzREz2pxmcoKs5FNIFwFH6nBgHa3xH7Ng.png" group-title="ENCODER CLARO",H2
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq3J6huwk3rr9Gof1U2K4iH85WZTZNf4p5sVHc7HP_1tP
-#EXTINF:-1 xui-id="165263" tvg-id="" tvg-name="HBO (W)" tvg-logo="http://xyz.latinotv.com.co:2082/images/puYO2WAyl-KqpGJQtr_VWB0dBSJ-nMHnuFaClH6a5WiWEUpo1AAJn2fdKTTKW24GM33SZnRkkYlxG3lWISp7cQ.png" group-title="ENCODER CLARO",HBO (W)
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq3J6huwk3rr9Gof1U2K4iH8SDfYvU0ebAg5QYw4EdDS2
-#EXTINF:-1 xui-id="165264" tvg-id="" tvg-name="HBO 2 HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/puYO2WAyl-KqpGJQtr_VWB0dBSJ-nMHnuFaClH6a5WjXg0zErjq6hF59Tyi7x11jNnriYDJkX3jfBWmX71-eyg.png" group-title="ENCODER CLARO",HBO 2 HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq3J6huwk3rr9Gof1U2K4iH-5f6AEdJEiFTwW_U8yxoBW
-#EXTINF:-1 xui-id="165265" tvg-id="" tvg-name="-HBO FAMILY HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/puYO2WAyl-KqpGJQtr_VWB0dBSJ-nMHnuFaClH6a5WifWJyZRoVm2K3IOd8tL5neJ-hr9rJ9mKZ1EJLFd3Kkzw.png" group-title="ENCODER CLARO",-HBO FAMILY HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq3J6huwk3rr9Gof1U2K4iH-ds6Dy6dIWbwMhZ05flI5P
-#EXTINF:-1 xui-id="165266" tvg-id="" tvg-name="HBO PLUS HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/puYO2WAyl-KqpGJQtr_VWB0dBSJ-nMHnuFaClH6a5WiHHbuPLsdrNmJFrker8sFdk3PwM_C3BMas2gG_Ln4sTA.png" group-title="ENCODER CLARO",HBO PLUS HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq3J6huwk3rr9Gof1U2K4iH8yxNAVPIDS6DSCNYEh2LYT
-#EXTINF:-1 xui-id="165267" tvg-id="" tvg-name="HBO SIGNATURE HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/puYO2WAyl-KqpGJQtr_VWB0dBSJ-nMHnuFaClH6a5Wj7k9r_Xmz3gvm-JqOYStB5Pnildc4VSMsvUrsDxhI0Eg.png" group-title="ENCODER CLARO",HBO SIGNATURE HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq3J6huwk3rr9Gof1U2K4iH8R_u60GPc3Db3nN_F0LHrM
-#EXTINF:-1 xui-id="165269" tvg-id="" tvg-name="HISTORY CHANNEL HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/puYO2WAyl-KqpGJQtr_VWB0dBSJ-nMHnuFaClH6a5Wj15AJfZAJm1ww38_xz9fNw5dyPig-oaDKNvj6i7fci3w.png" group-title="ENCODER CLARO",HISTORY CHANNEL HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq3J6huwk3rr9Gof1U2K4iH83gj1Fh60az6AA-wMKZtJa
-#EXTINF:-1 xui-id="165271" tvg-id="" tvg-name="HTV" tvg-logo="http://xyz.latinotv.com.co:2082/images/XSTNKyrnWJkO-JmgKUOjUpxuO2mVMf91-XAlTxRLVcHXx4I3NL3TjJ_qpLEPXIUE2J5Zwg3mW5cpigfU75yFBuKq_ak0yyJYZn5secx7S_0.jpg" group-title="ENCODER CLARO",HTV
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq-KysLzFaoXb_81QALOpij0UQzuTk9l-umfUrXkjm8Yi
-#EXTINF:-1 xui-id="165272" tvg-id="" tvg-name="INVESTIGATION DISCOVERY HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/Om6hjLsYDPG-1L_qMe6thnjY_15oqQ-fp577XtzcBqDmhBSHwThOiCryWUHuL720bHSeajIdjjCGttNWcYfxoQ.png" group-title="ENCODER CLARO",INVESTIGATION DISCOVERY HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq-KysLzFaoXb_81QALOpij3MOMdYd34-bWiEku1vih06
-#EXTINF:-1 xui-id="165273" tvg-id="" tvg-name="ISAT" tvg-logo="http://xyz.latinotv.com.co:2082/images/HXwIiV15ywtjP97xShFodVq-ms098cka_SFhUplJxIfIsRt4rwH0DnsH0NN8GVXrteI4kBROmoTBNNbDzuqYFiuStZIKCW2EDXuF-BWkMF7_JJ9Qi97LxIxP-7qg_1Mon2xViSOkRnv4O4w5D2K76A1Nuc0YC4LLY1QM7MvZ03w.jpg" group-title="ENCODER CLARO",ISAT
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq-KysLzFaoXb_81QALOpij230_s6Y70NfbczRDyE-Yrk
-#EXTINF:-1 xui-id="165274" tvg-id="" tvg-name="LIFETIME" tvg-logo="http://xyz.latinotv.com.co:2082/images/Om6hjLsYDPG-1L_qMe6thnjY_15oqQ-fp577XtzcBqChEGvm-hZsJnDWH-aP8nCSQWNM7Munncf7A5MM4tiN2g.png" group-title="ENCODER CLARO",LIFETIME
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq-KysLzFaoXb_81QALOpij0CCmUDaqekCQEqD4AdKSeJ
-#EXTINF:-1 xui-id="165276" tvg-id="" tvg-name="HBO POP" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL68US3RejtgOaLblT0yKF83QxcwHb_JlA4Zrv3vcXfYzIOa6psp_VPyAdyL-ryDeLM.jpg" group-title="ENCODER CLARO",HBO POP
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq-KysLzFaoXb_81QALOpij3Cq-CceecUo7tYge9TEnxU
-#EXTINF:-1 xui-id="165277" tvg-id="" tvg-name="-MTV HITS" tvg-logo="http://xyz.latinotv.com.co:2082/images/puYO2WAyl-KqpGJQtr_VWB0dBSJ-nMHnuFaClH6a5WivVJcZc4MqTLirt0WlFEUWpvdUxNTzvUZKjKMZ_Z5dtQ.png" group-title="ENCODER CLARO",-MTV HITS
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq-KysLzFaoXb_81QALOpij3DhBtICP6cP73uFHC5Uw0c
-#EXTINF:-1 xui-id="165278" tvg-id="" tvg-name="-MTV LIVE HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/Rzl0xwd18EqugPs9zyPcYp6o2-1mCaDtMUHiICc6Hx1idYVh5OD99Tnc1InwNgEuBNbJe0S9CmATIiUiD2QoUA.png" group-title="ENCODER CLARO",-MTV LIVE HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq-KysLzFaoXb_81QALOpij25_Litr36ZQULSIo38vce4
-#EXTINF:-1 xui-id="165279" tvg-id="" tvg-name="-MULTIPREMIER" tvg-logo="http://xyz.latinotv.com.co:2082/images/Rzl0xwd18EqugPs9zyPcYp6o2-1mCaDtMUHiICc6Hx3ZLVYiqwLDfEBhdEuuqmIcKzMH28nhQxDVQ_Y3otfSyg.png" group-title="ENCODER CLARO",-MULTIPREMIER
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq-KysLzFaoXb_81QALOpij0g-SlPPTfP58Fy0JbdDRoG
-#EXTINF:-1 xui-id="165280" tvg-id="" tvg-name="-NATGEO" tvg-logo="http://xyz.latinotv.com.co:2082/images/wuckMg1Vt2dHLxbqpsT1XyJ650Lkj4KGVA20Ug1axUk0iwgkS6hTAAzoMd9bL1vY.png" group-title="ENCODER CLARO",-NATGEO
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq0jNtwPjDOoH-UV3USH85ljxYopO2Y3oBMqFd_yvYk1g
-#EXTINF:-1 xui-id="165281" tvg-id="" tvg-name="-LA | NICK 2 SD | Infantil" tvg-logo="http://xyz.latinotv.com.co:2082/images/Om6hjLsYDPG-1L_qMe6thnjY_15oqQ-fp577XtzcBqDyBqa6nUGug876FKqNLKR2e73QlSTWcCVPWaMOaWtIqg.png" group-title="ENCODER CLARO",-LA | NICK 2 SD | Infantil
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq0jNtwPjDOoH-UV3USH85lhKx_0oLEFBXTMrdQUPW-qs
-#EXTINF:-1 xui-id="165282" tvg-id="" tvg-name="-NICK JR HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/puYO2WAyl-KqpGJQtr_VWB0dBSJ-nMHnuFaClH6a5Wjyf0NH06zZI9z1JyyhwsLlfzm31bBr5i5FWfv4eH1nPQ.png" group-title="ENCODER CLARO",-NICK JR HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq0jNtwPjDOoH-UV3USH85lgSAasigU-kHOZT8e9-ysgA
-#EXTINF:-1 xui-id="165283" tvg-id="" tvg-name="-NICKELODEON HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/puYO2WAyl-KqpGJQtr_VWB0dBSJ-nMHnuFaClH6a5Wjyf0NH06zZI9z1JyyhwsLltZio9mY5bDJquccYcOxcGw.png" group-title="ENCODER CLARO",-NICKELODEON HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq0jNtwPjDOoH-UV3USH85lhrqwTYI3IACmrcvbADRnpm
-#EXTINF:-1 xui-id="165255" tvg-id="" tvg-name="-FXM" tvg-logo="http://xyz.latinotv.com.co:2082/images/puYO2WAyl-KqpGJQtr_VWB0dBSJ-nMHnuFaClH6a5WgcqYM8PLH9oxEP8gNyystDR2miF8vvTCuDfO5eZkaOcQ.png" group-title="ENCODER CLARO",-FXM
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq84W9X72QpMf8dav-IB9RObdp4bJdP-1Gexqzt9biH5A
-#EXTINF:-1 xui-id="165287" tvg-id="" tvg-name="-SPACE HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/TBStCk7pt4tPO0Ua6f35m-TPpvdAczcKIpKS4SIlBdWbi0tN3rdZFogSDbX1ekiOMuikeJuMWXXS3_OvafJjGAXbu86DIYxqRs0culp2shM.png" group-title="ENCODER CLARO",-SPACE HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq0jNtwPjDOoH-UV3USH85ljRBbfcVCefYhnlRBBgZj-p
-#EXTINF:-1 xui-id="165288" tvg-id="" tvg-name="-STUDIO UNIVERSAL" tvg-logo="http://xyz.latinotv.com.co:2082/images/puYO2WAyl-KqpGJQtr_VWB0dBSJ-nMHnuFaClH6a5Wj4wsTaRjUCapLdaH43BK67Uw3X7x0_C1n3vrvNvYrglA.png" group-title="ENCODER CLARO",-STUDIO UNIVERSAL
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq0jNtwPjDOoH-UV3USH85ljWTBCQenlhipu0bT2crnV7
-#EXTINF:-1 xui-id="165289" tvg-id="" tvg-name="-TBS" tvg-logo="http://xyz.latinotv.com.co:2082/images/knjGtZWv0qQnoF4EGhzJEhKlZ-CbWALJ4LG-CA-o5Dw.png" group-title="ENCODER CLARO",-TBS
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq0jNtwPjDOoH-UV3USH85lhlHXJF0olLkaXaaOiH5O4Q
-#EXTINF:-1 xui-id="165290" tvg-id="" tvg-name="-TCM" tvg-logo="http://xyz.latinotv.com.co:2082/images/Om6hjLsYDPG-1L_qMe6thnjY_15oqQ-fp577XtzcBqDbZFQUkkU1K06BNl7u0pUmK8xas__vL6sOowYbMzpg8w.png" group-title="ENCODER CLARO",-TCM
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq-px9r7ruTbIWPik8JiRywBo6dgY1IiFLpL-lS3aoiGl
-#EXTINF:-1 xui-id="165296" tvg-id="" tvg-name="-THE FILM ZONE HD" tvg-logo="" group-title="ENCODER CLARO",-THE FILM ZONE HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq-px9r7ruTbIWPik8JiRywB0ao6kHONqDkv6TSmAPzcn
-#EXTINF:-1 xui-id="165297" tvg-id="" tvg-name="-TLC" tvg-logo="http://xyz.latinotv.com.co:2082/images/Vp4Ts20Nj-2KOZSzg8rAyfSCS_T4ISnQ3KSToo8d-nvDwLhHoN3gT1TQ5wjnjbNPgZiABpmXE-DYtL74_VRSaedPmwdPN8_XqFCmkPqa9ak.jpg" group-title="ENCODER CLARO",-TLC
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq-px9r7ruTbIWPik8JiRywAzeDh_yXQMRYLU_iq46Z9w
-#EXTINF:-1 xui-id="165298" tvg-id="" tvg-name="-TNT SERIES HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/puYO2WAyl-KqpGJQtr_VWB0dBSJ-nMHnuFaClH6a5Wj1lwvDmpPatfiIzjoHliARAPX4opHzt20MbjQwZpJNhw.png" group-title="ENCODER CLARO",-TNT SERIES HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq-px9r7ruTbIWPik8JiRywC-WyMIo6r5LsVWk55iRgyK
-#EXTINF:-1 xui-id="165299" tvg-id="" tvg-name="-TOONCAST" tvg-logo="http://xyz.latinotv.com.co:2082/images/puYO2WAyl-KqpGJQtr_VWB0dBSJ-nMHnuFaClH6a5Whuta3R7kqzr-ttk6FgVYsHCXStOEt1A6rxGkcuGtjEGw.png" group-title="ENCODER CLARO",-TOONCAST
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq-px9r7ruTbIWPik8JiRywBxXDx0NwiHHQOjrvU87BDr
-#EXTINF:-1 xui-id="165300" tvg-id="" tvg-name="-TRUTV HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/puYO2WAyl-KqpGJQtr_VWB0dBSJ-nMHnuFaClH6a5WgT-GeHNAbwFrNpXqElFr-vtxjlYf5Xy-wNueztiO0ZFA.png" group-title="ENCODER CLARO",-TRUTV HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq8Ej_FWJeqpocbyox9BV6HfLFGsF-H5_Zx7zV635QCD3
-#EXTINF:-1 xui-id="165302" tvg-id="" tvg-name="-UNIVERSAL CHANNEL" tvg-logo="http://xyz.latinotv.com.co:2082/images/puYO2WAyl-KqpGJQtr_VWB0dBSJ-nMHnuFaClH6a5WixBJh7YO4S3pT1yPwXhBkEDecYtIq-cOYE6HxpZGUhu4wTwPNj9_TtWNBo1CWy_YM.png" group-title="ENCODER CLARO",-UNIVERSAL CHANNEL
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq8Ej_FWJeqpocbyox9BV6HdsWATfQzy1PF7xRDYBmEwL
-#EXTINF:-1 xui-id="165303" tvg-id="" tvg-name="-VH1" tvg-logo="http://xyz.latinotv.com.co:2082/images/puYO2WAyl-KqpGJQtr_VWB0dBSJ-nMHnuFaClH6a5Wi90Cd_1SQzkZ4MQF-CnmfggvUZbp4sISM2FDaWI2d2Zw.png" group-title="ENCODER CLARO",-VH1
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq8Ej_FWJeqpocbyox9BV6HdmXmoWYwaaFAakFV8oKDTR
-#EXTINF:-1 xui-id="165304" tvg-id="" tvg-name="-VH1 CLASSIC" tvg-logo="http://xyz.latinotv.com.co:2082/images/puYO2WAyl-KqpGJQtr_VWB0dBSJ-nMHnuFaClH6a5Wi90Cd_1SQzkZ4MQF-CnmfggvUZbp4sISM2FDaWI2d2Zw.png" group-title="ENCODER CLARO",-VH1 CLASSIC
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq8Ej_FWJeqpocbyox9BV6Hc1FgSRLJ6xnnLKLOHHXjYJ
-#EXTINF:-1 xui-id="165305" tvg-id="" tvg-name="-WARNER HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/puYO2WAyl-KqpGJQtr_VWB0dBSJ-nMHnuFaClH6a5WgT0G-5PYmbvNc7ekh4gpthluDHFaof_-2c1wXkEDIC1g.png" group-title="ENCODER CLARO",-WARNER HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq8Ej_FWJeqpocbyox9BV6HdLgb6CXEoJ-j1t39CXu4rS
-
-
-#EXTINF:-1 xui-id="110295" tvg-id="" tvg-name="LOS SIMPSON HD" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/997847FBFAB3F30229320FE49857EF03C4B4D9B3B12424430466A705421A6ACF/scale?width=1200&aspectRatio=1.78&format=jpeg" group-title="?ENTRETENIMIENTO?",LOS SIMPSON HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqzk_-rKzfgqkj5VSa3mMD3wWneWyrdJgotq-RFhaw2ff
-
-#EXTINF:-1 xui-id="110295" tvg-id="" tvg-name="LOS SIMPSON HD" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/997847FBFAB3F30229320FE49857EF03C4B4D9B3B12424430466A705421A6ACF/scale?width=1200&aspectRatio=1.78&format=jpeg" group-title="?24/7?",LOS SIMPSON HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqzk_-rKzfgqkj5VSa3mMD3wWneWyrdJgotq-RFhaw2ff
-#EXTINF:-1 xui-id="109892" tvg-id="" tvg-name="Futurama 24/7" tvg-logo="http://xyz.latinotv.com.co:2082/images/HheysxGAvgaNAJBYw05ksXRcSiUQq0xYXZTrDCWhm6zPkzIqIG-D4KijS5lXrotQVWtz88zkQs1IJn2ZX2gpvZaNrlbdByxSaMHMPGVIT4SCDobtjdRZN92Eg7kVu9sS-MWxE1m8Z9O-ru9EQ9OrEn-nXccBfIg5GuGrg69VIe7-C_OEqr6OBm2r2CWa_exXLRikUijWU6qwmsKkaYjqzw.png" group-title="?ENTRETENIMIENTO?",Futurama 24/7
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqx_rjcaGGhjmFd8wO5J1UhYYmbEwpOW7jJkDRzoEyEEU
-#EXTINF:-1 xui-id="109892" tvg-id="" tvg-name="Futurama 24/7" tvg-logo="http://xyz.latinotv.com.co:2082/images/HheysxGAvgaNAJBYw05ksXRcSiUQq0xYXZTrDCWhm6zPkzIqIG-D4KijS5lXrotQVWtz88zkQs1IJn2ZX2gpvZaNrlbdByxSaMHMPGVIT4SCDobtjdRZN92Eg7kVu9sS-MWxE1m8Z9O-ru9EQ9OrEn-nXccBfIg5GuGrg69VIe7-C_OEqr6OBm2r2CWa_exXLRikUijWU6qwmsKkaYjqzw.png" group-title="?24/7?",Futurama 24/7
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqx_rjcaGGhjmFd8wO5J1UhYYmbEwpOW7jJkDRzoEyEEU
-#EXTINF:-1 xui-id="142248" tvg-id="" tvg-name="El Chapul铆n Colorado 24/7" tvg-logo="http://xyz.latinotv.com.co:2082/images/HheysxGAvgaNAJBYw05ksXRcSiUQq0xYXZTrDCWhm6zPkzIqIG-D4KijS5lXrotQVWtz88zkQs1IJn2ZX2gpvZaNrlbdByxSaMHMPGVIT4RRA3BzKjxKVdFTKVGs_7TLpRMqN8FtGiuOqyiLmzNUrA3JhVEtw9lppJdrWev6kfKE2frlSGpaaj28vQqUaofSeS-uUgEuKI3dnI9zbFd_-Q.png" group-title="?ENTRETENIMIENTO?",El Chapul铆n Colorado 24/7
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqyxqz9q0iUYOezzzvQB5lyEVH3DJZonh75jaB-qQy_Bh
-#EXTINF:-1 xui-id="142248" tvg-id="" tvg-name="El Chapul铆n Colorado 24/7" tvg-logo="http://xyz.latinotv.com.co:2082/images/HheysxGAvgaNAJBYw05ksXRcSiUQq0xYXZTrDCWhm6zPkzIqIG-D4KijS5lXrotQVWtz88zkQs1IJn2ZX2gpvZaNrlbdByxSaMHMPGVIT4RRA3BzKjxKVdFTKVGs_7TLpRMqN8FtGiuOqyiLmzNUrA3JhVEtw9lppJdrWev6kfKE2frlSGpaaj28vQqUaofSeS-uUgEuKI3dnI9zbFd_-Q.png" group-title="?24/7?",El Chapul铆n Colorado 24/7
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqyxqz9q0iUYOezzzvQB5lyEVH3DJZonh75jaB-qQy_Bh
-
-
-
-#EXTINF:-1 xui-id="419" tvg-id="DT2SPT" tvg-name="DIRECTV SPORTS" tvg-logo="http://xyz.latinotv.com.co:2082/images/IOGuGPrJ9OLC_5HmzHKbkc6w24daYV4M5pXwWt-qmEmEBRp-gJWcfLFVmuRdehCP.png" group-title="??DEPORTES??",DIRECTV SPORTS
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqwQsA_bav95GNd_er5IE-A8
-#EXTINF:-1 xui-id="420" tvg-id="SPO218" tvg-name="DIRECTV SPORTS 2" tvg-logo="http://xyz.latinotv.com.co:2082/images/IOGuGPrJ9OLC_5HmzHKbkc6w24daYV4M5pXwWt-qmEmEBRp-gJWcfLFVmuRdehCP.png" group-title="??DEPORTES??",DIRECTV SPORTS 2
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqxA7MT4r0ND8g5m2Ga9m1Cs
-#EXTINF:-1 xui-id="421" tvg-id="DT2SPT" tvg-name="DIRECTV SPORTS+" tvg-logo="http://xyz.latinotv.com.co:2082/images/IOGuGPrJ9OLC_5HmzHKbkc6w24daYV4M5pXwWt-qmEmEBRp-gJWcfLFVmuRdehCP.png" group-title="??DEPORTES??",DIRECTV SPORTS+
-#EXTINF:-1 xui-id="409" tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4qqNy6ACbHzbQqNjtiJs61HDUTjT-eiEaKcOpISIjlu77OTq_Ka81ZqhUv9p0mRjk.jpg" group-title="??DEPORTES??",ESPN
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqwd0swz8P3ULkwJB73x8v9c
-#EXTINF:-1 xui-id="410" tvg-id="ESPN" tvg-name="ESPN HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4qqNy6ACbHzbQqNjtiJs61HDUTjT-eiEaKcOpISIjlu77OTq_Ka81ZqhUv9p0mRjk.jpg" group-title="??DEPORTES??",ESPN HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq5WOytHtoWcVBnmkj3b0e4E
-#EXTINF:-1 xui-id="411" tvg-id="ESPNMBR" tvg-name="ESPN 2" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5luPm_e6xXXpy-Gder53Z_kp7ZZ2rKApwUEHC2vu6Jg6P4WXIaiq52F1ZXxoMOr7A.jpg" group-title="??DEPORTES??",ESPN 2
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq8PR1XVF00NGDSHiDYYz60o
-#EXTINF:-1 xui-id="412" tvg-id="ESPNMBR" tvg-name="ESPN 2 HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5luPm_e6xXXpy-Gder53Z_kp7ZZ2rKApwUEHC2vu6Jg6P4WXIaiq52F1ZXxoMOr7A.jpg" group-title="??DEPORTES??",ESPN 2 HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq4ozEyWveWba3U16upWHKoY
-#EXTINF:-1 xui-id="413" tvg-id="ESPN3D" tvg-name="ESPN 3" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/0f65d0abe134625c755ed2a9200295ef.jpg" group-title="??DEPORTES??",ESPN 3
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqwGiS8y06Wb0K-b0TBO48y0
-#EXTINF:-1 xui-id="414" tvg-id="ESPN3D" tvg-name="ESPN 3 HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6jhp2QMOoD9mShPGzb4HnPq_6zUd2awKHMg7DwJE5Y_4spNV5M495-tzhrDVK5rh8.jpg" group-title="??DEPORTES??",ESPN 3 HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq5Eio33nbXAvEKf6cPb-cVc
-#EXTINF:-1 xui-id="408" tvg-id="ESPN" tvg-name="ESPN PREMIUM" tvg-logo="http://xyz.latinotv.com.co:2082/images/H1vcXR92qu9j9f5La04S8af_zUTMoZqw-Vwb-Zx9amBfXTLzDzFLByw3SSt2Jnu_98bqmIs0TNpwQVdOuGU0SRS5BvhOEdrgJegPG8z5TG8.jpg" group-title="??DEPORTES??",ESPN PREMIUM
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqwo1A6sw-c20V8dBsCSJTl0
-#EXTINF:-1 xui-id="88308" tvg-id="" tvg-name="ESPN 4 HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/zKfiZc2EbAJTgBT8Q9G5p-ormWcxxYlH0z1oByaXo7QfDQN64OTcSGybSrNEtsKpy0bIMaIL0nYqY7D7XKdzEt47YzhWtTUAlX-CoXK90bA.png" group-title="??DEPORTES??",ESPN 4 HD
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq5CVqC0n0hpL-BNAhKFmqxdropdQ3ml1ueyV3-y0Bb5c
-#EXTINF:-1 xui-id="415" tvg-id="ESPNMLA" tvg-name="ESPN EXTRA" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5azruqcXvHLW_aslg5e8TL_VNqA2YxH5Ea8ljteyv2wrXhYgcSoT7PPF2ya4zf_lA.jpg" group-title="??DEPORTES??",ESPN EXTRA
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq3gPu-0-5Aonvgn7hfP-v98
-#EXTINF:-1 xui-id="405" tvg-id="FSCHIH" tvg-name="FOX SPORTS" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6CIzcwjBlaPC7ELQfSKaD28rbESCtWWscaUGmk_Oq9PpfUYDeQf5422MqJBKZOAIk.jpg" group-title="??DEPORTES??",FOX SPORTS
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqz8DyggFAB1xAOkrbiKSLeM
-#EXTINF:-1 xui-id="406" tvg-id="FS2" tvg-name="FOX SPORTS 2" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL42ebM6HNBRPHDLi-IN544CJ8f2SR6Lb9GxHvPX8ULQhvbfqSOL1D9MnHrbKz0TBB0.jpg" group-title="??DEPORTES??",FOX SPORTS 2
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq4Uby3mB3SZMwQ-4OqjXNBc
-#EXTINF:-1 xui-id="407" tvg-id="FXSP3NL" tvg-name="FOX SPORTS 3" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6QBVJREbnp08IAajCzhh8gs40vRzG-jgpy6k6jiRY_OW7ewtfUPhShF9v7trRAVN4.jpg" group-title="??DEPORTES??",FOX SPORTS 3
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptqyL_OLbOnnL5Xu75MFKOkKc
-#EXTINF:-1 xui-id="17903" tvg-id="CLARSPO" tvg-name="CLARO SPORTS 1" tvg-logo="http://xyz.latinotv.com.co:2082/images/zKfiZc2EbAJTgBT8Q9G5p-ormWcxxYlH0z1oByaXo7QfDQN64OTcSGybSrNEtsKpQ3JWO_xdm64LxCm14uouqmmxkLF3TJJy3cYQc_hAxhs.png" group-title="??DEPORTES??",CLARO SPORTS 1
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq6OaTsW4Mx0A2tKnZGAlHsHCibNsiBLGMYpMWNluCrfU
-#EXTINF:-1 xui-id="425" tvg-id="" tvg-name="Afizzionados" tvg-logo="http://xyz.latinotv.com.co:2082/images/zKfiZc2EbAJTgBT8Q9G5p-ormWcxxYlH0z1oByaXo7QfDQN64OTcSGybSrNEtsKpfn04bcFOdDBVsINf05YzzADhrNZl3-q3XMQD3ukuCxE.png" group-title="??DEPORTES??",Afizzionados
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq_KczF-6C4usXh-cZRKnAJA
-#EXTINF:-1 xui-id="422" tvg-id="TNTSPOR" tvg-name="TNT SPORTS" tvg-logo="https://drive.google.com/uc?id=1t8e_b6d6shfS4WuhanZAPx7_pA99UtcY" group-title="??DEPORTES??",TNT SPORTS
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq-kIxt9qdNB-eIFGdCn75Hk
-#EXTINF:-1 xui-id="175" tvg-id="TYC" tvg-name="TYC SPORTS" tvg-logo="https://drive.google.com/uc?id=1t8e_b6d6shfS4WuhanZAPx7_pA99UtcY" group-title="??DEPORTES??",TYC SPORTS
-http://xyz.latinotv.com.co:2082/play/r2Sem4Li90NAGSjrYAptq2J6ClDR9b344kXuqGoCZjU
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 xui-id="206133" tvg-id="" tvg-name="Los Simpson 24/7" tvg-logo="https://th.bing.com/th/id/OIP.zMM2duxV4uekkR9ziKf6RQHaEV?pid=ImgDet&rs=1" group-title="⭐ENTRETENIMIENTO⭐",Los Simpson 24/7
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOokIaHKBoUHzxZ7qPRcTp8-5OBqs2lX3LKKhLr0doh8ww
+#EXTINF:-1 xui-id="205585" tvg-id="" tvg-name="Futurama 24/7" tvg-logo="https://th.bing.com/th/id/R.b126c0b1d176d1f5b3ffcceb870a35b8?rik=tCYe2lCXrTDL8g&pid=ImgRaw&r=0" group-title="⭐ENTRETENIMIENTO⭐",Futurama 24/7
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOovn4begmydBncRn0LDeOEALFH-nF24vpRUyd1R00Nkxs
+#EXTINF:-1 xui-id="207464" tvg-id="" tvg-name="El Chavo del Ocho 24/7" tvg-logo="https://th.bing.com/th/id/OIP.CC-ANp5-XvOBOxPwmk35OwHaDa?pid=ImgDet&rs=1" group-title="⭐ENTRETENIMIENTO⭐",El Chavo del Ocho 24/7
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoiihdxerH5kDC0bRxaYdqTaJZdulPR288UQ0W_l2LhQ2
+#EXTINF:-1 xui-id="157816" tvg-id="" tvg-name="M.M.M PORVENIR HD" tvg-logo="http://www.latinotv.com.co/logos/LOGO%20IGLESIA.gif" group-title="⭐COLOMBIA⭐",M.M.M PORVENIR HD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOogkpVcaRfZTn6kQ95tJjvDUgPIZDTAjNMtXwXp2T4Ax4
+#EXTINF:-1 xui-id="89938" tvg-id="CARAHD" tvg-name="CARACOL TV" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4vA03qUTQ75zC6341i4RtGyzsO35WBGcUxbyu11VZhfYjQKuMGyK4c19eN-7FKhNY.jpg" group-title="⭐COLOMBIA⭐",CARACOL TV
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOomyLVLmsrcVOcO2j_ZN3bcKmAA3a8ManJHWlwFdkO-n_
+#EXTINF:-1 xui-id="260" tvg-id="CARA" tvg-name="CARACOL HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4vA03qUTQ75zC6341i4RtGyzsO35WBGcUxbyu11VZhfYjQKuMGyK4c19eN-7FKhNY.jpg" group-title="⭐COLOMBIA⭐",CARACOL HD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOonwCB3Kut5q_flwNhs23IuI
+#EXTINF:-1 xui-id="262" tvg-id="CARAIHD" tvg-name="CARACOL INTERNACIONAL" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5QDa-WmGQNRhz-e4zEaN5oAIS1-7yPlEKG5JLsIFxShv2qXY8ezv4Elq1n4ZxC804.jpg" group-title="⭐COLOMBIA⭐",CARACOL INTERNACIONAL
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOooZYKxuFpyyIBR8CoNJ8WkA
+#EXTINF:-1 xui-id="3830" tvg-id="RCN4" tvg-name="RCN SD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5FF41dz9ExAGOs3PqtSs2yD5Cbwsr3kfRNhJ0HIA7KdWDTqS4Z7wipH-dfb5uEMC8.jpg" group-title="⭐COLOMBIA⭐",RCN SD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOouh7NN4lhCmD4lqMxjmda0U
+#EXTINF:-1 xui-id="264" tvg-id="RCN4" tvg-name="RCN HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5FF41dz9ExAGOs3PqtSs2yD5Cbwsr3kfRNhJ0HIA7KdWDTqS4Z7wipH-dfb5uEMC8.jpg" group-title="⭐COLOMBIA⭐",RCN HD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOovaOBNND0xuOoHG1MeLKSTs
+#EXTINF:-1 xui-id="265" tvg-id="RCNTEL" tvg-name="RCN Novelas" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6cVF8mbBvBroLS613DgJOyTOmYo7IqQsUUQlI4KwaCrTHMji8BN58QSi5sSMaCn3I.jpg" group-title="⭐COLOMBIA⭐",RCN Novelas
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoqYa12aYXQpr9DGQ4d-rjn0
+#EXTINF:-1 xui-id="20789" tvg-id="RCN4" tvg-name="RCN+ HD" tvg-logo="https://www.kienyke.com/sites/default/files/styles/interna_destacada_s/public/2020-10/RCN.jpg?itok=53Ht6Wa4" group-title="⭐COLOMBIA⭐",RCN+ HD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoq54-hjiSCP0KousZtexJbwuZCzbMydVWF8vqAvDkiYv
+#EXTINF:-1 xui-id="266" tvg-id="CAN1CAB" tvg-name="CANAL UNO" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7f4F6ODFdi6gWkVtKkzeh9jIUNQ2xvEEO7bOzFf7HPi2ONG1I014DvqJ7mN2maigU.jpg" group-title="⭐COLOMBIA⭐",CANAL UNO
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOotlSFKx7ZEoO0m9MFgKSwX0
+#EXTINF:-1 xui-id="268" tvg-id="SENAL" tvg-name="SEÑAL COLOMBIA" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7hIm55D5lKK_4FNfXOBMc9_TSL-yXPbVsM38KFe9kdmtA71ZH5QBEPU0WMxgQbLlI.jpg" group-title="⭐COLOMBIA⭐",SEÑAL COLOMBIA
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOogqyEWxoQX-lu3jfzEFVJyM
+#EXTINF:-1 xui-id="271" tvg-id="CKAL" tvg-name="CITYTV" tvg-logo="https://drive.google.com/uc?id=1oNLI5z-jBxSleCoa-1kmmqE2aA9LQKtw" group-title="⭐COLOMBIA⭐",CITYTV
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOopnxxZLH_omg1rSHDdpiKWs
+#EXTINF:-1 xui-id="272" tvg-id="NOTICIA" tvg-name="Cable Noticias" tvg-logo="http://xyz.latinotv.com.co:2082/images/tKmAA5qYl_9Wns307-rjMYyl3iHlauiNlnJWBruzMRDPUCQIdv4J-CwgTkv3hkwR.png" group-title="⭐COLOMBIA⭐",Cable Noticias
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOolFB6P_0rxRCxLQid_036Ww
+#EXTINF:-1 xui-id="273" tvg-id="CAPITAL" tvg-name="Canal Capital" tvg-logo="https://drive.google.com/uc?id=1q3Cd6IVueRhL1EO-KgkcOq39CNt9j8U7" group-title="⭐COLOMBIA⭐",Canal Capital
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOour8BuF3VrxAl4vj-6MUJ7k
+#EXTINF:-1 xui-id="276" tvg-id="" tvg-name="La Kalle" tvg-logo="http://xyz.latinotv.com.co:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjE2RpESVN2HuKintT1w7EareMHj5QC2mSJNRedmhvfQRf_0rRg41dS1tS3zvPNPzH3cc_F7zujIw9oddHkNRbf_VBJeuHeqAfwxgGsp62LmY.png" group-title="⭐COLOMBIA⭐",La Kalle
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOokusQGpvDgCX9DtSPLBCAWg
+#EXTINF:-1 xui-id="278" tvg-id="TELEAN" tvg-name="TeleAntoquia" tvg-logo="https://drive.google.com/uc?id=1posjnhpU3H79Sqfg7KMIwy7ZTzW7Icbo" group-title="⭐COLOMBIA⭐",TeleAntoquia
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOonmZrRId9hWnU8SZrYnjc9I
+#EXTINF:-1 xui-id="279" tvg-id="TELECAF" tvg-name="TeleCafe" tvg-logo="https://drive.google.com/uc?id=1pz3Se7bjR-ZKHZ_ZtahybmR9hpW4cvk_" group-title="⭐COLOMBIA⭐",TeleCafe
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOomJ9zZ72shKO7gCUYjKxkl8
+#EXTINF:-1 xui-id="280" tvg-id="TELECAR" tvg-name="Telecaribe" tvg-logo="https://drive.google.com/uc?id=1pwFPCPa82xNLTJpH47lfsvEj8EpyPSGa" group-title="⭐COLOMBIA⭐",Telecaribe
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOornuhQTCvnXBRo0hY1e8cUw
+#EXTINF:-1 xui-id="283" tvg-id="TELEMED" tvg-name="TeleMedellin" tvg-logo="https://drive.google.com/uc?id=1rwyXxCk6eh26XRzbGH3etwV7zvE0xgEf" group-title="⭐COLOMBIA⭐",TeleMedellin
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOorDbqJpRhHJ7xlFxCfGL1Dk
+#EXTINF:-1 xui-id="284" tvg-id="TPAC" tvg-name="TelePacifico" tvg-logo="https://drive.google.com/uc?id=1rTeygN9MGIm8oqjJKqPWRQcMQX2fTRjt" group-title="⭐COLOMBIA⭐",TelePacifico
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOok_OjKW9rs6osMKaor1WYVI
+#EXTINF:-1 xui-id="10" tvg-id="TVAGRO" tvg-name="TV AGRO" tvg-logo="https://drive.google.com/uc?id=1pSYkUprA3v0N39iOED4T_cW2CruPHFwL" group-title="⭐COLOMBIA⭐",TV AGRO
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoh4Bq_Z6p5G4ipNWgnM4mq0
+#EXTINF:-1 xui-id="286" tvg-id="PASNLAE" tvg-name="PASIONES" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5SdTaWir0Czp0sbjOxJ2DQEGdbOFBJ6QkLTwRJf8lczjGENhBYwWrFfH6aZw6ajvA.jpg" group-title="⭐COLOMBIA⭐",PASIONES
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOopDWWGLSBPLhVTb23abO14M
+#EXTINF:-1 xui-id="109244" tvg-id="" tvg-name="SONY COMEDIA" tvg-logo="http://xyz.latinotv.com.co:2082/images/zKfiZc2EbAJTgBT8Q9G5p-ormWcxxYlH0z1oByaXo7QfDQN64OTcSGybSrNEtsKp7ck0K5xDPE1LsRaAoI0uRfQiisB4ivrFpSuoowmZnvQ.png" group-title="⭐ENTRETENIMIENTO⭐",SONY COMEDIA
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOog8aP0IbWwNJ9YZNpRdTNcdTlMFx3P-gmHHUqK8X0SMI
+#EXTINF:-1 xui-id="109245" tvg-id="" tvg-name="SONY NOVELAS" tvg-logo="http://xyz.latinotv.com.co:2082/images/zKfiZc2EbAJTgBT8Q9G5p-ormWcxxYlH0z1oByaXo7QfDQN64OTcSGybSrNEtsKp7ck0K5xDPE1LsRaAoI0uRfQiisB4ivrFpSuoowmZnvQ.png" group-title="⭐ENTRETENIMIENTO⭐",SONY NOVELAS
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOog8aP0IbWwNJ9YZNpRdTNcemTVFQEtGnN4FPCmR3BJtk
+#EXTINF:-1 xui-id="109246" tvg-id="" tvg-name="SONY COMPETENCIAS" tvg-logo="http://xyz.latinotv.com.co:2082/images/zKfiZc2EbAJTgBT8Q9G5p-ormWcxxYlH0z1oByaXo7QfDQN64OTcSGybSrNEtsKp7ck0K5xDPE1LsRaAoI0uRfQiisB4ivrFpSuoowmZnvQ.png" group-title="⭐ENTRETENIMIENTO⭐",SONY COMPETENCIAS
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOog8aP0IbWwNJ9YZNpRdTNceGMHJ4JHM2yqDwUgiQfklP
+#EXTINF:-1 xui-id="291" tvg-id="VENE" tvg-name="VENEVISION" tvg-logo="http://xyz.latinotv.com.co:2082/images/zKfiZc2EbAJTgBT8Q9G5p-ormWcxxYlH0z1oByaXo7QfDQN64OTcSGybSrNEtsKpsRVLmeH59cRXQmGzYqod5oPlAjJJsvsuIjIMYBL5Mpg.png" group-title="⭐ENTRETENIMIENTO⭐",VENEVISION
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOohe8yQKDHQZwcMwbctnKEjs
+#EXTINF:-1 xui-id="293" tvg-id="UNILAT" tvg-name="UNIVISION" tvg-logo="https://drive.google.com/uc?id=197wFY_C2jxLxEis3aRc3BzBHoIURXbsO" group-title="⭐ENTRETENIMIENTO⭐",UNIVISION
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoopiKppXdNwRl0ZwcHaVPfk
+#EXTINF:-1 xui-id="294" tvg-id="" tvg-name="GALAVISION" tvg-logo="https://drive.google.com/uc?id=18EfjOi3_76Q7tdAG031in-L411-x-gDY" group-title="⭐ENTRETENIMIENTO⭐",GALAVISION
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOomfmd6orr4I276oSuboZky4
+#EXTINF:-1 xui-id="295" tvg-id="UNIMAS" tvg-name="UNIMAS" tvg-logo="https://drive.google.com/uc?id=18MmtG1z_DobQ1PMLCmWMBdUgpa_pVITj" group-title="⭐ENTRETENIMIENTO⭐",UNIMAS
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOonkuSr3zuTRmSolvuLhRtKE
+#EXTINF:-1 xui-id="296" tvg-id="" tvg-name="TLNOVELAS UNIVISION" tvg-logo="https://drive.google.com/uc?id=18FsqheyNZ98V5vHSmRWZSFNPQxe6MwGu" group-title="⭐ENTRETENIMIENTO⭐",TLNOVELAS UNIVISION
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOouxvRifS7bpwAvmjYHdvGuY
+#EXTINF:-1 xui-id="297" tvg-id="" tvg-name="NBC  UNIVERSO" tvg-logo="https://drive.google.com/uc?id=18RXd-75u7RcK_9H24B0qMzG9oFab1lcs" group-title="⭐ENTRETENIMIENTO⭐",NBC  UNIVERSO
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoqdh9IffL6x-VIh_QkkbIII
+#EXTINF:-1 xui-id="299" tvg-id="TVCRUS" tvg-name="TVC" tvg-logo="https://drive.google.com/uc?id=1uLd4IEkpdABc4cM1ttRoPH-9cOq5QpdW" group-title="⭐ENTRETENIMIENTO⭐",TVC
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoufweSHwLvGci7z01JH6yYo
+#EXTINF:-1 xui-id="300" tvg-id="FOODIT" tvg-name="FOOD NETWORK" tvg-logo="https://drive.google.com/uc?id=1pJnYq2PdUvcUo5AEMmOpulQzY3IweyYO" group-title="⭐ENTRETENIMIENTO⭐",FOOD NETWORK
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOokJMn9q_stPFEc5TBvd_3pA
+#EXTINF:-1 xui-id="301" tvg-id="" tvg-name="TELEVISA" tvg-logo="https://drive.google.com/uc?id=1991B_P39FBAPfJAb-GrUT9LCjH4UkkLY" group-title="⭐ENTRETENIMIENTO⭐",TELEVISA
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOom9Uuv9PXiW3Ls1p8F_cQEc
+#EXTINF:-1 xui-id="302" tvg-id="INGEIZD" tvg-name="INGENIO TV" tvg-logo="https://drive.google.com/uc?id=1toJ7QPUyOCfyf1S_OibLJf47ZBqApQ2-" group-title="⭐ENTRETENIMIENTO⭐",INGENIO TV
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoio99i47ymnWe4T_-0dxMlQ
+#EXTINF:-1 xui-id="303" tvg-id="DISTCOM" tvg-name="DISTRITO COMEDIA" tvg-logo="https://drive.google.com/uc?id=1tsLXj-s_7-TbJssTsbn64iwKKOb-c7fh" group-title="⭐ENTRETENIMIENTO⭐",DISTRITO COMEDIA
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOokquTai3fYt6tswCDxd5IR0
+#EXTINF:-1 xui-id="304" tvg-id="TLNOHI" tvg-name="TLNOVELAS" tvg-logo="https://drive.google.com/uc?id=1rQOwxisSykCB02TdFK-wcIRJjsJxrHUI" group-title="⭐ENTRETENIMIENTO⭐",TLNOVELAS
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoi8HpHOdndVyDLhUdkHV2tA
+#EXTINF:-1 xui-id="305" tvg-id="XHGCIZD" tvg-name="CANAL 5" tvg-logo="https://drive.google.com/uc?id=1thXk6rqYKk1PJ5RQrzc9oi5a2okda8yX" group-title="⭐ENTRETENIMIENTO⭐",CANAL 5
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOopMnGMfrCRiH0IfgqA5Mwh4
+#EXTINF:-1 xui-id="306" tvg-id="XEWIZD2" tvg-name="LAS ESTRELLAS" tvg-logo="https://drive.google.com/uc?id=1rPSl5oM5dRhTuXsFpSc0-kOb4LKnjuEF" group-title="⭐ENTRETENIMIENTO⭐",LAS ESTRELLAS
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOolXvWAp1wBkdwLSfonsF81Q
+#EXTINF:-1 xui-id="307" tvg-id="XHTV" tvg-name="FORO TV" tvg-logo="https://drive.google.com/uc?id=1to4alk3T8PO9zs-6c3D9pJ_9hpfyJ_FY" group-title="⭐ENTRETENIMIENTO⭐",FORO TV
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOopvAPJ0KIILjMfDaDG9ET1w
+#EXTINF:-1 xui-id="308" tvg-id="UNIC" tvg-name="UNICABLE" tvg-logo="https://drive.google.com/uc?id=1tRv7agLwDqOgI7g3SQioYFR09c14LYu7" group-title="⭐ENTRETENIMIENTO⭐",UNICABLE
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoot3aG1o6Bk-vcJ0ng_1wGU
+#EXTINF:-1 xui-id="309" tvg-id="TRUTV" tvg-name="TRU TV" tvg-logo="https://drive.google.com/uc?id=1rC3P8SpicFsdhsL8bQjwu_yIMUQGWfrf" group-title="⭐ENTRETENIMIENTO⭐",TRU TV
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOokclHKhNaC_o-SOJ6pccl7I
+#EXTINF:-1 xui-id="310" tvg-id="TELEMC" tvg-name="TELEMUNDO" tvg-logo="https://drive.google.com/uc?id=1qNvjt0J3tKnORi10aqFsOz_vVFrdlXgY" group-title="⭐ENTRETENIMIENTO⭐",TELEMUNDO
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoi1CCkxJ13777bCb55sbOHY
+#EXTINF:-1 xui-id="311" tvg-id="GLITZS" tvg-name="GLITZ" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/64d0f61a8695a747d9185604df1d46ad.jpg" group-title="⭐ENTRETENIMIENTO⭐",GLITZ
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoiPV5pnsmc0pnAIuJR_Jt58
+#EXTINF:-1 xui-id="312" tvg-id="HOLATV" tvg-name="HOLA TV" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/74ae34f916bab4168b26246a9f1f1c63.jpg" group-title="⭐ENTRETENIMIENTO⭐",HOLA TV
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOolg17dBCZVI8Si9STE0XXyU
+#EXTINF:-1 xui-id="313" tvg-id="" tvg-name="E!" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7CbaOvIqWyMD4osFovTqyjc7RQMW_rNz_rdWi3Q8Y3f0NQoOKfS9i_nVJPhTaENkg.jpg" group-title="⭐ENTRETENIMIENTO⭐",E!
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOooRPNRVO-ZZoKKI5Gwpg4hg
+#EXTINF:-1 xui-id="314" tvg-id="XHIMID2" tvg-name="AZTECA 7" tvg-logo="https://drive.google.com/uc?id=1tgqtbpaGc0aYh_xF18WUK0eUNVFKlPwO" group-title="⭐ENTRETENIMIENTO⭐",AZTECA 7
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOomOhWXDvY5XAW9F9_Gfp5-U
+#EXTINF:-1 xui-id="315" tvg-id="XHDFID2" tvg-name="AZTECA UNO" tvg-logo="http://xyz.latinotv.com.co:2082/images/zKfiZc2EbAJTgBT8Q9G5p-ormWcxxYlH0z1oByaXo7QfDQN64OTcSGybSrNEtsKperbOUJuONE070Br113-2qySz7WxJNyrtDkS1yhNpwaA.png" group-title="⭐ENTRETENIMIENTO⭐",AZTECA UNO
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOonB_ngTw8WqSN4IaTZ9yLAk
+#EXTINF:-1 xui-id="316" tvg-id="ADN40.mx" tvg-name="ADN40" tvg-logo="https://drive.google.com/uc?id=1tVFmQKIAZBOvrSHEdIp2bJSVLulwMGxU" group-title="⭐ENTRETENIMIENTO⭐",ADN40
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOojm7zn0E2EocopNgDtSSJ_Q
+#EXTINF:-1 xui-id="318" tvg-id="COCECH" tvg-name="COMEDY CENTRAL" tvg-logo="https://drive.google.com/uc?id=1pUQnuSy4o47br1m4JjRJPzYIZz2aV6WW" group-title="⭐ENTRETENIMIENTO⭐",COMEDY CENTRAL
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOooM_TQYokCqqqrZ3dyB8Nws
+#EXTINF:-1 xui-id="319" tvg-id="AzCorazon.mx" tvg-name="AZTECA CORAZON" tvg-logo="https://drive.google.com/uc?id=1sBImcIiT0aMrLE1OB1ujvATabGbxrmSe" group-title="⭐ENTRETENIMIENTO⭐",AZTECA CORAZON
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOosbcqc7ZBwjg3Z49SsTGLEo
+#EXTINF:-1 xui-id="321" tvg-id="ANTENA3" tvg-name="ANTENA 3" tvg-logo="https://drive.google.com/uc?id=1sIzKWGVK30HPq9wfOLzPFNwn-GAIPikn" group-title="⭐ENTRETENIMIENTO⭐",ANTENA 3
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOok5upOmFlyv2svX86UfTod0
+#EXTINF:-1 xui-id="322" tvg-id="REDHD" tvg-name="REDTV" tvg-logo="https://drive.google.com/uc?id=1pHTUShkPargebfqw81pOi0E6P1xHQciI" group-title="⭐COLOMBIA⭐",REDTV
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOot_vROHFrNrRMEq88DDJcYs
+#EXTINF:-1 xui-id="323" tvg-id="INTITHD" tvg-name="INTI" tvg-logo="http://xyz.latinotv.com.co:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjmtPDF6m0n2dQ6CFC6CybkDRQfUKmlX297619z1flLQprLtR7SvLg0BTdH-t_-zElBMHsM9hDQC1TpAwOntdOjg.png" group-title="⭐COLOMBIA⭐",INTI
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoh1NACCNecLH07axmwlCLzc
+#EXTINF:-1 xui-id="324" tvg-id="FOXCAHD" tvg-name="STAR CHANNEL" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7l-IGpv3QbRTUZAyaLSH_qSHf4Idi1YGtqEckkYQfNFIMARTaxrIziDANieOvWfUY.jpg" group-title="⭐CINE Y SERIES⭐",STAR CHANNEL
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOolTLJZq6XUtKf5EosGcEVaE
+#EXTINF:-1 xui-id="325" tvg-id="FOXCAHD" tvg-name="STAR HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7l-IGpv3QbRTUZAyaLSH_qSHf4Idi1YGtqEckkYQfNFIMARTaxrIziDANieOvWfUY.jpg" group-title="⭐CINE Y SERIES⭐",STAR HD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOolOgR81bjsEDnDbQWatIEgI
+#EXTINF:-1 xui-id="326" tvg-id="FOXCAHD" tvg-name="STAR FHD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7l-IGpv3QbRTUZAyaLSH_qSHf4Idi1YGtqEckkYQfNFIMARTaxrIziDANieOvWfUY.jpg" group-title="⭐CINE Y SERIES⭐",STAR FHD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOojLdZ7Qxkm5DDULZUZrgVAk
+#EXTINF:-1 xui-id="327" tvg-id="CNLDHEN" tvg-name="DHE HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4jOqvw0rn5IdGqBY2ubjzG73kU_g6dgR-sxBv7nK0FBcJV15bu5vhwvyC5lErhnmQ.jpg" group-title="⭐CINE Y SERIES⭐",DHE HD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOonaOTDv4rtck0IOluYj3400
+#EXTINF:-1 xui-id="328" tvg-id="CINCHD" tvg-name="CINECANAL" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7EvKrT98nrX7A5PHisxwCibIksS_SrF_VtS8Qjr_okGHIh2XXBjDlY-iabOS-3e-8.jpg" group-title="⭐CINE Y SERIES⭐",CINECANAL
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoto9VWi1Batlh_TZqBNC9xk
+#EXTINF:-1 xui-id="329" tvg-id="CINCHD" tvg-name="CINECANAL FHD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7EvKrT98nrX7A5PHisxwCibIksS_SrF_VtS8Qjr_okGHIh2XXBjDlY-iabOS-3e-8.jpg" group-title="⭐CINE Y SERIES⭐",CINECANAL FHD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOou5H5LOpx4eUqOK6-9u5rNM
+#EXTINF:-1 xui-id="330" tvg-id="CINL" tvg-name="CINE LATINO" tvg-logo="https://drive.google.com/uc?id=1C2C3rIalEwSJg9Rz-Vhl9kNeVVRqmVis" group-title="⭐CINE Y SERIES⭐",CINE LATINO
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOojrqVN_GcaNPbbm7Mdd68RM
+#EXTINF:-1 xui-id="331" tvg-id="CDINA" tvg-name="CINEMA DINAMITA" tvg-logo="https://drive.google.com/uc?id=1BvN7YMuiUI0WkKmPyGWZbpq3guEcz1So" group-title="⭐CINE Y SERIES⭐",CINEMA DINAMITA
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOojTHQzMnRA7UySA-ItvKKUk
+#EXTINF:-1 xui-id="332" tvg-id="MPREL" tvg-name="MULTIPREMIER" tvg-logo="https://drive.google.com/uc?id=1BxdQ-Hh7pVYIdFJ0_aqMZ4cqV1HzZygD" group-title="⭐CINE Y SERIES⭐",MULTIPREMIER
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOouaROzEIX_hFqz2upxt1ydU
+#EXTINF:-1 xui-id="333" tvg-id="AECOLHD" tvg-name="A&E" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7UFN_O2tPla8T1flAz5ISnTf29ickK4l12Q-VIzaF2NDKvjyHK1FQQJzaJz1CapUk.jpg" group-title="⭐CINE Y SERIES⭐",A&E
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOojBqvy6sSMrVEIQFrT6K5BQ
+#EXTINF:-1 xui-id="334" tvg-id="AECOLHD" tvg-name="A&E FHD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7UFN_O2tPla8T1flAz5ISnTf29ickK4l12Q-VIzaF2NDKvjyHK1FQQJzaJz1CapUk.jpg" group-title="⭐CINE Y SERIES⭐",A&E FHD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOolbl3aktRnsWqSZmxnUnuNA
+#EXTINF:-1 xui-id="335" tvg-id="AXNARGH" tvg-name="AXN" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4hvSm2VtX6frnNb60o5V780iKxCaHWkbujzkKnyiqfYKAKT3A1pCTVP9fdix1JFEo.jpg" group-title="⭐CINE Y SERIES⭐",AXN
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoofAHPYvmfTh4TiprHzfITM
+#EXTINF:-1 xui-id="336" tvg-id="AXNARGH" tvg-name="AXN FHD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4hvSm2VtX6frnNb60o5V780iKxCaHWkbujzkKnyiqfYKAKT3A1pCTVP9fdix1JFEo.jpg" group-title="⭐CINE Y SERIES⭐",AXN FHD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOooo34G8eNRB7r9bmkLUqrwQ
+#EXTINF:-1 xui-id="337" tvg-id="AMCANSD" tvg-name="AMC HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6GCKYUVOvHqNB3Ob4ZNzHsz9wPmJX437mYbGhpaaSzvxsTlYCSDnPZjdMjGnXsvAw.jpg" group-title="⭐CINE Y SERIES⭐",AMC HD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOok7J9V0QtyMJ04f4xyR-wf4
+#EXTINF:-1 xui-id="72720" tvg-id="AMCHSPE" tvg-name="AMC +" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6GCKYUVOvHqNB3Ob4ZNzHsz9wPmJX437mYbGhpaaSzvxsTlYCSDnPZjdMjGnXsvAw.jpg" group-title="⭐CINE Y SERIES⭐",AMC +
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOolUq5KGmWi8uES0hj2XFIVZQEUS_dXsZ3jYtQsr3DLUG
+#EXTINF:-1 xui-id="338" tvg-id="HCP" tvg-name="HOLLYWOOD" tvg-logo="http://xyz.latinotv.com.co:2082/images/9mtEKnJaCQLuOI_a-PWYDx2bDXd8jjdKiOyS1E29T4AzjZS4_HhKDTfYOFMb2G_UiluaRW1oVhoe8Du4WrbItk75TZ-BO2HDQrvtKwnicW0.jpg" group-title="⭐CINE Y SERIES⭐",HOLLYWOOD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOol0ofiqMF8XARUseGiELxmU
+#EXTINF:-1 xui-id="339" tvg-id="TNTSMX" tvg-name="TNT SERIES" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL72TMo0Sg4nWxMUvd8zk0hnT1_2bXJXcntSfHIBRFb3dx4_B5UQfzIZPmBWbMDd3K8.jpg" group-title="⭐CINE Y SERIES⭐",TNT SERIES
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOonOIZtyxf69DBmn2-S8Jdiw
+#EXTINF:-1 xui-id="340" tvg-id="TNTLCHH" tvg-name="TNT" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4gC1hvnSwhIDkFdWBuDj5wxIr9aRiqsi6Rhzcgoa0Ag3TZsDlBu7z3nmFsBRMl-Ko.jpg" group-title="⭐CINE Y SERIES⭐",TNT
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOon_iXZcAzU_lIV1QZOqdbOA
+#EXTINF:-1 xui-id="341" tvg-id="TNTLCHH" tvg-name="TNT FHD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4gC1hvnSwhIDkFdWBuDj5wxIr9aRiqsi6Rhzcgoa0Ag3TZsDlBu7z3nmFsBRMl-Ko.jpg" group-title="⭐CINE Y SERIES⭐",TNT FHD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOous5vLnVzYrscfltRHJctig
+#EXTINF:-1 xui-id="342" tvg-id="TCMARHD" tvg-name="TCM" tvg-logo="http://xyz.latinotv.com.co:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUmA-s2Y9J-FScBjUYQULJDhbZhOQLNHRhG-9qubNcA6ptPA0WG8UFiyFYt-RwxN3rHNYRBglTrtroOCWvU8c7Slk3xfZHTdPsJDkgz0bFuGAuX9fTlr9YDZ0kqmIYjYGQ.png" group-title="⭐CINE Y SERIES⭐",TCM
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoqsrpy4RLhoawMo3Ljq1SHA
+#EXTINF:-1 xui-id="343" tvg-id="TBSESPH" tvg-name="TBS" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4gbZf_sD4r5P3_wVDtockaoIuMUOk2FWkoAUgizpUvqc8N35aHfpKp11nj1mnH-_o.jpg" group-title="⭐CINE Y SERIES⭐",TBS
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOonmLu_OzgKByA-9BGqXaXyc
+#EXTINF:-1 xui-id="344" tvg-id="SYFYLAM" tvg-name="SYFY" tvg-logo="https://static.giga.de/wp-content/uploads/2014/07/syfy.jpg" group-title="⭐CINE Y SERIES⭐",SYFY
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOokxw9LtIhZKkJBXMESdxrjY
+#EXTINF:-1 xui-id="347" tvg-id="SUNDESP" tvg-name="SUNDANCE" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/9820e93e3d4b28151a59a15b052c86ea.jpg" group-title="⭐CINE Y SERIES⭐",SUNDANCE
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOohd61IuIgUpaYoomWq9aZwA
+#EXTINF:-1 xui-id="348" tvg-id="STULCOH" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5ewiiCCxehG7jY9kOmFSRBE_YZ3Z5lykqZPyTWkniUa5esFx4kVtj3FQJrCAqSyJQ.jpg" group-title="⭐CINE Y SERIES⭐",STUDIO UNIVERSAL
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOokd0g4RSj_3jFXvjvciMdRc
+#EXTINF:-1 xui-id="349" tvg-id="SPACLAM" tvg-name="SPACE" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4yh8yhxeXxMnoXT5M3nqCkaly71ZbPDclDKl2HKicxHV7sDDoqjBX2lpLYVKQ_lvM.jpg" group-title="⭐CINE Y SERIES⭐",SPACE
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoodpFjLPZ1qtpcQxbQsuOQI
+#EXTINF:-1 xui-id="350" tvg-id="SPACEMD" tvg-name="SPACE HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4yh8yhxeXxMnoXT5M3nqCkaly71ZbPDclDKl2HKicxHV7sDDoqjBX2lpLYVKQ_lvM.jpg" group-title="⭐CINE Y SERIES⭐",SPACE HD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoukQPN7c9Tm8vpSX6LaVppw
+#EXTINF:-1 xui-id="351" tvg-id="SPACEMD" tvg-name="SPACE FHD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4yh8yhxeXxMnoXT5M3nqCkaly71ZbPDclDKl2HKicxHV7sDDoqjBX2lpLYVKQ_lvM.jpg" group-title="⭐CINE Y SERIES⭐",SPACE FHD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOojAS0XkMxlnBxHdwy3wB5Z8
+#EXTINF:-1 xui-id="352" tvg-id="SONYCH" tvg-name="SONY" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4DTC0Mqc4ROh-FBopgIUi5_riYfrs7qATSie22BIXlYSrIXGFi6UsTK9U64FSuMr0.jpg" group-title="⭐CINE Y SERIES⭐",SONY
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOolA6ySNoNH5KOUwgy-0T2Dw
+#EXTINF:-1 xui-id="353" tvg-id="SETLHD" tvg-name="SONY FHD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4DTC0Mqc4ROh-FBopgIUi5_riYfrs7qATSie22BIXlYSrIXGFi6UsTK9U64FSuMr0.jpg" group-title="⭐CINE Y SERIES⭐",SONY FHD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOovKXUZ8dN03C6_vEQz98DT8
+#EXTINF:-1 xui-id="354" tvg-id="PARMDA" tvg-name="PARAMOUNT" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4MI4EltRynhHO5kI-W9Py1JbwKUC1MD5WS80edd-T5so2x3fRBdLPTiohj6ISo5Ig.jpg" group-title="⭐CINE Y SERIES⭐",PARAMOUNT
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoj-W9UkyravSU9gEoePMj2Y
+#EXTINF:-1 xui-id="357" tvg-id="GLDPRD2" tvg-name="GOLDEN PREMIER" tvg-logo="https://drive.google.com/uc?id=1s8Sjl8GtMMu6-4Ly0sXX414B0frne3GP" group-title="⭐CINE Y SERIES⭐",GOLDEN PREMIER
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoi--KHYsAJAPwpUF-TL801I
+#EXTINF:-1 xui-id="358" tvg-id="GLDEN" tvg-name="GOLDEN" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4iXq1JqJ-TiAp1dvblibW0BXz5281e2XCqTDHsqNcU__UKcGTfGqghXsvXoxBJros.jpg" group-title="⭐CINE Y SERIES⭐",GOLDEN
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOojAeR0VFQ6xOTwqdNZdtPOo
+#EXTINF:-1 xui-id="359" tvg-id="GOLDNHD" tvg-name="GOLDEN PLUS" tvg-logo="https://drive.google.com/uc?id=1uLMaiFrKa7bxTP8X1QQIb5CokwWZKtcd" group-title="⭐CINE Y SERIES⭐",GOLDEN PLUS
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoiKFC7j0UtJdX72w6hrRSao
+#EXTINF:-1 xui-id="360" tvg-id="GLDEDAM" tvg-name="GOLDEN EDGE" tvg-logo="https://drive.google.com/uc?id=1uKPWxeF-hGwPT71_MLtlxq6-eDOGMYd4" group-title="⭐CINE Y SERIES⭐",GOLDEN EDGE
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoimYiiw9VXXJKZHprNtWY_A
+#EXTINF:-1 xui-id="362" tvg-id="FXLAHDA" tvg-name="FX" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6OmHFmmaz8f0bj8u7xVTWndG9MjM7INZFO-YgOjLVaevWsOuI94Ro0L8dCrk7bos4.jpg" group-title="⭐CINE Y SERIES⭐",FX
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoqrVyafAED3r6OI7heeBgSY
+#EXTINF:-1 xui-id="363" tvg-id="FXLAHDA" tvg-name="FX HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6OmHFmmaz8f0bj8u7xVTWndG9MjM7INZFO-YgOjLVaevWsOuI94Ro0L8dCrk7bos4.jpg" group-title="⭐CINE Y SERIES⭐",FX HD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoicYlToi3KbEjf9wW0JDDos
+#EXTINF:-1 xui-id="364" tvg-id="FXLAHDA" tvg-name="FX FHD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6OmHFmmaz8f0bj8u7xVTWndG9MjM7INZFO-YgOjLVaevWsOuI94Ro0L8dCrk7bos4.jpg" group-title="⭐CINE Y SERIES⭐",FX FHD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoqhw8oGEVHmIDnoqzf1e3FA
+#EXTINF:-1 xui-id="365" tvg-id="FXMCHHD" tvg-name="FXM" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7JcrbgpDdB49eW3PXzzyE77wVFQmcrg6JYdnN2FVjGU9OfqxVt6kggX38x6MQAu-4.jpg" group-title="⭐CINE Y SERIES⭐",FXM
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOohfWgbU7hJ_ohctNi0XLNtI
+#EXTINF:-1 xui-id="366" tvg-id="FXMCHHD" tvg-name="FXM HD" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/62cc491e9d82f8e70a8a69f01ade2e8c.jpg" group-title="⭐CINE Y SERIES⭐",FXM HD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOormbf7pwk0NjnzFJ9ZHIWkU
+#EXTINF:-1 xui-id="373" tvg-id="" tvg-name="EXTREMA" tvg-logo="https://drive.google.com/uc?id=1CERprKnVI6P2Z4CBcRxLTMFAl7XHKMO7" group-title="⭐CINE Y SERIES⭐",EXTREMA
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoh24G-yIoggHiYRvkO46WMc
+#EXTINF:-1 xui-id="374" tvg-id="WARCOL" tvg-name="WARNER CHANNEL" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/cd38aa0841c88e18672c6fedf8acd8f9.jpg" group-title="⭐CINE Y SERIES⭐",WARNER CHANNEL
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoneN-N6IeXT0AjlYiXcb6EM
+#EXTINF:-1 xui-id="375" tvg-id="UNILAHD" tvg-name="UNIVERSAL CHANNEL" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6l4BBy2rt8fSSiT12n7X9mufkcWYJALEwSdlvZ-4vR85yoKURJoKQVPiV0LHuLOlU.jpg" group-title="⭐CINE Y SERIES⭐",UNIVERSAL CHANNEL
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOogqPs4TlBqldCF2JSVUkcyU
+#EXTINF:-1 xui-id="376" tvg-id="CINELWH" tvg-name="CINEMAX" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6Z9ziHxk7aLdtQF4Nt4KgoSl1kvsUuqRMZH0wwEhXJwb-GuE1cjbhG230dE-km4JE.jpg" group-title="⭐CINE Y SERIES⭐",CINEMAX
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOorKAgvIfm9cLoDFbjuM6gxE
+#EXTINF:-1 xui-id="377" tvg-id="DEPELA" tvg-name="DE PELICULA" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5B2ZJoQUku_liojZnUiAnXXfgSt9V7AeeVnWpnQxzxevmi7MMfe28q7kMeaKXJr8M.jpg" group-title="⭐CINE Y SERIES⭐",DE PELICULA
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoiHDw75V8tNEdlRlSVK7KDw
+#EXTINF:-1 xui-id="379" tvg-id="DEPLPLA" tvg-name="DE PELICULA PLUS" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/27e111b61d1ae686bfb398ef9956b1b5.jpg" group-title="⭐CINE Y SERIES⭐",DE PELICULA PLUS
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoipLgZ5qpy-fImHSaY7jsAQ
+#EXTINF:-1 xui-id="380" tvg-id="EUROPA" tvg-name="EUROPA EUROPA" tvg-logo="https://drive.google.com/uc?id=1uUWoGbuvEPjz1dcsdpjtQA0gUV-CjLxB" group-title="⭐CINE Y SERIES⭐",EUROPA EUROPA
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOohPYS-hzbEcj0INRuyifiRY
+#EXTINF:-1 xui-id="381" tvg-id="APMXHD" tvg-name="ANIMAL PLANET" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6Bj6BPQi26-1GMAlE5A4tiYZ9zs4dBnG-TSCCs6NWh_B3E04121Iv0R9bkgsNT90U.jpg" group-title="⭐CULTURA⭐",ANIMAL PLANET
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOork6B_vD7JvAr3UkOL_TaYg
+#EXTINF:-1 xui-id="382" tvg-id="APMXHD" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6Bj6BPQi26-1GMAlE5A4tiYZ9zs4dBnG-TSCCs6NWh_B3E04121Iv0R9bkgsNT90U.jpg" group-title="⭐CULTURA⭐",ANIMAL PLANET FHD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOonruVO9J2oCeBTkMtMuPg2w
+#EXTINF:-1 xui-id="383" tvg-id="TDCLVHD" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7yCuA3exlJ9H5qc3yn1b4IVdpuxrTVoPRWGxyekn8PYszRjMdx8Cmalvt2jfbxoGc.jpg" group-title="⭐CULTURA⭐",DISCOVERY CHANNEL
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOopxCEs3Wf2eP0Nd1SAq_geo
+#EXTINF:-1 xui-id="384" tvg-id="TDCLVHD" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7yCuA3exlJ9H5qc3yn1b4IVdpuxrTVoPRWGxyekn8PYszRjMdx8Cmalvt2jfbxoGc.jpg" group-title="⭐CULTURA⭐",DISCOVERY CHANNEL FHD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOom9fZ-TvKVEefsnAMg_ikWg
+#EXTINF:-1 xui-id="385" tvg-id="DHHCV" tvg-name="DISCOVERY H&H" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6w8xYY2ZwwWS8VAR8tfLQT3AQhJYRkaTTRq6e0jQ29cT7vapxH3O40B6MVVCmrhEg.jpg" group-title="⭐CULTURA⭐",DISCOVERY H&H
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoh7kNoWHtx3LqAtMtvoCrF8
+#EXTINF:-1 xui-id="387" tvg-id="DSCIENH" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6WPPJbBl86fwHkPvoSO21mG6YL8ZcWRcz6bQe28ssutm0fSZVh1Mlyx682RSJ12Xc.jpg" group-title="⭐CULTURA⭐",DISCOVERY SCIENCE
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOookMSelIx70AWk4aWuRKtAE
+#EXTINF:-1 xui-id="388" tvg-id="DTRBLAH" tvg-name="DISCOVERY TURBO" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5Q_2pVjAbSxzqeYLME4PyQSl8MP4wkJhFUE1rl8VzfgpUJ7fhc7FRaKskHmTbOF9M.jpg" group-title="⭐CULTURA⭐",DISCOVERY TURBO
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoppPVCzGDQ3pUelM8bqVXQg
+#EXTINF:-1 xui-id="389" tvg-id="DTRBLAH" tvg-name="DISCOVERY TURBO FHD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5Q_2pVjAbSxzqeYLME4PyQSl8MP4wkJhFUE1rl8VzfgpUJ7fhc7FRaKskHmTbOF9M.jpg" group-title="⭐CULTURA⭐",DISCOVERY TURBO FHD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoneh-eNNUAlZ9CmtHHSvNEA
+#EXTINF:-1 xui-id="390" tvg-id="DWRLDA" tvg-name="DISCOVERY WORLD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7K3Eg43tcQHZBG-_fZ98ULmfNwxDUV_7qIjmxrR_vZeGdITbOhbeZX7pphPw3KsgI.jpg" group-title="⭐CULTURA⭐",DISCOVERY WORLD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOogZ1t5k7_3xJbYr8y9ko6gY
+#EXTINF:-1 xui-id="391" tvg-id="DTHLAHA" tvg-name="DISCOVERY THEATER" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7vKkjJ2IJPnHKGO5xFnhD5AW_PF3xqttYNqvEX61KB1E2dimGQLEKLq8m01kYaSNI.jpg" group-title="⭐CULTURA⭐",DISCOVERY THEATER
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOomduG9k_S12x0tVEBpoS5Cg
+#EXTINF:-1 xui-id="392" tvg-id="IDLA" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="https://drive.google.com/uc?id=1CritGdwtqDlx4mEX-kwxY2plLxk07-uV" group-title="⭐CULTURA⭐",INVESTIGATION DISCOVERY
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOovQq3zYezaOiStdCQyZUEyw
+#EXTINF:-1 xui-id="393" tvg-id="TLCMXH" tvg-name="TLC" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5IGkbuBQfiIFkOsCgI7fnJA93UjNn3XKqsX9qeaV_b723yT6xM-LLTHjw5qOkx0aU.jpg" group-title="⭐CULTURA⭐",TLC
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoiXZTfTmPrcdlG0QDa_pEwk
+#EXTINF:-1 xui-id="394" tvg-id="H2LAHD" tvg-name="H2" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/76752f90065d6e124ec57fe8633525dd.jpg" group-title="⭐CULTURA⭐",H2
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOooU_1HJ2PjYaZCx3p-QjJ-A
+#EXTINF:-1 xui-id="395" tvg-id="H2LAHD" tvg-name="H2 FHD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6RSOlbVG2bhhy9My7jlAxb7xw8srkoPVG1q01moPzsdcBbsAKwt6d4c-BcGIhNbuA.jpg" group-title="⭐CULTURA⭐",H2 FHD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOolGLfFiCpeLAxYxcQI04vc0
+#EXTINF:-1 xui-id="396" tvg-id="HCCHDA" tvg-name="HISTORY" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7BxfMdUXdozuQK_EH0fiyPlEeTISxxca2EGr31EGnw6FxruM4OC18Nuj9BsHF2qi4.jpg" group-title="⭐CULTURA⭐",HISTORY
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoruNamHgiafQfVwMntg4DZ8
+#EXTINF:-1 xui-id="397" tvg-id="HCCHDA" tvg-name="HISTORY FHD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7BxfMdUXdozuQK_EH0fiyPlEeTISxxca2EGr31EGnw6FxruM4OC18Nuj9BsHF2qi4.jpg" group-title="⭐CULTURA⭐",HISTORY FHD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOopQ6ofcSERqECrR81kb_eg4
+#EXTINF:-1 xui-id="18902" tvg-id="NATGSHD" tvg-name="ES: NATGEO WILD FHD" tvg-logo="https://drive.google.com/uc?id=1pGNZPldD4spbULygPnn1UVpCIhWa9hJE" group-title="⭐CULTURA⭐",ES: NATGEO WILD FHD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOomHYEJ2tDLZxUohT1PG7ybwGMlzN_i3N7RdGeXWp-qAx
+#EXTINF:-1 xui-id="400" tvg-id="NGCCLA" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7SmCsqtIzD1Vqvpd-5UuuxJC1TDVm2opArxGTD8H0kOeoi7aEW3GCZUfmE5CRvKAs.jpg" group-title="⭐CULTURA⭐",NATIONAL GEOGRAPHIC
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOohjfbq2oPYXpCe_HEIo5ZW8
+#EXTINF:-1 xui-id="402" tvg-id="GOURMTA" tvg-name="EL GOURMET" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6yP-wGpg7b6oxykzh3TQys-R_LB-ZCNiji8pc1twISYoB5VxK7eujvIEYTFSpURkE.jpg" group-title="⭐CULTURA⭐",EL GOURMET
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOon9wZR-eAfimV-AKMc-83l4
+#EXTINF:-1 xui-id="403" tvg-id="MASCHIA" tvg-name="MAS CHIC" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5WTA3wsJVrYmDiU_SSs8vXbSskQ5Rv6scHR_21BJjAA6JDrS7zobEQTvRuKzzMF1w.jpg" group-title="⭐CULTURA⭐",MAS CHIC
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOokPhq32VTCa0RpO1y-gNrSU
+#EXTINF:-1 xui-id="404" tvg-id="LIFELEH" tvg-name="LIFETIME" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4GpnHDdg4Z6K4qRCad53xdy44gcRczpC_7d_px-2wEh1sTCWv3UWVU4AqCF470pHA.jpg" group-title="⭐CULTURA⭐",LIFETIME
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOorPQrruTdPIHWElhCju2UYM
+#EXTINF:-1 xui-id="409" tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4qqNy6ACbHzbQqNjtiJs61HDUTjT-eiEaKcOpISIjlu77OTq_Ka81ZqhUv9p0mRjk.jpg" group-title="⚽️DEPORTES⚽️",ESPN
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOot12SjJHLI4FUiyw435uPVI
+#EXTINF:-1 xui-id="410" tvg-id="ESPN" tvg-name="ESPN HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4qqNy6ACbHzbQqNjtiJs61HDUTjT-eiEaKcOpISIjlu77OTq_Ka81ZqhUv9p0mRjk.jpg" group-title="⚽️DEPORTES⚽️",ESPN HD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOohbVQNuECEiQVWg4NdXAi9U
+#EXTINF:-1 xui-id="411" tvg-id="ESPNMBR" tvg-name="ESPN 2" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5luPm_e6xXXpy-Gder53Z_kp7ZZ2rKApwUEHC2vu6Jg6P4WXIaiq52F1ZXxoMOr7A.jpg" group-title="⚽️DEPORTES⚽️",ESPN 2
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOorp1k5J-XdZW46qJM5k9d_0
+#EXTINF:-1 xui-id="412" tvg-id="ESPNMBR" tvg-name="ESPN 2 HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5luPm_e6xXXpy-Gder53Z_kp7ZZ2rKApwUEHC2vu6Jg6P4WXIaiq52F1ZXxoMOr7A.jpg" group-title="⚽️DEPORTES⚽️",ESPN 2 HD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoswIbqEO02CZNSJsLFrCGg4
+#EXTINF:-1 xui-id="413" tvg-id="ESPN3D" tvg-name="ESPN 3" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/0f65d0abe134625c755ed2a9200295ef.jpg" group-title="⚽️DEPORTES⚽️",ESPN 3
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOouWoUlreV7j8oNEXtuLTI0I
+#EXTINF:-1 xui-id="414" tvg-id="ESPN3D" tvg-name="ESPN 3 HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6jhp2QMOoD9mShPGzb4HnPq_6zUd2awKHMg7DwJE5Y_4spNV5M495-tzhrDVK5rh8.jpg" group-title="⚽️DEPORTES⚽️",ESPN 3 HD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOojyFb4w1sGw9p3yYCXGqdy4
+#EXTINF:-1 xui-id="408" tvg-id="ESPN" tvg-name="ESPN PREMIUM" tvg-logo="http://xyz.latinotv.com.co:2082/images/H1vcXR92qu9j9f5La04S8af_zUTMoZqw-Vwb-Zx9amBfXTLzDzFLByw3SSt2Jnu_98bqmIs0TNpwQVdOuGU0SRS5BvhOEdrgJegPG8z5TG8.jpg" group-title="⚽️DEPORTES⚽️",ESPN PREMIUM
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOopXWP3Ra35WdzKUEYz7iZfY
+#EXTINF:-1 xui-id="88308" tvg-id="" tvg-name="ESPN 4 HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/zKfiZc2EbAJTgBT8Q9G5p-ormWcxxYlH0z1oByaXo7QfDQN64OTcSGybSrNEtsKpy0bIMaIL0nYqY7D7XKdzEt47YzhWtTUAlX-CoXK90bA.png" group-title="⚽️DEPORTES⚽️",ESPN 4 HD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOouB3PVmUazBrK-oDgS6lugjNtDo9QSWTDJCSAlp7JzOO
+#EXTINF:-1 xui-id="415" tvg-id="ESPNMLA" tvg-name="ESPN EXTRA" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5azruqcXvHLW_aslg5e8TL_VNqA2YxH5Ea8ljteyv2wrXhYgcSoT7PPF2ya4zf_lA.jpg" group-title="⚽️DEPORTES⚽️",ESPN EXTRA
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOou9_6CD-EuX7J0Ri5VbiOwQ
+#EXTINF:-1 xui-id="405" tvg-id="FSCHIH" tvg-name="FOX SPORTS" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6CIzcwjBlaPC7ELQfSKaD28rbESCtWWscaUGmk_Oq9PpfUYDeQf5422MqJBKZOAIk.jpg" group-title="⚽️DEPORTES⚽️",FOX SPORTS
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOohj3fffyy0ecYKCfEor1UoQ
+#EXTINF:-1 xui-id="406" tvg-id="FS2" tvg-name="FOX SPORTS 2" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL42ebM6HNBRPHDLi-IN544CJ8f2SR6Lb9GxHvPX8ULQhvbfqSOL1D9MnHrbKz0TBB0.jpg" group-title="⚽️DEPORTES⚽️",FOX SPORTS 2
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOogYixvqRv1ze5YCR_07Odc4
+#EXTINF:-1 xui-id="407" tvg-id="FXSP3NL" tvg-name="FOX SPORTS 3" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6QBVJREbnp08IAajCzhh8gs40vRzG-jgpy6k6jiRY_OW7ewtfUPhShF9v7trRAVN4.jpg" group-title="⚽️DEPORTES⚽️",FOX SPORTS 3
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOogtYKI2lZA3xLbws07QA0yc
+#EXTINF:-1 xui-id="416" tvg-id="WINSPRT" tvg-name="WIN SPORTS" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5RLjBDV_DD6La44T-uUT6DGFVwEc9hh_IkRKjH-NuOuIPCrunECKSMnfjVK-JrFJ8.jpg" group-title="⚽️DEPORTES⚽️",WIN SPORTS
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOosei_FAWY8MZ3rSDsRiR1HY
+#EXTINF:-1 xui-id="417" tvg-id="WINSPRE" tvg-name="WIN SPORTS+ 4K" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5bhaCcbDa2D8ICOtSlZSE2wCa0z6gmgwWr9X_6hS6grEGuLk8_gd_y5Cjwxld_05s.jpg" group-title="⚽️DEPORTES⚽️",WIN SPORTS+ 4K
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOotZfGPUp2WrH37WcvkoyXZc
+#EXTINF:-1 xui-id="418" tvg-id="WINSPRE" tvg-name="EVENTOS VIP" tvg-logo="http://xyz.latinotv.com.co:2082/images/OXwgpA3xJjObQeXm8y1hRc89ClngaVfEUGhMMRCKTqgNZknNJHlq41pqRj8Y26-B576W9RwymKtn4bR8XsVCfQ3GI0cScT7gRWxvYIsj3dapntFtRn5iBYXzn5AoBj6Q.jpg" group-title="⚽️DEPORTES⚽️",EVENTOS VIP
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOolUTaIHItTetv2Q1fFhc1xQ
+#EXTINF:-1 xui-id="109254" tvg-id="WINSPRE" tvg-name="WIN SPORTS+ SD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5bhaCcbDa2D8ICOtSlZSE2wCa0z6gmgwWr9X_6hS6grEGuLk8_gd_y5Cjwxld_05s.jpg" group-title="⚽️DEPORTES⚽️",WIN SPORTS+ SD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOotJqwg0jWEOXhK99NuEIrxtFS01J9n3io367xMQhT9fg
+#EXTINF:-1 xui-id="109253" tvg-id="WINSPRE" tvg-name="WIN SPORTS+ HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5bhaCcbDa2D8ICOtSlZSE2wCa0z6gmgwWr9X_6hS6grEGuLk8_gd_y5Cjwxld_05s.jpg" group-title="⚽️DEPORTES⚽️",WIN SPORTS+ HD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOotJqwg0jWEOXhK99NuEIrxvlDKZ0n30hpACDPaYgq4Hv
+#EXTINF:-1 xui-id="109252" tvg-id="WINSPRT" tvg-name="WIN SPORTS+ V2" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5bhaCcbDa2D8ICOtSlZSE2wCa0z6gmgwWr9X_6hS6grEGuLk8_gd_y5Cjwxld_05s.jpg" group-title="⚽️DEPORTES⚽️",WIN SPORTS+ V2
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOotJqwg0jWEOXhK99NuEIrxu2sFC2-Na2vRj_r9Kd26-_
+#EXTINF:-1 xui-id="419" tvg-id="DT2SPT" tvg-name="DIRECTV SPORTS" tvg-logo="http://xyz.latinotv.com.co:2082/images/IOGuGPrJ9OLC_5HmzHKbkc6w24daYV4M5pXwWt-qmEmEBRp-gJWcfLFVmuRdehCP.png" group-title="⚽️DEPORTES⚽️",DIRECTV SPORTS
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOolhlrZX3eBSI_mbpF7Iqq1s
+#EXTINF:-1 xui-id="420" tvg-id="SPO218" tvg-name="DIRECTV SPORTS 2" tvg-logo="http://xyz.latinotv.com.co:2082/images/IOGuGPrJ9OLC_5HmzHKbkc6w24daYV4M5pXwWt-qmEmEBRp-gJWcfLFVmuRdehCP.png" group-title="⚽️DEPORTES⚽️",DIRECTV SPORTS 2
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOohye0BrtrNcJ3duvfwRaZss
+#EXTINF:-1 xui-id="421" tvg-id="DT2SPT" tvg-name="DIRECTV SPORTS+" tvg-logo="http://xyz.latinotv.com.co:2082/images/IOGuGPrJ9OLC_5HmzHKbkc6w24daYV4M5pXwWt-qmEmEBRp-gJWcfLFVmuRdehCP.png" group-title="⚽️DEPORTES⚽️",DIRECTV SPORTS+
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoo2jElVyi2IDE6M0wIg8qg4
+#EXTINF:-1 xui-id="8286" tvg-id="" tvg-name="Sky Sports 21 HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/e8a9c61af56a0271dd87adecc5b2e371.png" group-title="⚽️DEPORTES⚽️",Sky Sports 21 HD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOokOOnfrDgBgaHMz3QG5pZcA
+#EXTINF:-1 xui-id="8285" tvg-id="" tvg-name="Sky Sports 16 HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/zKfiZc2EbAJTgBT8Q9G5p-ormWcxxYlH0z1oByaXo7QfDQN64OTcSGybSrNEtsKpdrFDlwFZuqDvIaMqIiL-bkOSsd0uYS77LoKmL2avJUo.png" group-title="⚽️DEPORTES⚽️",Sky Sports 16 HD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoqirsjRyrDBabDjc17Kg9FE
+#EXTINF:-1 xui-id="432" tvg-id="BEINS1" tvg-name="bEIN SPORTS Ñ" tvg-logo="http://xyz.latinotv.com.co:2082/images/zKfiZc2EbAJTgBT8Q9G5p-ormWcxxYlH0z1oByaXo7QfDQN64OTcSGybSrNEtsKpT7w2rSZ2bsrzTAbU_ae-PLzN8Kd4cVmdV-PvcV0nbhuHH3ekoY3ntRFhiLfNiFF1.png" group-title="⚽️DEPORTES⚽️",bEIN SPORTS Ñ
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOosOH79p6PuWvEgF2bNgtq9E
+#EXTINF:-1 xui-id="427" tvg-id="TUDNM" tvg-name="TUDN US" tvg-logo="http://xyz.latinotv.com.co:2082/images/mg9e4VnU5MiobcDarwnBsUdfUka9ISHzUOTnkGxmnrI.png" group-title="⚽️DEPORTES⚽️",TUDN US
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOojsyFQVF2DDuZyS9Xk4NLU4
+#EXTINF:-1 xui-id="426" tvg-id="TUDNM" tvg-name="TUDN MX" tvg-logo="http://xyz.latinotv.com.co:2082/images/mg9e4VnU5MiobcDarwnBsUdfUka9ISHzUOTnkGxmnrI.png" group-title="⚽️DEPORTES⚽️",TUDN MX
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOou_a22kt6vA_0HFV3xjFpEk
+#EXTINF:-1 xui-id="17903" tvg-id="CLARSPO" tvg-name="CLARO SPORTS 1" tvg-logo="http://xyz.latinotv.com.co:2082/images/zKfiZc2EbAJTgBT8Q9G5p-ormWcxxYlH0z1oByaXo7QfDQN64OTcSGybSrNEtsKpQ3JWO_xdm64LxCm14uouqmmxkLF3TJJy3cYQc_hAxhs.png" group-title="⚽️DEPORTES⚽️",CLARO SPORTS 1
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOohIpIpl-31-CmKTD922rntLQ-N-SpvTm-h_lUCi0vOSJ
+#EXTINF:-1 xui-id="425" tvg-id="" tvg-name="Afizzionados" tvg-logo="http://xyz.latinotv.com.co:2082/images/zKfiZc2EbAJTgBT8Q9G5p-ormWcxxYlH0z1oByaXo7QfDQN64OTcSGybSrNEtsKpfn04bcFOdDBVsINf05YzzADhrNZl3-q3XMQD3ukuCxE.png" group-title="⚽️DEPORTES⚽️",Afizzionados
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOosWjSsv8PcUJYP1bcga-iG8
+#EXTINF:-1 xui-id="422" tvg-id="TNTSPOR" tvg-name="TNT SPORTS" tvg-logo="https://drive.google.com/uc?id=1t8e_b6d6shfS4WuhanZAPx7_pA99UtcY" group-title="⚽️DEPORTES⚽️",TNT SPORTS
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOopNK2S2f0ETvpMkfZO1W4K4
+#EXTINF:-1 xui-id="175" tvg-id="TYC" tvg-name="TYC SPORTS" tvg-logo="https://drive.google.com/uc?id=1t8e_b6d6shfS4WuhanZAPx7_pA99UtcY" group-title="⚽️DEPORTES⚽️",TYC SPORTS
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOovbqcgRVXNyS8pT7ZO3LHx4
+#EXTINF:-1 xui-id="438" tvg-id="HBOXLAM" tvg-name="HBO XTREME" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6I61CReNxBOo984zMYWSOiRDmOo4hzzsfKGsrFAyWCZHxFNQcqarAkyXBkltZz9MI.jpg" group-title="⭐PREMIUM⭐",HBO XTREME
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOojz2UsA87wKP9niIp6HLX-U
+#EXTINF:-1 xui-id="439" tvg-id="HBOXLAM" tvg-name="HBO XTREME FHD" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/a1cb1ce71cd36dbd399e4d25376154d3.jpg" group-title="⭐PREMIUM⭐",HBO XTREME FHD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOovbcACBQIm6cYuWt5-Or810
+#EXTINF:-1 xui-id="440" tvg-id="POPAM" tvg-name="HBO POP" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/7653018e5d5c754336a190e5bf655ba9.jpg" group-title="⭐PREMIUM⭐",HBO POP
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOot2IAP0pUkc1ri_RX0ShQks
+#EXTINF:-1 xui-id="441" tvg-id="MUNLEH" tvg-name="HBO MUNDI" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7JI8i8xZe89R61o9TG8O8JW1Kc_lyY1P1k7ni1TgO1-gW0XlMb3z8MFS-zSPFExNo.jpg" group-title="⭐PREMIUM⭐",HBO MUNDI
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOomCRbHPH4VEzvDbV5CAwaZI
+#EXTINF:-1 xui-id="442" tvg-id="MUNLEH" tvg-name="HBO MUNDI FHD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7JI8i8xZe89R61o9TG8O8JW1Kc_lyY1P1k7ni1TgO1-gW0XlMb3z8MFS-zSPFExNo.jpg" group-title="⭐PREMIUM⭐",HBO MUNDI FHD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOomH8qSJ3kondGOBzXTHB0IQ
+#EXTINF:-1 xui-id="443" tvg-id="HBOCHIL" tvg-name="HBO" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/b306366bd39df2a59bf36334544b264c.jpg" group-title="⭐PREMIUM⭐",HBO
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoiA6O1EbzWUHLvqRXuqT_DM
+#EXTINF:-1 xui-id="444" tvg-id="HBOCHIL" tvg-name="HBO FHD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6qUrj6uJZqyqqcK-AoAvLOv2kXpbo7vA4yq_eijkedjDzspzIV6ux8LG2QQwXw9kM.jpg" group-title="⭐PREMIUM⭐",HBO FHD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOovm9TIMxPApZE7LuFCCE1ug
+#EXTINF:-1 xui-id="445" tvg-id="HBOPNHE" tvg-name="HBO 2" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4N4VP9YcS5FbX658HwfOsXKiujExGg-agb5LHEHiQIWAXmZos2u3FRPdiI_R1rg58.jpg" group-title="⭐PREMIUM⭐",HBO 2
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoprflYUW4NpIR7xCXDrJPy0
+#EXTINF:-1 xui-id="446" tvg-id="HBOPNHE" tvg-name="HBO 2 FHD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL4N4VP9YcS5FbX658HwfOsXKiujExGg-agb5LHEHiQIWAXmZos2u3FRPdiI_R1rg58.jpg" group-title="⭐PREMIUM⭐",HBO 2 FHD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOouRTuOZwGcm_aFsAn4cts9w
+#EXTINF:-1 xui-id="447" tvg-id="HBODA" tvg-name="HBO PLUS" tvg-logo="https://drive.google.com/uc?id=1LL-9uS6XWJ1NLrQl4o8IPVn6WlfpSJJU" group-title="⭐PREMIUM⭐",HBO PLUS
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOomM1JF_ftTIcrTMVI-bu_vA
+#EXTINF:-1 xui-id="448" tvg-id="HBODA" tvg-name="HBO PLUS FHD" tvg-logo="https://drive.google.com/uc?id=1LL-9uS6XWJ1NLrQl4o8IPVn6WlfpSJJU" group-title="⭐PREMIUM⭐",HBO PLUS FHD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoiaelR5hxNwl9LvSOKZ41XE
+#EXTINF:-1 xui-id="449" tvg-id="HBOHDA" tvg-name="HBO FAMILY" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/80a47380ba7093fa47a5d01d5484df99.jpg" group-title="⭐PREMIUM⭐",HBO FAMILY
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOooUa-TulUitHGBf48_pMWTg
+#EXTINF:-1 xui-id="450" tvg-id="HBOHDA" tvg-name="HBO FAMILY FHD" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5QQpRCBWKCVDm7xQUHHfchj8m4ZhpB9VZsugDvpLxkUmF5smOMAd6YvBtrdsOhe4o.jpg" group-title="⭐PREMIUM⭐",HBO FAMILY FHD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOourwqFMO65W8Rf04_ZFugK8
+#EXTINF:-1 xui-id="452" tvg-id="HBOSIG" tvg-name="HBO SIGNATURE FHD" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/4c7291ebfd9fdf7e8895a23306c9ce7d.jpg" group-title="⭐PREMIUM⭐",HBO SIGNATURE FHD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOohtweAJc_uUXHpRZmxjynak
+#EXTINF:-1 xui-id="454" tvg-id="" tvg-name="UNIVERSAL PREMIERE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" group-title="⭐PREMIUM⭐",UNIVERSAL PREMIERE FHD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOokNGBrMRmzTvdw3Xve7yrB0
+#EXTINF:-1 xui-id="455" tvg-id="UniversalCrime" tvg-name="UNIVERSAL CRIME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Universal_Crime_logo.png" group-title="⭐PREMIUM⭐",UNIVERSAL CRIME HD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOogrBc19cf94qlKF7nQJbeHo
+#EXTINF:-1 xui-id="457" tvg-id="UniversalReality" tvg-name="UNIVERSAL REALITY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Universal_Reality_logo.png" group-title="⭐PREMIUM⭐",UNIVERSAL REALITY HD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOos4XsMQwz2AcxPo0z8Szsik
+#EXTINF:-1 xui-id="459" tvg-id="UniversalComedy" tvg-name="UNIVERSAL COMEDY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Universal_Comedy_logo.png" group-title="⭐PREMIUM⭐",UNIVERSAL COMEDY HD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOotLF6-XVZZVQuj7FmijkatA
+#EXTINF:-1 xui-id="463" tvg-id="UniversalCinema" tvg-name="UNIVERSAL CINEMA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Universal_Cinema_2021.png/revision/latest?cb=20220102014101&path-prefix=es" group-title="⭐PREMIUM⭐",UNIVERSAL CINEMA HD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOovHXfJOrmZfm4oqbXLU1ylg
+#EXTINF:-1 xui-id="465" tvg-id="" tvg-name="NBA HD" tvg-logo="http://xyz.latinotv.com.co:2082/images/pOJ-t6AZ9jwgg4EyWRtVnXlnwGk3sqJo6dh4zdOBXeFVPGwb4dtwQ9DnGOoSdqC2IKg_jdpo0EfGxuHj9aZdzcUgit5B4Z_TQvR7R-E4wbtEJnuKCyqkt-5amXH1Sq_puhFNMHtMx7SeWsnEIq8wXA.jpg" group-title="⚽️DEPORTES⚽️",NBA HD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOojfoHEaDqvPDxz1bpC6ZwA8
+#EXTINF:-1 xui-id="1217" tvg-id="" tvg-name="EL TIEMPO" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6mU_MuTVLjFqRympc05NUYC9cFx6tH0kFNNYpqE2iqyaxLsPgu76AGmD6XWkpL_DU.jpg" group-title="⭐NOTICIAS⭐",EL TIEMPO
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOohkNRtYlFljL2jbdqADvSXI
+#EXTINF:-1 xui-id="1218" tvg-id="BBCWANZ" tvg-name="BBC WORLD NEWS" tvg-logo="https://drive.google.com/uc?id=1qsn0w05ll9cZDYvk4SjU5WWMXWpHySFt" group-title="⭐NOTICIAS⭐",BBC WORLD NEWS
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOojYdnV2co9d3hTBXL4yNLm0
+#EXTINF:-1 xui-id="1219" tvg-id="BLMBGMC" tvg-name="BLOOMBERG" tvg-logo="https://drive.google.com/uc?id=1sNkXSNo4o6l5ne0Z2_fQGjNZA7Oxac37" group-title="⭐NOTICIAS⭐",BLOOMBERG
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOopcnD1f35ajR7-u1z7kUyxA
+#EXTINF:-1 xui-id="1220" tvg-id="CNNANZ" tvg-name="CNN ESPAÑOL" tvg-logo="https://drive.google.com/uc?id=1qgUz0KAPaQokknIsOlsdWF4kn5uTkGge" group-title="⭐NOTICIAS⭐",CNN ESPAÑOL
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOovuztmDEAFziC3lC--xRiTQ
+#EXTINF:-1 xui-id="1221" tvg-id="CNNANZ" tvg-name="CNN INTERNACIONAL" tvg-logo="https://drive.google.com/uc?id=1qcWzQdaDcPsFR7Irjc268C2Rk_Ijiuay" group-title="⭐NOTICIAS⭐",CNN INTERNACIONAL
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoouH3E_UAE9GujE11GdY-r4
+#EXTINF:-1 xui-id="1222" tvg-id="CNNCH" tvg-name="CNN Chile" tvg-logo="http://xyz.latinotv.com.co:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWX3dO1LrqBN1k1_iMCELtN0kRB6wI-Wy-NSNkruImp1MxjOPZJTAt6q_KtVH-ds9eA.png" group-title="⭐NOTICIAS⭐",CNN Chile
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOop0qZSobQNylIxxWPqSOjhs
+#EXTINF:-1 xui-id="1226" tvg-id="C5NHA" tvg-name="C5N" tvg-logo="http://xyz.latinotv.com.co:2082/images/zKfiZc2EbAJTgBT8Q9G5p-ormWcxxYlH0z1oByaXo7QfDQN64OTcSGybSrNEtsKpeHrzc8YvzpPN0p9EI0L7vAvLII6S69kLgyt4nxd3UZU.png" group-title="⭐NOTICIAS⭐",C5N
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoo8vc_oHooqYD5uq0jy6ujE
+#EXTINF:-1 xui-id="1227" tvg-id="FR24ANZ" tvg-name="FRANCE24" tvg-logo="https://drive.google.com/uc?id=1rU-6-TZeH-NDWYD-KEyfcRQPRJ4hrOO8" group-title="⭐NOTICIAS⭐",FRANCE24
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoqyzRhUMxGJgVyQdW1ib1KE
+#EXTINF:-1 xui-id="1228" tvg-id="FNWSANZ" tvg-name="FOX NEWS" tvg-logo="https://drive.google.com/uc?id=1qR8h4iYPJrC8YG3qLo3KQZhqOh2i1fEE" group-title="⭐NOTICIAS⭐",FOX NEWS
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoglTSY424yw2B2Un2RE4pmQ
+#EXTINF:-1 xui-id="1229" tvg-id="" tvg-name="NTN 24" tvg-logo="https://drive.google.com/uc?id=1pZcTI5sMWEyV0SfGR5OuTVQzwjIUFbfP" group-title="⭐NOTICIAS⭐",NTN 24
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOomjMxdZxXSbBAskpD_eLZlM
+#EXTINF:-1 xui-id="467" tvg-id="BBTVFR" tvg-name="BABY TV" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7nWkscW-gV18pVvmYgY7ZPjGUqsVwcaSWObdbG4rZfIkq8BH1Am6CexIfKShs2FWM.jpg" group-title="⭐KIDS⭐",BABY TV
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOooeNr5DLpB4v26ysCDpjz7U
+#EXTINF:-1 xui-id="468" tvg-id="DKNCHD" tvg-name="DISCOVERY KIDS" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6FD_4HOJGcnYL5wBBpk1m2SIEU4ouPsw7lxZ1NRdQtiIcvvHW6TQr_Ryz4DkhgZPs.jpg" group-title="⭐KIDS⭐",DISCOVERY KIDS
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOohB3P0w38aje3G9v5cp7q_U
+#EXTINF:-1 xui-id="469" tvg-id="SPDISHD" tvg-name="DISNEY CHANNEL" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7P7n9tDHrNse2VEikxdA1hnhW9tEvJOz4wmafTS__8aXcptB74_tqNwD4QlpAUdUs.jpg" group-title="⭐KIDS⭐",DISNEY CHANNEL
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOojWuj1PPOJtfWruIJh8jx2k
+#EXTINF:-1 xui-id="471" tvg-id="" tvg-name="DISNEY JR." tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6oUnKHZG0fGJX77VkDOH3IqW1vpOlmXVWue_adGJmV1fPuih1DobZgtUjQaatMPuA.jpg" group-title="⭐KIDS⭐",DISNEY JR.
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoiyHILTJWn4Ue_2x26KiFV0
+#EXTINF:-1 xui-id="472" tvg-id="" tvg-name="SEMILLAS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBcM0m-xgot4wKNKO5NDLIl7RierkOIZm701pBJxRVtc-Yg-mSwIOzVdv0t-MNki1maTw&usqp=CAU" group-title="⭐KIDS⭐",SEMILLAS HD
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOopUF9W-cB0dL-razoJ7OMbQ
+#EXTINF:-1 xui-id="473" tvg-id="TOONLSE" tvg-name="CARTOON NETWORK" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6OKLcZPcUjmVJ-MTqODa-qcJrEg7N5uOcdbKCfeSf1AU5c4bj-pvA_RXlidclU8nM.jpg" group-title="⭐KIDS⭐",CARTOON NETWORK
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoly-W2Xvo6GUhcRw8z7yO_Q
+#EXTINF:-1 xui-id="474" tvg-id="BOOMANZ" tvg-name="BOOMERANG" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7L0lVChUt8vngM9MoEBxr1vsr-cWfWkDUKtGOVh9y2UKq_pz-otY4gSU1ocwwCHnw.jpg" group-title="⭐KIDS⭐",BOOMERANG
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOonsaBAzdFCXSX-Ybe7zzCL0
+#EXTINF:-1 xui-id="475" tvg-id="TOONCST" tvg-name="TOONCAST" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL66NL8TEkWVKld9TBiEXTI2DYQ7BKobvnLdsFItkrXiUM5Nzb5XageO5Ra46TnmlPY.jpg" group-title="⭐KIDS⭐",TOONCAST
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOoi9DaivH0TCJAI41-7Muz-k
+#EXTINF:-1 xui-id="476" tvg-id="NICKLMC" tvg-name="NICKELODEON" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL6wmVfPCfNl_C7dOvsfIO7eGYoYuYh-7G4iP8hLFQhUF2oaxeVKXfS5zJ1k-OJeANU.jpg" group-title="⭐KIDS⭐",NICKELODEON
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOolL-iO_9iatqhDBpJi08srg
+#EXTINF:-1 xui-id="477" tvg-id="NJRANZ" tvg-name="NICK JR" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL5JSqtVm9YQyRvdQOyM7k0OvJuIH-hyGl-M2fNjsn6kg5AFvb49GUEeLiPXTNSowX4.jpg" group-title="⭐KIDS⭐",NICK JR
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOotuaiUUAW6HsBcK9_WDDtjk
+#EXTINF:-1 xui-id="479" tvg-id="NIKLAHD" tvg-name="NICK 2" tvg-logo="http://xyz.latinotv.com.co:2082/images/kmqgndBRl1oFg-IkAff9JePEEI6nSj8cUPhRVBojhL7lafy2DGBXXRo_hcXHEJgDLMkOvdcLF8d3kLYhlgJcGK3mVAdT66jJXX7pnVEtQAs.jpg" group-title="⭐KIDS⭐",NICK 2
+http://xyz.latinotv.com.co:2082/play/2hfSI-OnBbsDkm9WAAOOorWvBxeS-t6hHX1t3ojWosg
