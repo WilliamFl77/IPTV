@@ -1,4 +1,5 @@
-#EXTM3U
+﻿#EXTM3U
+
 
 #EXTINF:-1 tvg-id="CANALHD" tvg-name="CINECANAL ᴴᴰ" tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="⭐CINE Y SERIES⭐",CINECANAL ᴴᴰ
 http://unexserv.live:4564/Cuenta120diAAA/Cuenta120diAAA/263945
@@ -565,3 +566,106 @@ http://unexserv.live:4564/Cuenta120diAAA/Cuenta120diAAA/74317
 http://unexserv.live:4564/Cuenta120diAAA/Cuenta120diAAA/91026
 #EXTINF:-1 tvg-id="" tvg-name="SP: SV: Tigo Sports FHD" tvg-logo="http://fanc.tmsimg.com/assets/s113123_ll_h3_aa.png" group-title="⚽️TIGO SPORTS⚽",SP: SV: Tigo Sports FHD
 http://unexserv.live:4564/Cuenta120diAAA/Cuenta120diAAA/91028
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Annabelle" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nAumGAoPq7Rn5sqRIzSaDySYxn.jpg" group-title="⭐24/7 CINE⭐",24/7 Annabelle
+http://unexserv.live:4564/Cuenta120diAAA/Cuenta120diAAA/247060
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Crepusculo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjfrg4H8sCst4Z5gAW0Asn7506T.jpg" group-title="⭐24/7 CINE⭐",24/7 Crepusculo
+http://unexserv.live:4564/Cuenta120diAAA/Cuenta120diAAA/247061
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chapulín Colorado animado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nO9Ik4eH7RTX9r11qPtUWfMsWJA.jpg" group-title="⭐24/7⭐",24/7 El Chapulín Colorado animado
+http://unexserv.live:4564/Cuenta120diAAA/Cuenta120diAAA/238638
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chavo del Ocho" tvg-logo="https://th.bing.com/th/id/OIP.CC-ANp5-XvOBOxPwmk35OwHaDa?pid=ImgDet&rs=1" group-title="⭐ENTRETENIMIENTO⭐",24/7 El Chavo del Ocho
+http://unexserv.live:4564/Cuenta120diAAA/Cuenta120diAAA/207464
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chavo del Ocho" tvg-logo="https://th.bing.com/th/id/OIP.CC-ANp5-XvOBOxPwmk35OwHaDa?pid=ImgDet&rs=1" group-title="⭐24/7⭐",24/7 El Chavo del Ocho
+http://unexserv.live:4564/Cuenta120diAAA/Cuenta120diAAA/207464
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Hobbit" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Also6fDCjczi6xEFYFOqiau3f7.jpg" group-title="⭐24/7 CINE⭐",24/7 El Hobbit
+http://unexserv.live:4564/Cuenta120diAAA/Cuenta120diAAA/247053
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Rey Escorpion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAOQaJ9PeL29mgr2og42d3ZV68L.jpg" group-title="⭐24/7 CINE⭐",24/7 El Rey Escorpion
+http://unexserv.live:4564/Cuenta120diAAA/Cuenta120diAAA/247062
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Futurama" tvg-logo="https://th.bing.com/th/id/R.b126c0b1d176d1f5b3ffcceb870a35b8?rik=tCYe2lCXrTDL8g&pid=ImgRaw&r=0" group-title="⭐ENTRETENIMIENTO⭐",24/7 Futurama
+http://unexserv.live:4564/Cuenta120diAAA/Cuenta120diAAA/205585
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Futurama" tvg-logo="https://th.bing.com/th/id/R.b126c0b1d176d1f5b3ffcceb870a35b8?rik=tCYe2lCXrTDL8g&pid=ImgRaw&r=0" group-title="⭐24/7⭐",24/7 Futurama
+http://unexserv.live:4564/Cuenta120diAAA/Cuenta120diAAA/205585
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Harry Potter" tvg-logo="http://tvstarlife.com:25461/images/9ec680742762f71c34a84860776e7951.png" group-title="⭐24/7⭐",24/7 Harry Potter
+http://unexserv.live:4564/Cuenta120diAAA/Cuenta120diAAA/243828
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Harry Potter" tvg-logo="http://tvstarlife.com:25461/images/9ec680742762f71c34a84860776e7951.png" group-title="⭐24/7 CINE⭐",24/7 Harry Potter
+http://unexserv.live:4564/Cuenta120diAAA/Cuenta120diAAA/243828
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Indiana Jones" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QvmNoet3sZhuR225rDjTh1Hhb4.jpg" group-title="⭐24/7 CINE⭐",24/7 Indiana Jones
+http://unexserv.live:4564/Cuenta120diAAA/Cuenta120diAAA/247067
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Momia" tvg-logo=
+"https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sp0jw3x5TXfEIRFTK8oyswhPrU.jpg" group-title="⭐24/7 CINE⭐",24/7 La Momia
+http://unexserv.live:4564/Cuenta120diAAA/Cuenta120diAAA/247048
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Mercenarios" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmbMhNLsa0cEJIbsGUmTTtmLSPT.jpg" group-title="⭐24/7 CINE⭐",24/7 Los Mercenarios
+http://unexserv.live:4564/Cuenta120diAAA/Cuenta120diAAA/247068
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpson" tvg-logo="https://th.bing.com/th/id/OIP.zMM2duxV4uekkR9ziKf6RQHaEV?pid=ImgDet&rs=1" group-title="⭐ENTRETENIMIENTO⭐",24/7 Los Simpson
+http://unexserv.live:4564/Cuenta120diAAA/Cuenta120diAAA/206133
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 S. La Rosa de Guadalupe" tvg-logo="https://i.imgur.com/YOUdOHe.png" group-title="⭐24/7 SERIES⭐",24/7 S. La Rosa de Guadalupe
+http://unexserv.live:4564/Cuenta120diAAA/Cuenta120diAAA/247095
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 S. Los Simpsons" tvg-logo="https://i.imgur.com/ZjwMBC2.png" group-title="⭐24/7 SERIES⭐",24/7 S. Los Simpsons
+http://unexserv.live:4564/Cuenta120diAAA/Cuenta120diAAA/247083
+#EXTINF:-1 tvg-id="" tvg-name="24/7 S. Los Simpsons [Aleatorio]" tvg-logo="https://i.imgur.com/ZjwMBC2.png" group-title="⭐24/7 SERIES⭐",24/7 S. Los Simpsons [Aleatorio]
+http://unexserv.live:4564/Cuenta120diAAA/Cuenta120diAAA/247084
+
+
+XTINF:-1 tvg-id="" tvg-name="24/7 Los Simpson" tvg-logo="https://th.bing.com/th/id/OIP.zMM2duxV4uekkR9ziKf6RQHaEV?pid=ImgDet&rs=1" group-title="⭐24/7⭐",24/7 Los Simpson
+http://unexserv.live:4564/Cuenta120diAAA/Cuenta120diAAA/206133
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpson 1 Al 9" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AdiiEmjoyrvuHRER4KYtc8Memjs.jpg" group-title="⭐24/7⭐",24/7 Los Simpson 1 Al 9
+http://unexserv.live:4564/Cuenta120diAAA/Cuenta120diAAA/238580
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Piratas Del Caribe" tvg-logo="http://unexserv.live:4564/images/pzDY7Lh6fhpCQL71GO1N3YNNV0vfTdlaMLIxcdXQ2kSXxLwIE0Zs_XmoxDauXyLEodjZyxYXAiqzYJ430XZyGc9NDgEbo5psRd1B_hEOFPbg1YdNN7TSKMBvWLxJa4uUrbkVEDjSSJz7Ik1awRm-My5rxz2bosW78zN03_b18Qg.jpg" group-title="⭐24/7 CINE⭐",24/7 Piratas Del Caribe
+http://unexserv.live:4564/Cuenta120diAAA/Cuenta120diAAA/263779
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Regreso Al Futuro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldJzO9D40mCVeDaZQ1986t8rguZ.jpg" group-title="⭐24/7 CINE⭐",24/7 Regreso Al Futuro
+http://unexserv.live:4564/Cuenta120diAAA/Cuenta120diAAA/247047
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Saga ( Annabelle )" tvg-logo="http://tvstarlife.com:25461/images/e5f2dfd40197a11cadeaaf539251515b.png" group-title="⭐24/7 CINE⭐",24/7 | Saga ( Annabelle )
+http://unexserv.live:4564/Cuenta120diAAA/Cuenta120diAAA/238121
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Saga ( El Conjuro )" tvg-logo="http://tvstarlife.com:25461/images/35ffcf5b5144284f33d037696ab3d75c.png" group-title="⭐24/7 CINE⭐",24/7 | Saga ( El Conjuro )
+http://unexserv.live:4564/Cuenta120diAAA/Cuenta120diAAA/238122
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ||| Cantinflas Parte 1 (18 Peliculas)" tvg-logo="http://tvstarlife.com:25461/images/d94df4af1bce397ee80aa0090d4b65e5.png" group-title="⭐24/7 CINE⭐",24/7 ||| Cantinflas Parte 1 (18 Peliculas)
+http://unexserv.live:4564/Cuenta120diAAA/Cuenta120diAAA/238138
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ||| Disney Family ᴴᴰ" tvg-logo="http://unexserv.live:4564/images/HheysxGAvgaNAJBYw05ksXRcSiUQq0xYXZTrDCWhm6zPkzIqIG-D4KijS5lXrotQVWtz88zkQs1IJn2ZX2gpvZaNrlbdByxSaMHMPGVIT4Qbj4EZqy7L9kZ2h8gRozR3GaAGDgcMTiRv4lGkvF6mRfKGwVDd0XPiCp5kvsyR8kSj-lQqlSvRN6xACnvPVX6sd6ugj31cNxik-B2zqMdiKw.png" group-title="⭐24/7⭐",24/7 ||| Disney Family ᴴᴰ
+http://unexserv.live:4564/Cuenta120diAAA/Cuenta120diAAA/140421
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ||| Disney Pixar 0 ᴴᴰ" tvg-logo="http://unexserv.live:4564/images/HheysxGAvgaNAJBYw05ksXRcSiUQq0xYXZTrDCWhm6zPkzIqIG-D4KijS5lXrotQVWtz88zkQs1IJn2ZX2gpvZaNrlbdByxSaMHMPGVIT4RkV8MPy4MIQQHN9wS2YncoRRT-SdHOtbxLVxDrNXYJJq_VzE6fkGQQX7Wakq-3kY8vupTALwi68xDJfWmiTHzE2Ex-Q_tGEju_13-MPDWJEA.png" group-title="⭐24/7⭐",24/7 ||| Disney Pixar 0 ᴴᴰ
+http://unexserv.live:4564/Cuenta120diAAA/Cuenta120diAAA/140417
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Planeta De Los Simios" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6tZTnv7dGQrTdgZrTgvlVDy9WmN.jpg" group-title="⭐24/7 CINE⭐",24/7 El Planeta De Los Simios
+http://unexserv.live:4564/Cuenta120diAAA/Cuenta120diAAA/247073
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Planeta De Los Simios" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6tZTnv7dGQrTdgZrTgvlVDy9WmN.jpg" group-title="⭐24/7 CINE⭐",24/7 El Planeta De Los Simios
+http://unexserv.live:4564/Cuenta120diAAA/Cuenta120diAAA/263773
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
