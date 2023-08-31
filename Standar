@@ -1,66 +1,5 @@
 ﻿#EXTM3U
 
-
-
-
-
-
-
-
-
-
-NOTICIAS
-
-#EXTINF:-1 xui-id="179936" tvg-id="" tvg-name="NEWS: NTN24 SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/NTN_24_%282014-%29.png/revision/latest/scale-to-width-down/200?cb=20160206005756" group-title="TV | NOTICIAS INT",NEWS: NTN24 SD
-http://fastvplayer.com:8080/play/8kb-lzOOEI_qLmF8BqFdbtznBfARHgX2-z7nAJWPGuCVbZLWrf-42Yg-WWEgwlHm/ts
-
-#EXTINF:-1 xui-id="179967" tvg-id="ADN40ID" tvg-name="HD MX | ADN 40" tvg-logo="https://images2.imgbox.com/7a/2e/MzuYn6ii_o.png" group-title="TV | NOTICIAS INT",HD MX | ADN 40
-http://fastvplayer.com:8080/play/8kb-lzOOEI_qLmF8BqFdbkWeUwVdr5G42vst7V7ff1I1iSUUk7fnQGCnflSSE5T9/ts
-
-
-
-
-
-
-
-COLOMBIANOS
-
-#EXTINF:-1 xui-id="179978" tvg-id="CARAIHD" tvg-name="FHD INT | CARACOL INTERNACIONAL" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/2/25/CARACOL_INTERNACIONAL.png/revision/latest/scale-to-width-down/180?cb=20140814221309&path-prefix=es" group-title="TV | NOTICIAS INT",FHD INT | CARACOL INTERNACIONAL
-http://fastvplayer.com:8080/play/8kb-lzOOEI_qLmF8BqFdbrpTxcfQvZNn4YhHB73Kv-wm1sM7lAtSwReP3Sg3I6Nc/ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 PELICULAS
 
 #EXTINF:-1 xui-id="222346" tvg-id="" tvg-name="HD | A&E" tvg-logo="http://51.81.203.15:80/images/z_hDjAnw98TyytvGkDE54EoSnYgqQTyTcUoVio1B-2ZUYFQ3aAhyMl_ST_El3I6Y.png" group-title="TV | PREMIUM SATELITE",HD | A&E
@@ -843,6 +782,16 @@ http://fastvplayer.com:8080/play/8kb-lzOOEI_qLmF8BqFdbjT7a38ODOr6PAGTsEOH8f6eJTz
 
 #EXTINF:-1 xui-id="235204" tvg-id="" tvg-name="EL TIEMPO" tvg-logo="noimage.png" group-title="TV | ENTRETENIMIENTO",EL TIEMPO
 http://fastvplayer.com:8080/play/8kb-lzOOEI_qLmF8BqFdbu7kyy3ETFsHIrvJqMTQXxjlasIgiJka-Ivhpa0X7Jkl/ts
+
+#EXTINF:-1 xui-id="179978" tvg-id="CARAIHD" tvg-name="FHD INT | CARACOL INTERNACIONAL" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/2/25/CARACOL_INTERNACIONAL.png/revision/latest/scale-to-width-down/180?cb=20140814221309&path-prefix=es" group-title="TV | NOTICIAS INT",FHD INT | CARACOL INTERNACIONAL
+http://fastvplayer.com:8080/play/8kb-lzOOEI_qLmF8BqFdbrpTxcfQvZNn4YhHB73Kv-wm1sM7lAtSwReP3Sg3I6Nc/ts
+
+#EXTINF:-1 xui-id="179936" tvg-id="" tvg-name="NEWS: NTN24 SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/NTN_24_%282014-%29.png/revision/latest/scale-to-width-down/200?cb=20160206005756" group-title="TV | NOTICIAS INT",NEWS: NTN24 SD
+http://fastvplayer.com:8080/play/8kb-lzOOEI_qLmF8BqFdbtznBfARHgX2-z7nAJWPGuCVbZLWrf-42Yg-WWEgwlHm/ts
+
+#EXTINF:-1 xui-id="179967" tvg-id="ADN40ID" tvg-name="HD MX | ADN 40" tvg-logo="https://images2.imgbox.com/7a/2e/MzuYn6ii_o.png" group-title="TV | NOTICIAS INT",HD MX | ADN 40
+http://fastvplayer.com:8080/play/8kb-lzOOEI_qLmF8BqFdbkWeUwVdr5G42vst7V7ff1I1iSUUk7fnQGCnflSSE5T9/ts
+
 
 
 
