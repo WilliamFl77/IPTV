@@ -1,137 +1,463 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-id="" tvg-name="││CULT││(N) HISTORY 2D" tvg-logo="https://static.epg.best/mx/History2.mx.png" group-title="││TV││CULTURA",││CULT││(N) HISTORY 2D
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/44.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││SONY CINE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="││TV││ CINE",││CINE HD││SONY CINE
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/101.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ A&E (N)" tvg-logo="https://static.epg.best/mx/AandE.mx.png" group-title="││TV││ CINE",││CINE FHD││ A&E (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/102.m3u8
+
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="││CINE FHD││ AMC (N)" tvg-logo="https://static.epg.best/mx/AMC.mx.png" group-title="││TV││ CINE",││CINE FHD││ AMC (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/103.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ AXN (N)" tvg-logo="https://static.epg.best/mx/AXN.mx.png" group-title="││TV││ CINE",││CINE HD││ AXN (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/104.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││CINECANAL (N)" tvg-logo="https://static.epg.best/mx/Cinecanal.mx.png" group-title="││TV││ CINE",││CINE HD││CINECANAL (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/105.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ STAR CHANNEL (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="││TV││ CINE",││CINE HD││ STAR CHANNEL (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/108.m3u8
+
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="││COMEDIA HD││  UNIVERSAL COMEDY (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Universal_Comedy_logo.png/640px-Universal_Comedy_logo.png" group-title="││TV││COMEDIA ",││COMEDIA HD││  UNIVERSAL COMEDY (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/109.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ CINEMAX (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="││TV││ CINE",││CINE HD││ CINEMAX (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/110.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ DISNEY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="││TV││ CINE",││CINE HD││ DISNEY
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/112.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││PARAMOUT (N)" tvg-logo="https://static.epg.best/mx/ParamountChannel.mx.png" group-title="││TV││ CINE",││CINE HD││PARAMOUT (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/123.m3u8
+
+#EXTINF:-1 tvg-id="I386.69091.schedulesdirect.org" tvg-name="││CINE HD││ SONY (N)" tvg-logo="https://static.epg.best/mx/SonyEntertainmentTV.mx.png" group-title="││TV││ CINE",││CINE HD││ SONY (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/124.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││SPACE (N)" tvg-logo="https://static.epg.best/mx/Space.mx.png" group-title="││TV││ CINE",││CINE HD││SPACE (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/127.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││TNT (N)" tvg-logo="https://static.epg.best/mx/TNT.mx.png" group-title="││TV││ CINE",││CINE HD││TNT (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/128.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ TNT SERIES (N)" tvg-logo="https://static.epg.best/mx/TNTSeries.mx.png" group-title="││TV││ CINE",││CINE HD││ TNT SERIES (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/129.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD
+││WARNER CHANNEL (N)" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_channel_us.png" group-title="││TV││ CINE",││CINE HD││WARNER CHANNEL (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/130.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││  ANIMAL PLANET" tvg-logo="https://static.epg.best/ar/AnimalPlanet.ar.png" group-title="││TV││CULTURA",││CULT HD││  ANIMAL PLANET
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/151.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ DISCOVERY CHANNEL (N)" tvg-logo="https://static.epg.best/mx/DiscoveryChannel.mx.png" group-title="││TV││CULTURA",││CULT HD││ DISCOVERY CHANNEL (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/152.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││  DISCOVERY HOME&HEALTH (N)" tvg-logo="https://static.epg.best/mx/DiscoveryHomeHealth.mx.png" group-title="││TV││CULTURA",││CULT HD││  DISCOVERY HOME&HEALTH (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/153.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ DISCOVERY SCIENCE" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-science-latinoamerica-us.png" group-title="││TV││CULTURA",││CULT HD││ DISCOVERY SCIENCE
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/155.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││  DISCOVERY THEATHER (N)" tvg-logo="https://static.epg.best/mx/DiscoveryTheater.mx.png" group-title="││TV││CULTURA",││CULT HD││  DISCOVERY THEATHER (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/156.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ DISCOVERY TURBO*" tvg-logo="https://static.epg.best/pa/DiscoveryTurboLatinAmerica.pa.png" group-title="││TV││CULTURA",││CULT HD││ DISCOVERY TURBO*
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/157.m3u8
+
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="││CULT HD││ DISCOVERY WORLD (N)" tvg-logo="https://static.epg.best/mx/DiscoveryWorld.mx.png" group-title="││TV││CULTURA",││CULT HD││ DISCOVERY WORLD (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/158.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ HISTORY (N)" tvg-logo="https://static.epg.best/pa/HistoryLatinAmerica.pa.png" group-title="││TV││CULTURA",││CULT HD││ HISTORY (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/159.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ NATGEO" tvg-logo="https://static.epg.best/mx/NatGeo.mx.png" group-title="││TV││CULTURA",││CULT HD││ NATGEO
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/160.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ NATGEO WILD" tvg-logo="https://static.epg.best/mx/NatGeoWild.mx.png" group-title="││TV││CULTURA",││CULT HD││ NATGEO WILD
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/161.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││  DISCOVERY ID (N)" tvg-logo="https://static.epg.best/mx/InvestigationDiscovery.mx.png" group-title="││TV││CULTURA",││CULT HD││  DISCOVERY ID (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/162.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││  DISCOVERY TURBO" tvg-logo="https://static.epg.best/au/DiscoveryTurbo.au.png" group-title="││TV││CULTURA",││CULT HD││  DISCOVERY TURBO
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/163.m3u8
+
+#EXTINF:-1 tvg-id="I375.80374.schedulesdirect.org" tvg-name="││CULT HD││ H2 " tvg-logo="https://static.epg.best/pa/History2LatinAmerica.pa.png" group-title="││TV││CULTURA",││CULT HD││ H2 
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/164.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ HISTORIA CHANNEL (N)" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="││TV││CULTURA",││CULT HD││ HISTORIA CHANNEL (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/165.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││  NATIONAL GEOGRAPHIC" tvg-logo="https://static.epg.best/mx/NatGeo.mx.png" group-title="││TV││CULTURA", ││CULT FHD││  NATIONAL GEOGRAPHIC
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/166.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││INFANTIL BABY TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png" group-title="││TV││ INFANTILES",││KIDS HD││INFANTIL BABY TV HD
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/167.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││ CARTOONITO" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/8/83/Cartoonito_Logo_2021.png/revision/latest?cb=20211203224901&path-prefix=es" group-title="││TV││ INFANTILES",││KIDS HD││ CARTOONITO
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/168.m3u8
+
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="││KIDS HD││CARTOON NETWORK (N)" tvg-logo="https://static.epg.best/mx/CartoonNetwork.mx.png" group-title="││TV││ INFANTILES",││KIDS HD││CARTOON NETWORK (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/169.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS││ DISCOVERY KIDS HD (N)" tvg-logo="https://static.epg.best/mx/DiscoveryKids.mx.png" group-title="││TV││ INFANTILES",││KIDS││ DISCOVERY KIDS HD (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/170.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││ DISNEY CHANNEL (N)" tvg-logo="https://static.epg.best/mx/DisneyChannel.mx.png" group-title="││TV││ INFANTILES",││KIDS HD││ DISNEY CHANNEL (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/171.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD│N│DISNEY JUNIOR" tvg-logo="https://static.epg.best/mx/DisneyJunior.mx.png" group-title="││TV││ INFANTILES",││KIDS HD│N│DISNEY JUNIOR
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/172.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││ TOONCAST SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1024px-Tooncast_logo.svg.png" group-title="││TV││ INFANTILES",││KIDS HD││ TOONCAST SD
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/173.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││ CINE ANIMADO" tvg-logo="https://freepngimg.com/save/161179-vector-kids-png-file-hd/700x565" group-title="││TV││ INFANTILES",││KIDS HD││ CINE ANIMADO
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/174.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││ NICK (N)" tvg-logo="https://static.epg.best/mx/Nickelodeon.mx.png" group-title="││TV││ INFANTILES",││KIDS HD││ NICK (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/175.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS││ NICK 2 TEAM NICK HD" tvg-logo="https://static.epg.best/mx/Nick2.mx.png" group-title="││TV││ INFANTILES",││KIDS││ NICK 2 TEAM NICK HD
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/176.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS││ NICK JR HD  (N)" tvg-logo="https://static.epg.best/mx/NickJr.mx.png" group-title="││TV││ INFANTILES",││KIDS││ NICK JR HD  (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/177.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MI GENTE | CANAL MI GENTE HD." tvg-logo="https://www.migente-tv.com/wp-content/uploads/2022/04/logo.png" group-title="MUSICA",LAT | CANAL MI GENTE HD
 https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="││CULT││(N) HISTORY 2D" tvg-logo="https://static.epg.best/mx/History2.mx.png" group-title="││TV││CULTURA",││CULT││(N) HISTORY 2D
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/44.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││SONY CINE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="││TV││ CINE",││CINE HD││SONY CINE
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/101.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ A&E (N)" tvg-logo="https://static.epg.best/mx/AandE.mx.png" group-title="││TV││ CINE",││CINE FHD││ A&E (N)
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/102.m3u8
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="││CINE FHD││ AMC (N)" tvg-logo="https://static.epg.best/mx/AMC.mx.png" group-title="││TV││ CINE",││CINE FHD││ AMC (N)
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/103.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ AXN (N)" tvg-logo="https://static.epg.best/mx/AXN.mx.png" group-title="││TV││ CINE",││CINE HD││ AXN (N)
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/104.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││CINECANAL (N)" tvg-logo="https://static.epg.best/mx/Cinecanal.mx.png" group-title="││TV││ CINE",││CINE HD││CINECANAL (N)
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/105.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ STAR CHANNEL (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="││TV││ CINE",││CINE HD││ STAR CHANNEL (N)
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/108.m3u8
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="││COMEDIA HD││  UNIVERSAL COMEDY (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Universal_Comedy_logo.png/640px-Universal_Comedy_logo.png" group-title="││TV││COMEDIA ",││COMEDIA HD││  UNIVERSAL COMEDY (N)
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/109.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ CINEMAX (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="││TV││ CINE",││CINE HD││ CINEMAX (N)
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/110.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ DISNEY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="││TV││ CINE",││CINE HD││ DISNEY
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/112.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││PARAMOUT (N)" tvg-logo="https://static.epg.best/mx/ParamountChannel.mx.png" group-title="││TV││ CINE",││CINE HD││PARAMOUT (N)
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/123.m3u8
-#EXTINF:-1 tvg-id="I386.69091.schedulesdirect.org" tvg-name="││CINE HD││ SONY (N)" tvg-logo="https://static.epg.best/mx/SonyEntertainmentTV.mx.png" group-title="││TV││ CINE",││CINE HD││ SONY (N)
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/124.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││SPACE (N)" tvg-logo="https://static.epg.best/mx/Space.mx.png" group-title="││TV││ CINE",││CINE HD││SPACE (N)
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/127.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││TNT (N)" tvg-logo="https://static.epg.best/mx/TNT.mx.png" group-title="││TV││ CINE",││CINE HD││TNT (N)
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/128.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ TNT SERIES (N)" tvg-logo="https://static.epg.best/mx/TNTSeries.mx.png" group-title="││TV││ CINE",││CINE HD││ TNT SERIES (N)
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/129.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││WARNER CHANNEL (N)" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_channel_us.png" group-title="││TV││ CINE",││CINE HD││WARNER CHANNEL (N)
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/130.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││  ANIMAL PLANET" tvg-logo="https://static.epg.best/ar/AnimalPlanet.ar.png" group-title="││TV││CULTURA",││CULT HD││  ANIMAL PLANET
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/151.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ DISCOVERY CHANNEL (N)" tvg-logo="https://static.epg.best/mx/DiscoveryChannel.mx.png" group-title="││TV││CULTURA",││CULT HD││ DISCOVERY CHANNEL (N)
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/152.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││  DISCOVERY HOME&HEALTH (N)" tvg-logo="https://static.epg.best/mx/DiscoveryHomeHealth.mx.png" group-title="││TV││CULTURA",││CULT HD││  DISCOVERY HOME&HEALTH (N)
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/153.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ DISCOVERY SCIENCE" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-science-latinoamerica-us.png" group-title="││TV││CULTURA",││CULT HD││ DISCOVERY SCIENCE
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/155.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││  DISCOVERY THEATHER (N)" tvg-logo="https://static.epg.best/mx/DiscoveryTheater.mx.png" group-title="││TV││CULTURA",││CULT HD││  DISCOVERY THEATHER (N)
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/156.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ DISCOVERY TURBO*" tvg-logo="https://static.epg.best/pa/DiscoveryTurboLatinAmerica.pa.png" group-title="││TV││CULTURA",││CULT HD││ DISCOVERY TURBO*
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/157.m3u8
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="││CULT HD││ DISCOVERY WORLD (N)" tvg-logo="https://static.epg.best/mx/DiscoveryWorld.mx.png" group-title="││TV││CULTURA",││CULT HD││ DISCOVERY WORLD (N)
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/158.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ HISTORY (N)" tvg-logo="https://static.epg.best/pa/HistoryLatinAmerica.pa.png" group-title="││TV││CULTURA",││CULT HD││ HISTORY (N)
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/159.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ NATGEO" tvg-logo="https://static.epg.best/mx/NatGeo.mx.png" group-title="││TV││CULTURA",││CULT HD││ NATGEO
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/160.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ NATGEO WILD" tvg-logo="https://static.epg.best/mx/NatGeoWild.mx.png" group-title="││TV││CULTURA",││CULT HD││ NATGEO WILD
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/161.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││  DISCOVERY ID (N)" tvg-logo="https://static.epg.best/mx/InvestigationDiscovery.mx.png" group-title="││TV││CULTURA",││CULT HD││  DISCOVERY ID (N)
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/162.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││  DISCOVERY TURBO" tvg-logo="https://static.epg.best/au/DiscoveryTurbo.au.png" group-title="││TV││CULTURA",││CULT HD││  DISCOVERY TURBO
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/163.m3u8
-#EXTINF:-1 tvg-id="I375.80374.schedulesdirect.org" tvg-name="││CULT HD││ H2 " tvg-logo="https://static.epg.best/pa/History2LatinAmerica.pa.png" group-title="││TV││CULTURA",││CULT HD││ H2 
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/164.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ HISTORIA CHANNEL (N)" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="││TV││CULTURA",││CULT HD││ HISTORIA CHANNEL (N)
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/165.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││  NATIONAL GEOGRAPHIC" tvg-logo="https://static.epg.best/mx/NatGeo.mx.png" group-title="││TV││CULTURA", ││CULT FHD││  NATIONAL GEOGRAPHIC
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/166.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV MARVEL STUDIO HD" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",CINE PPV MARVEL STUDIO HD
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS l 10" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",CINE PPV LATINOS l 10
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/329.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE FULL HD | A&E (N)" tvg-logo="https://static.epg.best/pt/AandE.pt.png" group-title="││TV││ PREMIUM FHD",CINE FULL HD | A&E (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/332.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE FULL HD | AMC (N)" tvg-logo="https://static.epg.best/hu/AMC.hu.png" group-title="││TV││ PREMIUM FHD",CINE FULL HD | AMC (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/333.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ AXN (N)" tvg-logo="https://static.epg.best/br/AXN.br.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││ AXN (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/334.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE FULL HD | CINECANAL (N)" tvg-logo="https://static.epg.best/ar/Cinecanal.ar.png" group-title="││TV││ PREMIUM FHD",CINE FULL HD | CINECANAL (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/335.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE  CINEMAX FHD (N)" tvg-logo="https://static.epg.best/br/Cinemax.br.png" group-title="││TV││ PREMIUM FHD",CINE  CINEMAX FHD (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/336.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE FULL HD | FX (n)" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/07/fx.jpg" group-title="││TV││ PREMIUM FHD",CINE FULL HD | FX (n)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/337.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE FULL HD | STAR CHANNEL (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="││TV││ PREMIUM FHD",CINE FULL HD | STAR CHANNEL (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/338.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ UNIVERSAL PREMIER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Universal_Premiere_2021.png/revision/latest?cb=20220102013559&path-prefix=es" group-title="││TV││ PREMIUM FHD",││CINE FHD││ UNIVERSAL PREMIER
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/339.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE FULL HD | UNIVERSAL CINEMA (N)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Universal_Cinema_2021.png/revision/latest?cb=20220102014101&path-prefix=es" group-title="││TV││ PREMIUM FHD",CINE FULL HD | UNIVERSAL CINEMA (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/340.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││UNIVERSAL COMEDY (N)" tvg-logo="https://forounivers.com/uploads/monthly_2021_11/large.1006522521_UniversalComedy.png.b9917abf77a0af6426dc74bf7e8c0083.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││UNIVERSAL COMEDY (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/341.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││FILM  & ARTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/Film%26Arts1998.png/revision/latest?cb=20200106220948&path-prefix=es" group-title="││TV││ PREMIUM FHD",││CINE FHD││FILM  & ARTS
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/343.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE FULL HD | UNIVERSAL PREMIER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Universal_Premiere_2021.png/revision/latest?cb=20220102013559&path-prefix=es" group-title="││TV││ PREMIUM FHD",CINE FULL HD | UNIVERSAL PREMIER
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/344.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ HBO (N)" tvg-logo="https://static.epg.best/cz/HBO.cz.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││ HBO (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/345.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ SPACE (N)" tvg-logo="https://static.epg.best/mx/Space.mx.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││ SPACE (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/353.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ SONY (N)" tvg-logo="https://static.epg.best/br/Sony.br.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││ SONY (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/354.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ TCM" tvg-logo="https://static.epg.best/ar/TCM.ar.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││ TCM
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/356.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ TNT SERIES (N)" tvg-logo="https://static.epg.best/pa/TNTSeries.pa.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││ TNT SERIES (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/357.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ TNT (n)" tvg-logo="https://static.epg.best/ar/TNT.ar.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││ TNT (n)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/358.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ UNIVERSAL CHANNEL (N)" tvg-logo="https://static.epg.best/ar/UniversalChannel.ar.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││ UNIVERSAL CHANNEL (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/359.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││STUDIO UNIVERSAL (N)" tvg-logo="https://static.epg.best/ar/StudioUniversal.ar.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││STUDIO UNIVERSAL (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ WARNER (N)" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_channel_us.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││ WARNER (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/361.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││  DISCOVERY THEATER" tvg-logo="https://static.epg.best/mx/DiscoveryTheater.mx.png" group-title="││TV││CULTURA", ││CULT FHD││  DISCOVERY THEATER
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/398.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││  DISCOVERY WORLD (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="││TV││CULTURA", ││CULT FHD││  DISCOVERY WORLD (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/399.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││ DISCOVERY HOME HEALTH (N)" tvg-logo="https://i.pinimg.com/originals/6b/27/ae/6b27ae3d4938bf5775b656c19ff4fca6.png" group-title="││TV││CULTURA", ││CULT FHD││ DISCOVERY HOME HEALTH (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/400.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││ DISCOVERY INVESTIGATION (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="││TV││CULTURA", ││CULT FHD││ DISCOVERY INVESTIGATION (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/401.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││ DISCOVERY CHANNEL (N)" tvg-logo="https://static.epg.best/mx/DiscoveryChannel.mx.png" group-title="││TV││CULTURA", ││CULT FHD││ DISCOVERY CHANNEL (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/403.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││ NATGEO WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nat_Geo_Wild_Canada.svg/1200px-Nat_Geo_Wild_Canada.svg.png" group-title="││TV││CULTURA", ││CULT FHD││ NATGEO WILD
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/405.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││  NATGEO (N)" tvg-logo="https://media.findapps.com/wp-content/uploads/2016/04/Nat-Geo-TV.png" group-title="││TV││CULTURA", ││CULT FHD││  NATGEO (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/406.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││ ANIMAL PLANET (N)" tvg-logo="https://static.epg.best/ar/AnimalPlanet.ar.png" group-title="││TV││CULTURA", ││CULT FHD││ ANIMAL PLANET (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/407.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="││CULT FHD││(N)  HISTORY CHANNEL" tvg-logo="https://static.epg.best/ar/HistoryChannel.ar.png" group-title="││TV││CULTURA",││CULT FHD││(N)  HISTORY CHANNEL
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/408.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="││CULT FHD││  GOURMET (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Elgourmet.logonuevo.png" group-title="││TV││CULTURA",││CULT FHD││  GOURMET (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/409.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="││CULT FHD││  HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1200px-HGTV_logo.png" group-title="││TV││CULTURA",││CULT FHD││  HGTV
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/410.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | EL CHAVO DEL OCHO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/El_Chavo_poster.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | EL CHAVO DEL OCHO
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/1449.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV MOVIES | TERROR" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",PPV MOVIES | TERROR
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/1454.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES ACCION  | MARVEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marvel_Logo.svg/250px-Marvel_Logo.svg.png" group-title="││TV││SERIES 24/7",24/7 SERIES ACCION  | MARVEL
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/1459.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR | THE WALKING DEAD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Walking_Dead_Season_3_Official_Poster.jpg/220px-Walking_Dead_Season_3_Official_Poster.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES TERROR | THE WALKING DEAD
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/1461.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | DISNEY PIXAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Disney_pixar_logo.png" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | DISNEY PIXAR
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/1471.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="││COL││WIN_SPORTS|| 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="││⛹️WIN SPORTS PREMIUM⛹️││",││COL││WIN_SPORTS|| 4K
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/197665.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="││COL││WIN_SPORTS || PLUS SD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="││⛹️WIN SPORTS PREMIUM⛹️││",││COL││WIN_SPORTS || PLUS SD 
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/197666.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="││COL││WIN_SPORTS || PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="││⛹️WIN SPORTS PREMIUM⛹️││",││COL││WIN_SPORTS || PLUS HD
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/197667.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="││COL││WIN_PREMIUM_PLUS 4K*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="││⛹️WIN SPORTS PREMIUM⛹️││",││COL││WIN_PREMIUM_PLUS 4K*
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/197668.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="││COL││TELECAFE HD" tvg-logo="https://alexanderiglesiasacevedo258422816.files.wordpress.com/2020/12/telecaf3f_2020.png" group-title="││TV││ COLOMBIA (TEST)",││COL││TELECAFE HD
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/83482.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL D DRAMA  HD (N)" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-d-drama-tr.png" group-title="││TV││ CINE",CANAL D DRAMA  HD (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/83954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 26 TV ONE HD" tvg-logo="https://tvonenicaragua.com/wp-content/uploads/2020/02/logo-central-correcto2.png" group-title="││TV││ NICARAGUA ",CANAL 26 TV ONE HD
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/84084.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 25 EWTN HD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_ewtn_m.png" group-title="││TV││ NICARAGUA ",CANAL 25 EWTN HD
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/84086.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 23 CDNN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC9FyT8-MgN4GHdzGAmlToDS4ad7zASegWAw&usqp=CAU" group-title="││TV││ NICARAGUA ",CANAL 23 CDNN HD
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/84088.m3u8
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="DISCOVERY FAMILY HD" tvg-logo="https://photos.prnewswire.com/prnfull/20151013/276409LOGO" group-title="││TV││CULTURA",DISCOVERY FAMILY HD
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/92921.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="I417.39719.zap2it.com" tvg-name="││COL││CARACOL INTERNACIONAL HD" tvg-logo="https://static.epg.best/co/CaracolInternacional.co.png" group-title="││TV││ COLOMBIA (TEST)",││COL││CARACOL INTERNACIONAL HD
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/456.m3u8
-#EXTINF:-1 tvg-id="I417.39719.zap2it.com" tvg-name="││COL││CARACOL HD (N - OP)" tvg-logo="https://static.epg.best/co/Caracol.co.png" group-title="││TV││ COLOMBIA (TEST)",││COL││CARACOL HD (N - OP)
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/462.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REINO INFANTIL HD" tvg-logo="https://tiendasathd.es/wp-content/uploads/2023/01/u7DOoBK.png" group-title="││TV││ INFANTILES",REINO INFANTIL HD
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/186345.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="││COL││RCN_+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/1200px-Canal_RCN_logo_%282%29.svg.png" group-title="││TV││ COLOMBIA (TEST)",││COL││RCN_+
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/188257.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER HD |N| " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest?cb=20201202010915&path-prefix=es" group-title="││TV││ CINE",GOLDEN PREMIER HD |N| 
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/207463.m3u8
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="GOLDEN PREMIER 2 HD |N|" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es" group-title="││TV││ CINE",GOLDEN PREMIER 2 HD |N|
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/207464.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="││COL││RCN XTRA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Rcn-xtra_2.png/1024px-Rcn-xtra_2.png" group-title="││TV││ COLOMBIA (TEST)",││COL││RCN XTRA HD
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/213622.m3u8
+
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="││COL││ RCN FHD |Exclusivo|" tvg-logo="https://static.epg.best/co/RCN.co.png" group-title="││TV││ COLOMBIA (TEST)",││COL││ RCN FHD |Exclusivo|
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/241.m3u8
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/241.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="││COL││ RCN TELENOVELA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/RCN_Novelas_logo.svg/165px-RCN_Novelas_logo.svg.png" group-title="││TV││ COLOMBIA (TEST)",││COL││ RCN TELENOVELA HD
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/411.m3u8
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/411.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="││COL││CANAL UNO" tvg-logo="https://static.epg.best/co/CanalUno.co.png" group-title="││TV││ COLOMBIA (TEST)",││COL││CANAL UNO
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/458.m3u8
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/458.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="││COL││TELECARIBE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/150px-Telecaribe2017.png" group-title="││TV││ COLOMBIA (TEST)",││COL││TELECARIBE
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/414.m3u8
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/414.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="││COL││CANAL CAPITAL" tvg-logo="https://static.epg.best/co/CanalCapital.co.png" group-title="││TV││ COLOMBIA (TEST)",││COL││CANAL CAPITAL
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/454.m3u8
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/454.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="││COL││ CITY TV HQ" tvg-logo="https://static.epg.best/co/CityTV.co.png" group-title="││TV││ COLOMBIA (TEST)",││COL││ CITY TV HQ
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/239.m3u8
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/239.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="││COL││SEÑAL COLOMBIA  HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="││TV││ COLOMBIA (TEST)",││COL││SEÑAL COLOMBIA  HQ
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/416.m3u8
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/416.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="││COL││CANAL TRECE" tvg-logo="https://static.epg.best/co/CanalTrece.co.png" group-title="││TV││ COLOMBIA (TEST)",││COL││CANAL TRECE
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/455.m3u8
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/455.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="││COL││  TELEMEDELLIN HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Logotipo_de_Telemedell%C3%ADn.png/150px-Logotipo_de_Telemedell%C3%ADn.png" group-title="││TV││ COLOMBIA (TEST)",││COL││  TELEMEDELLIN HQ
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/415.m3u8
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/415.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="││COL││ TELEANTIOQUIA HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Teleantioquia_logo.png/250px-Teleantioquia_logo.png" group-title="││TV││ COLOMBIA (TEST)",││COL││ TELEANTIOQUIA HQ
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/413.m3u8
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/413.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="││COL││ CNC MEDELLIN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/ANTV_Colombia_Logo.PNG" group-title="││TV││ COLOMBIA (TEST)",││COL││ CNC MEDELLIN
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/613.m3u8
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/613.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="││COL││ TELEPACIFICO HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Telepac%C3%ADfico.png/125px-Telepac%C3%ADfico.png" group-title="││TV││ COLOMBIA (TEST)",││COL││ TELEPACIFICO HQ
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/412.m3u8
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/412.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="││COL││TV AGRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/1200px-TV_Agro_logo.svg.png" group-title="││TV││ COLOMBIA (TEST)",││COL││TV AGRO
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/617.m3u8
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/617.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="││COL││MUNDO + HQ " tvg-logo="https://static.wikia.nocookie.net/youtubepedia/images/7/70/Mundo_N.png/revision/latest/top-crop/width/360/height/450?cb=20190622234036&path-prefix=es" group-title="││TV││ COLOMBIA (TEST)",││COL││MUNDO + HQ 
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/616.m3u8
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/616.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="││COL││ COSMOVISION" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Cosmovisi%C3%B3n_1986.png/revision/latest/scale-to-width-down/2000?cb=20210212135202&path-prefix=es" group-title="││TV││ COLOMBIA (TEST)",││COL││ COSMOVISION
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/615.m3u8
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/615.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="││COL││  CANAL CAPITAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/1200px-2020_Canal_Capital_logo.svg.png" group-title="││TV││ COLOMBIA (TEST)",││COL││  CANAL CAPITAL HD
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/614.m3u8
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/614.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="││COL││ CALI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Logo_CaliTV.png" group-title="││TV││ COLOMBIA (TEST)",││COL││ CALI TV
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/611.m3u8
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/611.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="││COL││  SUDAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Canal_tro_logo.PNG" group-title="││TV││ COLOMBIA (TEST)",││COL││  SUDAN
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/461.m3u8
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/461.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="││COL││TELEPACIFICO" tvg-logo="https://static.epg.best/co/Telepacifico.co.png" group-title="││TV││ COLOMBIA (TEST)",││COL││TELEPACIFICO
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/460.m3u8
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/460.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="││COL││ TV GRACIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8rfqFa700A2w1OYzpEg1YYB6f3jsHe4BLZb9xAiuIX23-agNnPetlhlE_xqRA1-KHE5Q&usqp=CAU" group-title="││TV││ COLOMBIA (TEST)",││COL││ TV GRACIA
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/618.m3u8
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/618.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="││COL││PASIONES HD (N)" tvg-logo="https://static.epg.best/us/Pasiones.us.png" group-title="││TV││ COLOMBIA (TEST)",││COL││PASIONES HD (N)
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/459.m3u8
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/459.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="││COL││NTN24  HQ " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="││TV││ COLOMBIA (TEST)",││COL││NTN24  HQ 
-http://gustvplay.com:8080/live/PbHhQ65myfT7/EjGVcDkxZZYD/532.m3u8
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/532.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MIMUSICA REGGAETON FHD" tvg-logo="https://seeklogo.com/images/M/music-logo-D81C53AAB6-seeklogo.com.png" group-title="││TV││MUSICALES",MIMUSICA REGGAETON FHD
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/218304.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MIMUSICA POPULAR" tvg-logo="https://seeklogo.com/images/M/music-logo-D81C53AAB6-seeklogo.com.png" group-title="││TV││MUSICALES",MIMUSICA POPULAR
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/218305.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MIMUSICA ROMANTICA" tvg-logo="https://seeklogo.com/images/M/music-logo-D81C53AAB6-seeklogo.com.png" group-title="││TV││MUSICALES",MIMUSICA ROMANTICA
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/218306.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MIMUSICA SALSA" tvg-logo="https://seeklogo.com/images/M/music-logo-D81C53AAB6-seeklogo.com.png" group-title="││TV││MUSICALES",MIMUSICA SALSA
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/218307.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Pájaro Loco y sus amigos" tvg-logo="" group-title="││TV││ 24/7 ANIMADOS ON DEMAND",24/7 El Pájaro Loco y sus amigos
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/221334.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hotel Transylvania" tvg-logo="" group-title="││TV││ 24/7 ANIMADOS ON DEMAND",24/7 Hotel Transylvania
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/221335.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Liga de la Justicia Ilimitada" tvg-logo="" group-title="││TV││ 24/7 ANIMADOS ON DEMAND",24/7 Liga de la Justicia Ilimitada
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/221336.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los supersónicos" tvg-logo="" group-title="││TV││ 24/7 ANIMADOS ON DEMAND",24/7 Los supersónicos
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/221337.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peppa Pig" tvg-logo="" group-title="││TV││ 24/7 ANIMADOS ON DEMAND",24/7 Peppa Pig
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/221338.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Rápidos y furiosos: Espías al volante" tvg-logo="" group-title="││TV││ 24/7 ANIMADOS ON DEMAND",24/7 Rápidos y furiosos: Espías al volante
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/221339.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Digimon Adventure" tvg-logo="" group-title="││TV││ 24/7 ANIMADOS ON DEMAND",24/7 Digimon Adventure
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/221340.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PAW Patrol: Patrulla de cachorros" tvg-logo="" group-title="││TV││ 24/7 ANIMADOS ON DEMAND",24/7 PAW Patrol: Patrulla de cachorros
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/221342.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS││ NICK JR (N)" tvg-logo="https://static.epg.best/us/NickJr.us.png" group-title="││TV││ INFANTILES",││KIDS││ NICK JR (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/77.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS SD│N│DISCOVERY KIDS" tvg-logo="https://static.epg.best/co/DiscoveryKids.co.png" group-title="││TV││ INFANTILES",││KIDS SD│N│DISCOVERY KIDS
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/80.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS SD││ CARTOON NETWORK" tvg-logo="https://static.epg.best/pa/CartoonNetwork.pa.png" group-title="││TV││ INFANTILES",││KIDS SD││ CARTOON NETWORK
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/81.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││ BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="││TV││ INFANTILES",││KIDS HD││ BOOMERANG
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/79.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││  LAS ESTRELLA (N)" tvg-logo="https://static.epg.best/mx/LasEstrellas.mx.png" group-title="││TV││CULTURA",││CULT HD││  LAS ESTRELLA (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/82.m3u8
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="││KIDS HD││ NICKELODEON (N)" tvg-logo="https://static.epg.best/us/Nickelodeon.us.png" group-title="││TV││ INFANTILES",││KIDS HD││ NICKELODEON (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/89.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS SD││ DISNEY JR" tvg-logo="https://static.epg.best/se/DisneyJunior.se.png" group-title="││TV││ INFANTILES",││KIDS SD││ DISNEY JR
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/90.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││ FOX SPORT 1 CHILE [FHD]" tvg-logo="https://static.epg.best/mx/FoxSports.mx.png" group-title="││TV││⛹️ DEPORTE CHILE ⛹️",││CHL││ FOX SPORT 1 CHILE [FHD]
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/373.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="││COL│N│FOX SPORTS 1 FHD LATINO" tvg-logo="https://static.epg.best/mx/FoxSports.mx.png" group-title="││TV││⛹️ DEPORTE COLOMBIA ⛹️",││COL│N│FOX SPORTS 1 FHD LATINO
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/374.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="  ││MX││FOX SPORTS 1 MX [FHD]" tvg-logo="https://static.epg.best/mx/FoxSports.mx.png" group-title="││TV││⛹️ DEPORTE MEXICO ⛹️",  ││MX││FOX SPORTS 1 MX [FHD]
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/375.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="  ││MX││FOX SPORTS [FHD]" tvg-logo="https://static.epg.best/mx/FoxSports.mx.png" group-title="││TV││⛹️ DEPORTE MEXICO ⛹️",  ││MX││FOX SPORTS [FHD]
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/376.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││  FOX SPORT 2 CHILE [FHD]" tvg-logo="https://static.epg.best/mx/FoxSports2.mx.png" group-title="││TV││⛹️ DEPORTE CHILE ⛹️",││CHL││  FOX SPORT 2 CHILE [FHD]
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/377.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="││COL││FOX SPORTS 2 FHD LATINO" tvg-logo="https://static.epg.best/mx/FoxSports2.mx.png" group-title="││TV││⛹️ DEPORTE COLOMBIA ⛹️",││COL││FOX SPORTS 2 FHD LATINO
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/378.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="││COL││FOX SPORTS 2 FULL HD LATINO (N)" tvg-logo="https://static.epg.best/mx/FoxSports2.mx.png" group-title="││TV││⛹️ DEPORTE COLOMBIA ⛹️",││COL││FOX SPORTS 2 FULL HD LATINO (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/381.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" ││MX││FOX SPORTS 2  [FHD]" tvg-logo="https://static.epg.best/mx/FoxSports2.mx.png" group-title="││TV││⛹️ DEPORTE MEXICO ⛹️", ││MX││FOX SPORTS 2  [FHD]
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/379.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="  ││MX││ FOX SPORTS 3 [FHD]" tvg-logo="https://static.epg.best/mx/FoxSports3.mx.png" group-title="││TV││⛹️ DEPORTE MEXICO ⛹️",  ││MX││ FOX SPORTS 3 [FHD]
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/383.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="││COL││FOX SPORTS 3 FHD LATINO (N)" tvg-logo="https://static.epg.best/mx/FoxSports3.mx.png" group-title="││TV││⛹️ DEPORTE COLOMBIA ⛹️",││COL││FOX SPORTS 3 FHD LATINO (N)
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/384.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="││COL││FOX SPORTS 3 HD LATINO" tvg-logo="https://static.epg.best/mx/FoxSports3.mx.png" group-title="││TV││⛹️ DEPORTE COLOMBIA ⛹️",││COL││FOX SPORTS 3 HD LATINO
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/382.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││  TNT SPORTS ARGENTINA [FHD]" tvg-logo="https://static.epg.best/ar/TNTSports.ar.png" group-title="││TV││⛹️ DEPORTE ARGENTINA ⛹️",││ARG││  TNT SPORTS ARGENTINA [FHD]
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/386.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="││COL││WIN_SPORTS|| 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="││⛹️WIN SPORTS PREMIUM⛹️││",││COL││WIN_SPORTS|| 4K
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/197665.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="││COL││WIN_SPORTS || PLUS SD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="││⛹️WIN SPORTS PREMIUM⛹️││",││COL││WIN_SPORTS || PLUS SD 
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/197666.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="││COL││WIN_SPORTS || PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="││⛹️WIN SPORTS PREMIUM⛹️││",││COL││WIN_SPORTS || PLUS HD
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/197667.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="││COL││WIN_PREMIUM_PLUS 4K*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="││⛹️WIN SPORTS PREMIUM⛹️││",││COL││WIN_PREMIUM_PLUS 4K*
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/197668.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/uefa-champions-league-logo-0.png" group-title="││⛹️LIGA DE CAMPEONES DE LA UEFA⛹️││",ESPN 4K
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/215001.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2  4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/uefa-champions-league-logo-0.png" group-title="││⛹️LIGA DE CAMPEONES DE LA UEFA⛹️││",ESPN 2  4K
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/215002.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/uefa-champions-league-logo-0.png" group-title="││⛹️LIGA DE CAMPEONES DE LA UEFA⛹️││",ESPN 3 4K
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/215003.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV HARRY POTTER" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",CINE PPV HARRY POTTER
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/326.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV MOVIES | MARVEL" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",PPV MOVIES | MARVEL
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/436.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES  DRAGON BALL Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Dragon_Ball_Z_Logo.png" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES  DRAGON BALL Z
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/1439.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LOS SIMPSON" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Simpsons_FamilyPicture.png" group-title="││TV││SERIES 24/7",24/7 LOS SIMPSON
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/1440.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7  BOB ESPONJA" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/02/logo-SpongeBob-SquarePants.png" group-title="││TV││SERIES 24/7",24/7  BOB ESPONJA
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/1441.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | DRAGON BALL SUPER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | DRAGON BALL SUPER
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/1442.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | DRAGON BALL GT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | DRAGON BALL GT
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/1443.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | DRAGON BALL Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Dragon_Ball_Z_Logo.png" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | DRAGON BALL Z
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/1444.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES | CHAVO DEL OCHO " tvg-logo="https://static.wikia.nocookie.net/teniaqueserlawikidelchavo/images/0/06/Chavoposter.jpg/revision/latest/top-crop/width/360/height/450?cb=20211011204936&path-prefix=es" group-title="││TV││SERIES 24/7",24/7 SERIES | CHAVO DEL OCHO 
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/1445.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | CABALLERO DEL ZODIACO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Saint_Seiya_logo.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | CABALLERO DEL ZODIACO
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/1465.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | TOY STORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Toy_Story.svg/1200px-Toy_Story.svg.png" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | TOY STORY
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/1466.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | PICAPIEDRAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/The_Flintstones.png" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | PICAPIEDRAS
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/1467.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7  CASO CERRADO" tvg-logo="https://www.terra.cl/u/fotografias/m/2022/3/23/f768x1-22152_22279_5050.png" group-title="││TV││SERIES 24/7",24/7  CASO CERRADO
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/1468.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | DREAMWORKS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | DREAMWORKS
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/1472.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES  DIGIMON " tvg-logo="https://elregidordecine.com/wp-content/uploads/2020/03/curiosidades-de-digimon-adventure-serie-animacion-00.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES  DIGIMON 
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/1488.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR | FEAR THE WALKING DEAD" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDZkYTRjMWQtZThiOS00MjJlLWFkNDktNzNhODNhOWNlNjdjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES TERROR | FEAR THE WALKING DEAD
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/1507.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR | ESCALOFRIOS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmViMGI3NDYtYzIzNi00OTVlLWI1YjMtNDJiNmVmMzE3NjUxXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_UY1200_CR93,0,630,1200_AL_.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES TERROR | ESCALOFRIOS
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/1508.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVO TV SD" tvg-logo="https://i2.paste.pics/363bdf769b4b91716d6ebb6db72d1d4b.png" group-title="││TV││COMEDIA ",CHAVO TV SD
+http://gustvplay.com:8080/live/plan6meses5g/FvyhsMyyC5vZ/84027.m3u8
+
+
 
 
