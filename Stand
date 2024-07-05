@@ -13,3 +13,15 @@ https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-id="" tvg-name="TELE PASTO TV HD | CANAL TELEPASTO HD." tvg-logo="https://www.google.com/search?q=logo+telepasto&oq=logo+telepasto&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRifBTIHCAUQIRifBTIHCAYQIRifBTIHCAcQIRifBTIHCAgQIRifBdIBCDcyNjdqMGo0qAICsAIB&client=ms-android-americamovil-co-rvc3&sourceid=chrome-mobile&ie=UTF-8#vhid=zXp0vXmKSYyIwM&vssid=l" group-title="COLOMBIA",LAT | CANAL TELEPASTO HD
 https://hvtraficonew.ddns.net/telepasto/telepasto.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="I417.39719.zap2it.com" tvg-name="││COL││CARACOL FHD2 |Exclusivo|" tvg-logo="https://static.epg.best/co/Caracol.co.png" group-title="││TV││ COLOMBIA (TEST)",││COL││CARACOL FHD2 |Exclusivo|
+https://cdn.tvcolfta.xyz/static/streaming-playlists/hls/12d73526-fe77-47d5-916e-2bae52f7b5a6/0.m3u8
+
+#EXTINF:-1 tvg-id="I417.39719.zap2it.com" tvg-name="││COL││BIG TV |Exclusivo|"
+https://ssh101.bozztv.com/ssh101/canalonline/chunks.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-id="I417.39719.zap2it.com" tvg-name="││COL││CALI TV |Exclusivo|"
+https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/chunklist_w2098460197.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-id="I417.39719.zap2it.com" tvg-name="││COL││CARACOL FHD |Exclusivo|" tvg-logo="https://static.epg.best/co/Caracol.co.png" group-title="││TV││ COLOMBIA (TEST)",││COL││CARACOL FHD |Exclusivo|
+https://mdstrm.com/live-stream-gdai/58d1af11b6318eec59278b18/linear/hls/pa/event/VFTPWAY2SAG93w8vRjAeiw/stream/86cd1484-2820-4e70-a21f-418fdaa5a155:DLS/master.m3u8?uid=5CP4nhpWzC1lytlwxxHDwo661fJkd9TO&sid=T6YGbT00kA5ns1ehhc0uSmOBdrXe7vUv&pid=riUWkZibHIPUNA7fefABELG8Y2LPrq5j&an=screen&at=web-app&av=v6.0.15&ref=https%3A%2F%2Fwww.noticiascaracol.com%2F&res=387x217&without_cookies=false&listenerid=&dnt=true
